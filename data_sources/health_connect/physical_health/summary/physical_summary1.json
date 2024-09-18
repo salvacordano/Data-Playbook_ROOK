@@ -1,0 +1,2048 @@
+{
+    "version": 2,
+    "data_structure": "physical_summary",
+    "client_uuid": "000ec276-eddd-4860-94f0-adb27d3e4972",
+    "user_id": "6663dbc0546ffd3bd7f21290",
+    "physical_health": {
+      "summary": {
+        "physical_summary": {
+          "distance": {
+            "steps_int": 2549,
+            "steps_granular_data_array": [
+              {
+                "steps_int": 1,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 00:09:00+05:30"
+              },
+              {
+                "steps_int": 3,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 00:10:00+05:30"
+              },
+              {
+                "steps_int": 2,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 08:32:00+05:30"
+              },
+              {
+                "steps_int": 2,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 08:33:00+05:30"
+              },
+              {
+                "steps_int": 2,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 08:48:00+05:30"
+              },
+              {
+                "steps_int": 53,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 08:49:00+05:30"
+              },
+              {
+                "steps_int": 1,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 08:54:00+05:30"
+              },
+              {
+                "steps_int": 5,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 08:55:00+05:30"
+              },
+              {
+                "steps_int": 1,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 08:57:00+05:30"
+              },
+              {
+                "steps_int": 33,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 08:58:00+05:30"
+              },
+              {
+                "steps_int": 2,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 09:04:00+05:30"
+              },
+              {
+                "steps_int": 2,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 09:05:00+05:30"
+              },
+              {
+                "steps_int": 1,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 09:30:00+05:30"
+              },
+              {
+                "steps_int": 1,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 09:31:00+05:30"
+              },
+              {
+                "steps_int": 2,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 09:50:00+05:30"
+              },
+              {
+                "steps_int": 9,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 09:54:00+05:30"
+              },
+              {
+                "steps_int": 21,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 09:55:00+05:30"
+              },
+              {
+                "steps_int": 14,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 09:56:00+05:30"
+              },
+              {
+                "steps_int": 9,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 09:57:00+05:30"
+              },
+              {
+                "steps_int": 4,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 10:01:00+05:30"
+              },
+              {
+                "steps_int": 16,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 10:02:00+05:30"
+              },
+              {
+                "steps_int": 17,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 10:03:00+05:30"
+              },
+              {
+                "steps_int": 9,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 10:04:00+05:30"
+              },
+              {
+                "steps_int": 16,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 10:05:00+05:30"
+              },
+              {
+                "steps_int": 1,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 10:06:00+05:30"
+              },
+              {
+                "steps_int": 10,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 10:07:00+05:30"
+              },
+              {
+                "steps_int": 10,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 10:08:00+05:30"
+              },
+              {
+                "steps_int": 11,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 10:09:00+05:30"
+              },
+              {
+                "steps_int": 1,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 10:12:00+05:30"
+              },
+              {
+                "steps_int": 54,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 10:13:00+05:30"
+              },
+              {
+                "steps_int": 4,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 10:19:00+05:30"
+              },
+              {
+                "steps_int": 2,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 10:22:00+05:30"
+              },
+              {
+                "steps_int": 12,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 10:23:00+05:30"
+              },
+              {
+                "steps_int": 1,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 10:31:00+05:30"
+              },
+              {
+                "steps_int": 9,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 10:32:00+05:30"
+              },
+              {
+                "steps_int": 4,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 10:41:00+05:30"
+              },
+              {
+                "steps_int": 3,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 10:42:00+05:30"
+              },
+              {
+                "steps_int": 1,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 10:48:00+05:30"
+              },
+              {
+                "steps_int": 9,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 10:49:00+05:30"
+              },
+              {
+                "steps_int": 1,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 10:50:00+05:30"
+              },
+              {
+                "steps_int": 2,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 10:51:00+05:30"
+              },
+              {
+                "steps_int": 8,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 10:58:00+05:30"
+              },
+              {
+                "steps_int": 1,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 10:59:00+05:30"
+              },
+              {
+                "steps_int": 6,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 11:00:00+05:30"
+              },
+              {
+                "steps_int": 5,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 11:52:00+05:30"
+              },
+              {
+                "steps_int": 2,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 11:53:00+05:30"
+              },
+              {
+                "steps_int": 1,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 12:16:00+05:30"
+              },
+              {
+                "steps_int": 14,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 12:17:00+05:30"
+              },
+              {
+                "steps_int": 17,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 12:18:00+05:30"
+              },
+              {
+                "steps_int": 1,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 12:31:00+05:30"
+              },
+              {
+                "steps_int": 2,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 12:32:00+05:30"
+              },
+              {
+                "steps_int": 3,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 12:34:00+05:30"
+              },
+              {
+                "steps_int": 36,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 12:35:00+05:30"
+              },
+              {
+                "steps_int": 13,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 12:36:00+05:30"
+              },
+              {
+                "steps_int": 1,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 12:46:00+05:30"
+              },
+              {
+                "steps_int": 52,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 12:47:00+05:30"
+              },
+              {
+                "steps_int": 1,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 12:48:00+05:30"
+              },
+              {
+                "steps_int": 7,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 13:11:00+05:30"
+              },
+              {
+                "steps_int": 34,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 13:12:00+05:30"
+              },
+              {
+                "steps_int": 3,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 13:13:00+05:30"
+              },
+              {
+                "steps_int": 5,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 14:06:00+05:30"
+              },
+              {
+                "steps_int": 3,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 14:12:00+05:30"
+              },
+              {
+                "steps_int": 1,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 14:13:00+05:30"
+              },
+              {
+                "steps_int": 2,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 15:46:00+05:30"
+              },
+              {
+                "steps_int": 7,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 15:47:00+05:30"
+              },
+              {
+                "steps_int": 1,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 16:02:00+05:30"
+              },
+              {
+                "steps_int": 10,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 16:03:00+05:30"
+              },
+              {
+                "steps_int": 25,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 16:04:00+05:30"
+              },
+              {
+                "steps_int": 2,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 16:34:00+05:30"
+              },
+              {
+                "steps_int": 11,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 16:35:00+05:30"
+              },
+              {
+                "steps_int": 10,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 16:36:00+05:30"
+              },
+              {
+                "steps_int": 4,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 16:53:00+05:30"
+              },
+              {
+                "steps_int": 15,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 16:54:00+05:30"
+              },
+              {
+                "steps_int": 1,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:01:00+05:30"
+              },
+              {
+                "steps_int": 49,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:02:00+05:30"
+              },
+              {
+                "steps_int": 17,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:03:00+05:30"
+              },
+              {
+                "steps_int": 1,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:04:00+05:30"
+              },
+              {
+                "steps_int": 23,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:05:00+05:30"
+              },
+              {
+                "steps_int": 3,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:11:00+05:30"
+              },
+              {
+                "steps_int": 48,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:12:00+05:30"
+              },
+              {
+                "steps_int": 24,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:13:00+05:30"
+              },
+              {
+                "steps_int": 10,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:14:00+05:30"
+              },
+              {
+                "steps_int": 27,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:15:00+05:30"
+              },
+              {
+                "steps_int": 37,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:16:00+05:30"
+              },
+              {
+                "steps_int": 26,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:17:00+05:30"
+              },
+              {
+                "steps_int": 77,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:18:00+05:30"
+              },
+              {
+                "steps_int": 25,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:19:00+05:30"
+              },
+              {
+                "steps_int": 25,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:20:00+05:30"
+              },
+              {
+                "steps_int": 42,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:21:00+05:30"
+              },
+              {
+                "steps_int": 63,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:22:00+05:30"
+              },
+              {
+                "steps_int": 3,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:23:00+05:30"
+              },
+              {
+                "steps_int": 3,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:25:00+05:30"
+              },
+              {
+                "steps_int": 5,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:26:00+05:30"
+              },
+              {
+                "steps_int": 9,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:29:00+05:30"
+              },
+              {
+                "steps_int": 1,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:31:00+05:30"
+              },
+              {
+                "steps_int": 1,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:32:00+05:30"
+              },
+              {
+                "steps_int": 2,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:33:00+05:30"
+              },
+              {
+                "steps_int": 5,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:34:00+05:30"
+              },
+              {
+                "steps_int": 5,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:35:00+05:30"
+              },
+              {
+                "steps_int": 8,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:44:00+05:30"
+              },
+              {
+                "steps_int": 2,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:45:00+05:30"
+              },
+              {
+                "steps_int": 5,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:46:00+05:30"
+              },
+              {
+                "steps_int": 54,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:47:00+05:30"
+              },
+              {
+                "steps_int": 18,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:48:00+05:30"
+              },
+              {
+                "steps_int": 36,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:49:00+05:30"
+              },
+              {
+                "steps_int": 16,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:50:00+05:30"
+              },
+              {
+                "steps_int": 17,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:51:00+05:30"
+              },
+              {
+                "steps_int": 3,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:52:00+05:30"
+              },
+              {
+                "steps_int": 7,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:53:00+05:30"
+              },
+              {
+                "steps_int": 50,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:54:00+05:30"
+              },
+              {
+                "steps_int": 2,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:55:00+05:30"
+              },
+              {
+                "steps_int": 2,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:56:00+05:30"
+              },
+              {
+                "steps_int": 28,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:57:00+05:30"
+              },
+              {
+                "steps_int": 3,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:58:00+05:30"
+              },
+              {
+                "steps_int": 24,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:59:00+05:30"
+              },
+              {
+                "steps_int": 14,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 18:00:00+05:30"
+              },
+              {
+                "steps_int": 55,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 18:01:00+05:30"
+              },
+              {
+                "steps_int": 13,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 18:03:00+05:30"
+              },
+              {
+                "steps_int": 19,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 18:04:00+05:30"
+              },
+              {
+                "steps_int": 19,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 18:12:00+05:30"
+              },
+              {
+                "steps_int": 60,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 18:13:00+05:30"
+              },
+              {
+                "steps_int": 27,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 18:14:00+05:30"
+              },
+              {
+                "steps_int": 26,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 18:15:00+05:30"
+              },
+              {
+                "steps_int": 18,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 18:16:00+05:30"
+              },
+              {
+                "steps_int": 27,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 18:17:00+05:30"
+              },
+              {
+                "steps_int": 11,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 18:18:00+05:30"
+              },
+              {
+                "steps_int": 6,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 18:19:00+05:30"
+              },
+              {
+                "steps_int": 16,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 18:20:00+05:30"
+              },
+              {
+                "steps_int": 1,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 18:21:00+05:30"
+              },
+              {
+                "steps_int": 27,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 18:22:00+05:30"
+              },
+              {
+                "steps_int": 8,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 18:23:00+05:30"
+              },
+              {
+                "steps_int": 8,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 18:24:00+05:30"
+              },
+              {
+                "steps_int": 1,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 18:26:00+05:30"
+              },
+              {
+                "steps_int": 1,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 18:27:00+05:30"
+              },
+              {
+                "steps_int": 1,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 18:44:00+05:30"
+              },
+              {
+                "steps_int": 12,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 18:45:00+05:30"
+              },
+              {
+                "steps_int": 1,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 18:46:00+05:30"
+              },
+              {
+                "steps_int": 1,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 18:47:00+05:30"
+              },
+              {
+                "steps_int": 4,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 18:53:00+05:30"
+              },
+              {
+                "steps_int": 41,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 18:54:00+05:30"
+              },
+              {
+                "steps_int": 3,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 18:56:00+05:30"
+              },
+              {
+                "steps_int": 29,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 18:57:00+05:30"
+              },
+              {
+                "steps_int": 6,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 19:03:00+05:30"
+              },
+              {
+                "steps_int": 4,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 19:14:00+05:30"
+              },
+              {
+                "steps_int": 6,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 19:15:00+05:30"
+              },
+              {
+                "steps_int": 2,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 19:20:00+05:30"
+              },
+              {
+                "steps_int": 18,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 19:21:00+05:30"
+              },
+              {
+                "steps_int": 10,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 19:22:00+05:30"
+              },
+              {
+                "steps_int": 7,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 19:23:00+05:30"
+              },
+              {
+                "steps_int": 30,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 19:24:00+05:30"
+              },
+              {
+                "steps_int": 1,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 19:25:00+05:30"
+              },
+              {
+                "steps_int": 16,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 19:26:00+05:30"
+              },
+              {
+                "steps_int": 26,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 19:27:00+05:30"
+              },
+              {
+                "steps_int": 12,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 19:28:00+05:30"
+              },
+              {
+                "steps_int": 1,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 19:35:00+05:30"
+              },
+              {
+                "steps_int": 11,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 19:36:00+05:30"
+              },
+              {
+                "steps_int": 47,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 19:37:00+05:30"
+              },
+              {
+                "steps_int": 1,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 19:38:00+05:30"
+              },
+              {
+                "steps_int": 2,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 19:39:00+05:30"
+              },
+              {
+                "steps_int": 1,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 19:47:00+05:30"
+              },
+              {
+                "steps_int": 10,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 19:48:00+05:30"
+              },
+              {
+                "steps_int": 1,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 19:49:00+05:30"
+              },
+              {
+                "steps_int": 19,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 19:50:00+05:30"
+              },
+              {
+                "steps_int": 7,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 19:51:00+05:30"
+              },
+              {
+                "steps_int": 4,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 20:04:00+05:30"
+              },
+              {
+                "steps_int": 7,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 20:05:00+05:30"
+              },
+              {
+                "steps_int": 3,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 20:48:00+05:30"
+              },
+              {
+                "steps_int": 6,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 20:49:00+05:30"
+              },
+              {
+                "steps_int": 3,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 21:21:00+05:30"
+              },
+              {
+                "steps_int": 4,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 21:58:00+05:30"
+              },
+              {
+                "steps_int": 11,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 21:59:00+05:30"
+              },
+              {
+                "steps_int": 46,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 22:00:00+05:30"
+              },
+              {
+                "steps_int": 1,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 22:02:00+05:30"
+              },
+              {
+                "steps_int": 15,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 22:03:00+05:30"
+              },
+              {
+                "steps_int": 16,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 22:04:00+05:30"
+              },
+              {
+                "steps_int": 9,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 22:08:00+05:30"
+              },
+              {
+                "steps_int": 14,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 22:09:00+05:30"
+              },
+              {
+                "steps_int": 2,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 22:12:00+05:30"
+              },
+              {
+                "steps_int": 31,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 22:13:00+05:30"
+              },
+              {
+                "steps_int": 27,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 22:14:00+05:30"
+              },
+              {
+                "steps_int": 50,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 22:15:00+05:30"
+              },
+              {
+                "steps_int": 34,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 22:16:00+05:30"
+              },
+              {
+                "steps_int": 1,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 22:17:00+05:30"
+              },
+              {
+                "steps_int": 34,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 22:18:00+05:30"
+              },
+              {
+                "steps_int": 2,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 22:22:00+05:30"
+              },
+              {
+                "steps_int": 2,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 22:23:00+05:30"
+              },
+              {
+                "steps_int": 5,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 22:39:00+05:30"
+              },
+              {
+                "steps_int": 45,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 22:40:00+05:30"
+              },
+              {
+                "steps_int": 2,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 22:41:00+05:30"
+              },
+              {
+                "steps_int": 6,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 22:42:00+05:30"
+              },
+              {
+                "steps_int": 2,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 22:43:00+05:30"
+              },
+              {
+                "steps_int": 2,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 23:20:00+05:30"
+              },
+              {
+                "steps_int": 1,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 23:21:00+05:30"
+              },
+              {
+                "steps_int": 3,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 23:23:00+05:30"
+              },
+              {
+                "steps_int": 2,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 23:48:00+05:30"
+              },
+              {
+                "steps_int": 1,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 23:49:00+05:30"
+              }
+            ],
+            "active_steps_int": null,
+            "active_steps_granular_data_array": [],
+            "walked_distance_meters_float": null,
+            "traveled_distance_meters_float": 1784.2600096482784,
+            "traveled_distance_granular_data_array": [
+              {
+                "traveled_distance_meters_float": 0.6900000153109431,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 00:09:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 2.0600000862032175,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 00:10:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 1.3699999544769526,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 08:32:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 1.3699999544769526,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 08:33:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 1.3699999544769526,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 08:48:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 36.309998482465744,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 08:49:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 0.6900000153109431,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 08:54:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 3.43000004068017,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 08:55:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 0.6900000153109431,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 08:57:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 22.609999403357506,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 08:58:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 1.3699999544769526,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 09:04:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 1.3699999544769526,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 09:05:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 0.6900000153109431,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 09:30:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 0.6900000153109431,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 09:31:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 1.3699999544769526,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 09:50:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 6.169999949634075,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 09:54:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 14.390000142157078,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 09:55:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 9.589999914169312,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 09:56:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 6.169999949634075,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 09:57:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 2.739999908953905,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 10:01:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 10.95999963581562,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 10:02:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 11.649999767541885,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 10:03:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 6.169999949634075,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 10:04:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 10.95999963581562,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 10:05:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 0.6900000153109431,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 10:06:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 6.850000005215406,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 10:07:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 6.850000005215406,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 10:08:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 7.540000136941671,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 10:09:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 0.6900000153109431,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 10:12:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 36.990001797676086,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 10:13:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 2.739999908953905,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 10:19:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 1.3699999544769526,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 10:22:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 8.220000192523003,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 10:23:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 0.6900000153109431,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 10:31:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 6.169999949634075,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 10:32:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 2.739999908953905,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 10:41:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 2.0600000862032175,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 10:42:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 0.6900000153109431,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 10:48:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 6.169999949634075,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 10:49:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 0.6900000153109431,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 10:50:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 1.3699999544769526,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 10:51:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 5.47999981790781,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 10:58:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 0.6900000153109431,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 10:59:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 4.110000096261501,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 11:00:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 3.43000004068017,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 11:52:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 1.3699999544769526,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 11:53:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 0.6900000153109431,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 12:16:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 9.589999914169312,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 12:17:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 11.649999767541885,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 12:18:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 0.6900000153109431,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 12:31:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 1.3699999544769526,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 12:32:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 2.0600000862032175,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 12:34:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 24.660000577569008,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 12:35:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 8.910000324249268,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 12:36:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 0.6900000153109431,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 12:46:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 35.62000021338463,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 12:47:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 0.6900000153109431,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 12:48:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 4.800000227987766,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 13:11:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 23.2900008559227,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 13:12:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 2.0600000862032175,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 13:13:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 3.43000004068017,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 14:06:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 2.0600000862032175,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 14:12:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 0.6900000153109431,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 14:13:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 1.3699999544769526,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 15:46:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 4.800000227987766,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 15:47:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 0.6900000153109431,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 16:02:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 6.850000005215406,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 16:03:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 17.13000051677227,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 16:04:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 1.3699999544769526,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 16:34:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 7.540000136941671,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 16:35:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 6.850000005215406,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 16:36:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 2.739999908953905,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 16:53:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 10.280000045895576,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 16:54:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 0.6900000153109431,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:01:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 33.569999039173126,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:02:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 11.649999767541885,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:03:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 0.6900000153109431,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:04:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 15.760000795125961,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:05:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 2.0600000862032175,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:11:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 32.88000077009201,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:12:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 16.440000385046005,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:13:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 6.850000005215406,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:14:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 18.50000023841858,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:15:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 25.350000709295273,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:16:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 17.810000106692314,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:17:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 90.40000289678574,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:18:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 17.13000051677227,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:19:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 17.13000051677227,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:20:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 28.769999742507935,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:21:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 43.15999895334244,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:22:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 2.0600000862032175,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:23:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 2.0600000862032175,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:25:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 3.43000004068017,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:26:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 6.169999949634075,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:29:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 0.6900000153109431,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:31:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 0.6900000153109431,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:32:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 1.3699999544769526,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:33:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 3.43000004068017,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:34:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 3.43000004068017,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:35:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 5.47999981790781,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:44:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 1.3699999544769526,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:45:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 3.43000004068017,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:46:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 36.990001797676086,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:47:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 12.330000288784504,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:48:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 24.660000577569008,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:49:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 10.95999963581562,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:50:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 11.649999767541885,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:51:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 2.0600000862032175,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:52:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 4.800000227987766,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:53:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 34.24999862909317,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:54:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 1.3699999544769526,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:55:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 1.3699999544769526,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:56:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 19.179999828338623,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:57:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 2.0600000862032175,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:58:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 16.440000385046005,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 17:59:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 9.589999914169312,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 18:00:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 37.6800000667572,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 18:01:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 8.910000324249268,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 18:03:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 13.020000420510769,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 18:04:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 13.020000420510769,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 18:12:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 41.099999099969864,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 18:13:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 18.50000023841858,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 18:14:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 17.810000106692314,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 18:15:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 12.330000288784504,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 18:16:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 18.50000023841858,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 18:17:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 7.540000136941671,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 18:18:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 4.110000096261501,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 18:19:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 10.95999963581562,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 18:20:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 0.6900000153109431,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 18:21:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 18.50000023841858,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 18:22:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 5.47999981790781,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 18:23:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 5.47999981790781,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 18:24:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 0.6900000153109431,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 18:26:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 0.6900000153109431,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 18:27:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 0.6900000153109431,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 18:44:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 8.220000192523003,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 18:45:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 0.6900000153109431,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 18:46:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 0.6900000153109431,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 18:47:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 2.739999908953905,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 18:53:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 28.09000015258789,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 18:54:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 2.0600000862032175,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 18:56:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 19.869999960064888,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 18:57:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 4.110000096261501,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 19:03:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 2.739999908953905,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 19:14:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 4.110000096261501,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 19:15:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 1.3699999544769526,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 19:20:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 12.330000288784504,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 19:21:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 6.850000005215406,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 19:22:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 4.800000227987766,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 19:23:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 20.549999549984932,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 19:24:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 0.6900000153109431,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 19:25:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 10.95999963581562,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 19:26:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 17.810000106692314,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 19:27:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 8.220000192523003,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 19:28:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 0.6900000153109431,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 19:35:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 7.540000136941671,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 19:36:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 32.20000118017197,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 19:37:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 0.6900000153109431,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 19:38:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 1.3699999544769526,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 19:39:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 0.6900000153109431,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 19:47:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 6.850000005215406,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 19:48:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 0.6900000153109431,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 19:49:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 13.020000420510769,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 19:50:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 4.800000227987766,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 19:51:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 2.739999908953905,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 20:04:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 4.800000227987766,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 20:05:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 2.0600000862032175,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 20:48:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 4.110000096261501,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 20:49:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 2.0600000862032175,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 21:21:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 2.739999908953905,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 21:58:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 7.540000136941671,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 21:59:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 31.509999185800552,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 22:00:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 0.6900000153109431,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 22:02:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 10.280000045895576,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 22:03:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 10.95999963581562,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 22:04:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 6.169999949634075,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 22:08:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 9.589999914169312,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 22:09:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 1.3699999544769526,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 22:12:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 21.239999681711197,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 22:13:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 18.50000023841858,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 22:14:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 34.24999862909317,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 22:15:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 23.2900008559227,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 22:16:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 0.6900000153109431,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 22:17:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 23.2900008559227,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 22:18:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 1.3699999544769526,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 22:22:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 1.3699999544769526,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 22:23:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 3.43000004068017,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 22:39:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 30.82999959588051,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 22:40:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 1.3699999544769526,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 22:41:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 4.110000096261501,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 22:42:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 1.3699999544769526,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 22:43:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 1.3699999544769526,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 23:20:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 0.6900000153109431,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 23:21:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 2.0600000862032175,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 23:23:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 1.3699999544769526,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 23:48:00+05:30"
+              },
+              {
+                "traveled_distance_meters_float": 0.6900000153109431,
+                "interval_duration_seconds_float": 60.0,
+                "datetime_string": "2024-06-07 23:49:00+05:30"
+              }
+            ],
+            "floors_climbed_float": null,
+            "floors_climbed_granular_data_array": [],
+            "elevation_avg_altitude_meters_float": null,
+            "elevation_minimum_altitude_meters_float": null,
+            "elevation_maximum_altitude_meters_float": null,
+            "elevation_loss_actual_altitude_meters_float": null,
+            "elevation_gain_actual_altitude_meters_float": null,
+            "elevation_planned_gain_meters_float": null,
+            "elevation_granular_data_array": [],
+            "swimming_num_strokes_float": null,
+            "swimming_num_laps_int": null,
+            "swimming_pool_length_meters_float": null,
+            "swimming_total_distance_meters_float": null,
+            "swimming_distance_granular_data_array": []
+          },
+          "oxygenation": {
+            "saturation_avg_percentage_int": null,
+            "saturation_granular_data_array": [],
+            "vo2max_mL_per_min_per_kg_int": null,
+            "vo2_granular_data_array": []
+          },
+          "activity": {
+            "active_seconds_int": null,
+            "rest_seconds_int": null,
+            "low_intensity_seconds_int": null,
+            "moderate_intensity_seconds_int": null,
+            "vigorous_intensity_seconds_int": null,
+            "inactivity_seconds_int": null,
+            "activity_level_granular_data_array": [],
+            "continuous_inactive_periods_int": null
+          },
+          "calories": {
+            "calories_net_intake_kcal_float": null,
+            "calories_expenditure_kcal_float": 1735.9780909903182,
+            "calories_net_active_kcal_float": null,
+            "calories_basal_metabolic_rate_kcal_float": null
+          },
+          "heart_rate": {
+            "hr_maximum_bpm_int": null,
+            "hr_minimum_bpm_int": null,
+            "hr_avg_bpm_int": null,
+            "hr_resting_bpm_int": null,
+            "hr_granular_data_array": [],
+            "hrv_avg_rmssd_float": null,
+            "hrv_avg_sdnn_float": null,
+            "hrv_sdnn_granular_data_array": [],
+            "hrv_rmssd_granular_data_array": []
+          },
+          "stress": {
+            "stress_at_rest_duration_seconds_int": null,
+            "stress_duration_seconds_int": null,
+            "low_stress_duration_seconds_int": null,
+            "medium_stress_duration_seconds_int": null,
+            "high_stress_duration_seconds_int": null,
+            "stress_granular_data_array": [],
+            "stress_avg_level_int": null,
+            "stress_maximum_level_int": null
+          },
+          "metadata": {
+            "datetime_string": "2024-06-07T00:00:00.000000+05:30",
+            "user_id_string": "6663dbc0546ffd3bd7f21290",
+            "sources_of_data_array": [
+              "Health Connect"
+            ]
+          },
+          "non_structured_data": []
+        }
+      }
+    }
+  }

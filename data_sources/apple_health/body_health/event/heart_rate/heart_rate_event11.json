@@ -1,0 +1,67 @@
+{
+    "version": 2,
+    "data_structure": "heart_rate_event",
+    "client_uuid": "b14ece1d-a4c0-42e6-8ce0-6289178e5571",
+    "user_id": "667859a3546ffd3bd7f73ffb",
+    "body_health": {
+      "events": {
+        "heart_rate_event": [
+          {
+            "metadata": {
+              "datetime_string": "2024-06-23T17:02:50.448000+01:00",
+              "user_id_string": "667859a3546ffd3bd7f73ffb",
+              "sources_of_data_array": [
+                "Apple Health"
+              ],
+              "was_the_user_under_physical_activity_bool": false
+            },
+            "heart_rate": {
+              "hr_maximum_bpm_int": 122,
+              "hr_minimum_bpm_int": 78,
+              "hr_avg_bpm_int": 88,
+              "hr_resting_bpm_int": null,
+              "hr_granular_data_array": [
+                {
+                  "hr_bpm_int": 82,
+                  "datetime_string": "2024-06-23 17:02:50.448000+01:00"
+                },
+                {
+                  "hr_bpm_int": 83,
+                  "datetime_string": "2024-06-23 17:03:59.448000+01:00"
+                },
+                {
+                  "hr_bpm_int": 88,
+                  "datetime_string": "2024-06-23 17:11:33.948000+01:00"
+                },
+                {
+                  "hr_bpm_int": 84,
+                  "datetime_string": "2024-06-23 17:20:57.948000+01:00"
+                },
+                {
+                  "hr_bpm_int": 86,
+                  "datetime_string": "2024-06-23 17:26:41.948000+01:00"
+                },
+                {
+                  "hr_bpm_int": 85,
+                  "datetime_string": "2024-06-23 17:28:55.948000+01:00"
+                },
+                {
+                  "hr_bpm_int": 122,
+                  "datetime_string": "2024-06-23 17:57:57.449000+01:00"
+                },
+                {
+                  "hr_bpm_int": 78,
+                  "datetime_string": "2024-06-23 17:59:47.573000+01:00"
+                }
+              ],
+              "hrv_avg_rmssd_float": null,
+              "hrv_avg_sdnn_float": null,
+              "hrv_sdnn_granular_data_array": [],
+              "hrv_rmssd_granular_data_array": []
+            },
+            "non_structured_data_array": []
+          }
+        ]
+      }
+    }
+  }

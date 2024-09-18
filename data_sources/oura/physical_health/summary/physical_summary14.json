@@ -1,0 +1,86 @@
+{
+    "version": 2,
+    "data_structure": "physical_summary",
+    "client_uuid": "0aa2001a-a21d-4f1f-9169-cebea3e0b4e3",
+    "user_id": "6669399d546ffd3bd7859670",
+    "physical_health": {
+      "summary": {
+        "physical_summary": {
+          "distance": {
+            "steps_int": 14488,
+            "steps_granular_data_array": [],
+            "active_steps_int": null,
+            "active_steps_granular_data_array": [],
+            "walked_distance_meters_float": 15339.0,
+            "traveled_distance_meters_float": null,
+            "traveled_distance_granular_data_array": [],
+            "floors_climbed_float": null,
+            "floors_climbed_granular_data_array": [],
+            "elevation_avg_altitude_meters_float": null,
+            "elevation_minimum_altitude_meters_float": null,
+            "elevation_maximum_altitude_meters_float": null,
+            "elevation_loss_actual_altitude_meters_float": null,
+            "elevation_gain_actual_altitude_meters_float": null,
+            "elevation_planned_gain_meters_float": null,
+            "elevation_granular_data_array": [],
+            "swimming_num_strokes_float": null,
+            "swimming_num_laps_int": null,
+            "swimming_pool_length_meters_float": null,
+            "swimming_total_distance_meters_float": null,
+            "swimming_distance_granular_data_array": []
+          },
+          "oxygenation": {
+            "saturation_avg_percentage_int": null,
+            "saturation_granular_data_array": [],
+            "vo2max_mL_per_min_per_kg_int": null,
+            "vo2_granular_data_array": []
+          },
+          "activity": {
+            "active_seconds_int": null,
+            "rest_seconds_int": 17640,
+            "low_intensity_seconds_int": 17040,
+            "moderate_intensity_seconds_int": null,
+            "vigorous_intensity_seconds_int": null,
+            "inactivity_seconds_int": null,
+            "activity_level_granular_data_array": [],
+            "continuous_inactive_periods_int": null
+          },
+          "calories": {
+            "calories_net_intake_kcal_float": null,
+            "calories_expenditure_kcal_float": 3329.0,
+            "calories_net_active_kcal_float": 904.0,
+            "calories_basal_metabolic_rate_kcal_float": null
+          },
+          "heart_rate": {
+            "hr_maximum_bpm_int": null,
+            "hr_minimum_bpm_int": null,
+            "hr_avg_bpm_int": null,
+            "hr_resting_bpm_int": null,
+            "hr_granular_data_array": [],
+            "hrv_avg_rmssd_float": null,
+            "hrv_avg_sdnn_float": null,
+            "hrv_sdnn_granular_data_array": [],
+            "hrv_rmssd_granular_data_array": []
+          },
+          "stress": {
+            "stress_at_rest_duration_seconds_int": null,
+            "stress_duration_seconds_int": null,
+            "low_stress_duration_seconds_int": null,
+            "medium_stress_duration_seconds_int": null,
+            "high_stress_duration_seconds_int": null,
+            "stress_granular_data_array": [],
+            "stress_avg_level_int": null,
+            "stress_maximum_level_int": null
+          },
+          "metadata": {
+            "datetime_string": "2024-06-11T04:00:00.000000-04:00",
+            "user_id_string": "6669399d546ffd3bd7859670",
+            "sources_of_data_array": [
+              "Oura"
+            ]
+          },
+          "non_structured_data": []
+        }
+      }
+    }
+  }

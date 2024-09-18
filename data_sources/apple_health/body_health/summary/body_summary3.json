@@ -1,0 +1,2126 @@
+{
+    "version": 2,
+    "data_structure": "body_summary",
+    "client_uuid": "95835865-3076-4c33-8af6-e8472ab16bf8",
+    "user_id": "666b6deb546ffd3bd73dc257",
+    "body_health": {
+      "summary": {
+        "body_summary": {
+          "body_metrics": {
+            "waist_circumference_cm_int": null,
+            "hip_circumference_cm_int": null,
+            "chest_circumference_cm_int": null,
+            "bone_composition_percentage_int": null,
+            "muscle_composition_percentage_int": null,
+            "water_composition_percentage_int": null,
+            "weight_kg_float": 66.0,
+            "height_cm_int": 175,
+            "bmi_float": 21.0
+          },
+          "blood_glucose": {
+            "blood_glucose_avg_mg_per_dL_int": null,
+            "blood_glucose_granular_data_array": []
+          },
+          "blood_pressure": {
+            "blood_pressure_avg_object": {},
+            "blood_pressure_granular_data_array": []
+          },
+          "hydration": {
+            "water_total_consumption_mL_int": null,
+            "hydration_amount_granular_data_array": [],
+            "hydration_level_granular_data_array": []
+          },
+          "heart_rate": {
+            "hr_maximum_bpm_int": 170,
+            "hr_minimum_bpm_int": 44,
+            "hr_avg_bpm_int": 95,
+            "hr_resting_bpm_int": 67,
+            "hr_granular_data_array": [
+              {
+                "hr_bpm_int": 78,
+                "datetime_string": "2024-06-13 00:05:07.073000+03:00"
+              },
+              {
+                "hr_bpm_int": 70,
+                "datetime_string": "2024-06-13 00:09:08.073000+03:00"
+              },
+              {
+                "hr_bpm_int": 88,
+                "datetime_string": "2024-06-13 00:16:23.073000+03:00"
+              },
+              {
+                "hr_bpm_int": 91,
+                "datetime_string": "2024-06-13 00:22:41.573000+03:00"
+              },
+              {
+                "hr_bpm_int": 71,
+                "datetime_string": "2024-06-13 00:29:34.573000+03:00"
+              },
+              {
+                "hr_bpm_int": 70,
+                "datetime_string": "2024-06-13 00:30:44.906000+03:00"
+              },
+              {
+                "hr_bpm_int": 69,
+                "datetime_string": "2024-06-13 00:31:01.323000+03:00"
+              },
+              {
+                "hr_bpm_int": 70,
+                "datetime_string": "2024-06-13 00:37:18.573000+03:00"
+              },
+              {
+                "hr_bpm_int": 80,
+                "datetime_string": "2024-06-13 00:44:36.073000+03:00"
+              },
+              {
+                "hr_bpm_int": 86,
+                "datetime_string": "2024-06-13 00:49:30.572000+03:00"
+              },
+              {
+                "hr_bpm_int": 80,
+                "datetime_string": "2024-06-13 00:53:10.822000+03:00"
+              },
+              {
+                "hr_bpm_int": 68,
+                "datetime_string": "2024-06-13 00:56:37.822000+03:00"
+              },
+              {
+                "hr_bpm_int": 66,
+                "datetime_string": "2024-06-13 01:04:07.822000+03:00"
+              },
+              {
+                "hr_bpm_int": 66,
+                "datetime_string": "2024-06-13 01:05:42.822000+03:00"
+              },
+              {
+                "hr_bpm_int": 67,
+                "datetime_string": "2024-06-13 01:10:35.322000+03:00"
+              },
+              {
+                "hr_bpm_int": 68,
+                "datetime_string": "2024-06-13 01:15:30.822000+03:00"
+              },
+              {
+                "hr_bpm_int": 67,
+                "datetime_string": "2024-06-13 01:20:53.322000+03:00"
+              },
+              {
+                "hr_bpm_int": 67,
+                "datetime_string": "2024-06-13 01:28:29.322000+03:00"
+              },
+              {
+                "hr_bpm_int": 70,
+                "datetime_string": "2024-06-13 01:31:29.572000+03:00"
+              },
+              {
+                "hr_bpm_int": 65,
+                "datetime_string": "2024-06-13 01:36:41.822000+03:00"
+              },
+              {
+                "hr_bpm_int": 67,
+                "datetime_string": "2024-06-13 01:42:06.822000+03:00"
+              },
+              {
+                "hr_bpm_int": 67,
+                "datetime_string": "2024-06-13 01:45:16.822000+03:00"
+              },
+              {
+                "hr_bpm_int": 66,
+                "datetime_string": "2024-06-13 01:50:13.322000+03:00"
+              },
+              {
+                "hr_bpm_int": 66,
+                "datetime_string": "2024-06-13 01:55:37.822000+03:00"
+              },
+              {
+                "hr_bpm_int": 67,
+                "datetime_string": "2024-06-13 02:01:50.822000+03:00"
+              },
+              {
+                "hr_bpm_int": 68,
+                "datetime_string": "2024-06-13 02:04:43.522000+03:00"
+              },
+              {
+                "hr_bpm_int": 67,
+                "datetime_string": "2024-06-13 02:06:18.322000+03:00"
+              },
+              {
+                "hr_bpm_int": 68,
+                "datetime_string": "2024-06-13 02:12:07.322000+03:00"
+              },
+              {
+                "hr_bpm_int": 65,
+                "datetime_string": "2024-06-13 02:18:05.822000+03:00"
+              },
+              {
+                "hr_bpm_int": 67,
+                "datetime_string": "2024-06-13 02:20:12.322000+03:00"
+              },
+              {
+                "hr_bpm_int": 67,
+                "datetime_string": "2024-06-13 02:29:36.072000+03:00"
+              },
+              {
+                "hr_bpm_int": 72,
+                "datetime_string": "2024-06-13 02:31:33.072000+03:00"
+              },
+              {
+                "hr_bpm_int": 71,
+                "datetime_string": "2024-06-13 02:35:22.072000+03:00"
+              },
+              {
+                "hr_bpm_int": 71,
+                "datetime_string": "2024-06-13 02:41:49.072000+03:00"
+              },
+              {
+                "hr_bpm_int": 66,
+                "datetime_string": "2024-06-13 02:46:06.072000+03:00"
+              },
+              {
+                "hr_bpm_int": 69,
+                "datetime_string": "2024-06-13 02:51:58.572000+03:00"
+              },
+              {
+                "hr_bpm_int": 68,
+                "datetime_string": "2024-06-13 02:55:43.322000+03:00"
+              },
+              {
+                "hr_bpm_int": 70,
+                "datetime_string": "2024-06-13 03:01:26.822000+03:00"
+              },
+              {
+                "hr_bpm_int": 65,
+                "datetime_string": "2024-06-13 03:05:12.322000+03:00"
+              },
+              {
+                "hr_bpm_int": 61,
+                "datetime_string": "2024-06-13 03:10:43.822000+03:00"
+              },
+              {
+                "hr_bpm_int": 61,
+                "datetime_string": "2024-06-13 03:15:14.322000+03:00"
+              },
+              {
+                "hr_bpm_int": 60,
+                "datetime_string": "2024-06-13 03:20:40.322000+03:00"
+              },
+              {
+                "hr_bpm_int": 60,
+                "datetime_string": "2024-06-13 03:25:14.322000+03:00"
+              },
+              {
+                "hr_bpm_int": 61,
+                "datetime_string": "2024-06-13 03:30:14.322000+03:00"
+              },
+              {
+                "hr_bpm_int": 60,
+                "datetime_string": "2024-06-13 03:36:09.322000+03:00"
+              },
+              {
+                "hr_bpm_int": 59,
+                "datetime_string": "2024-06-13 03:41:14.322000+03:00"
+              },
+              {
+                "hr_bpm_int": 58,
+                "datetime_string": "2024-06-13 03:45:59.322000+03:00"
+              },
+              {
+                "hr_bpm_int": 59,
+                "datetime_string": "2024-06-13 03:50:29.322000+03:00"
+              },
+              {
+                "hr_bpm_int": 59,
+                "datetime_string": "2024-06-13 03:55:54.322000+03:00"
+              },
+              {
+                "hr_bpm_int": 63,
+                "datetime_string": "2024-06-13 04:01:49.322000+03:00"
+              },
+              {
+                "hr_bpm_int": 62,
+                "datetime_string": "2024-06-13 04:07:09.322000+03:00"
+              },
+              {
+                "hr_bpm_int": 67,
+                "datetime_string": "2024-06-13 04:11:11.822000+03:00"
+              },
+              {
+                "hr_bpm_int": 64,
+                "datetime_string": "2024-06-13 04:15:14.322000+03:00"
+              },
+              {
+                "hr_bpm_int": 65,
+                "datetime_string": "2024-06-13 04:20:14.322000+03:00"
+              },
+              {
+                "hr_bpm_int": 62,
+                "datetime_string": "2024-06-13 04:27:34.322000+03:00"
+              },
+              {
+                "hr_bpm_int": 62,
+                "datetime_string": "2024-06-13 04:30:29.322000+03:00"
+              },
+              {
+                "hr_bpm_int": 63,
+                "datetime_string": "2024-06-13 04:37:44.322000+03:00"
+              },
+              {
+                "hr_bpm_int": 63,
+                "datetime_string": "2024-06-13 04:40:39.322000+03:00"
+              },
+              {
+                "hr_bpm_int": 60,
+                "datetime_string": "2024-06-13 04:45:19.322000+03:00"
+              },
+              {
+                "hr_bpm_int": 59,
+                "datetime_string": "2024-06-13 04:50:14.322000+03:00"
+              },
+              {
+                "hr_bpm_int": 59,
+                "datetime_string": "2024-06-13 04:55:44.322000+03:00"
+              },
+              {
+                "hr_bpm_int": 58,
+                "datetime_string": "2024-06-13 05:00:24.322000+03:00"
+              },
+              {
+                "hr_bpm_int": 58,
+                "datetime_string": "2024-06-13 05:05:29.322000+03:00"
+              },
+              {
+                "hr_bpm_int": 60,
+                "datetime_string": "2024-06-13 05:12:51.072000+03:00"
+              },
+              {
+                "hr_bpm_int": 61,
+                "datetime_string": "2024-06-13 05:16:00.572000+03:00"
+              },
+              {
+                "hr_bpm_int": 61,
+                "datetime_string": "2024-06-13 05:20:18.572000+03:00"
+              },
+              {
+                "hr_bpm_int": 61,
+                "datetime_string": "2024-06-13 05:25:17.572000+03:00"
+              },
+              {
+                "hr_bpm_int": 61,
+                "datetime_string": "2024-06-13 05:30:15.572000+03:00"
+              },
+              {
+                "hr_bpm_int": 61,
+                "datetime_string": "2024-06-13 05:35:15.572000+03:00"
+              },
+              {
+                "hr_bpm_int": 60,
+                "datetime_string": "2024-06-13 05:40:59.072000+03:00"
+              },
+              {
+                "hr_bpm_int": 61,
+                "datetime_string": "2024-06-13 05:45:20.572000+03:00"
+              },
+              {
+                "hr_bpm_int": 61,
+                "datetime_string": "2024-06-13 05:50:13.572000+03:00"
+              },
+              {
+                "hr_bpm_int": 61,
+                "datetime_string": "2024-06-13 05:56:00.572000+03:00"
+              },
+              {
+                "hr_bpm_int": 61,
+                "datetime_string": "2024-06-13 06:00:55.572000+03:00"
+              },
+              {
+                "hr_bpm_int": 61,
+                "datetime_string": "2024-06-13 06:04:42.139000+03:00"
+              },
+              {
+                "hr_bpm_int": 62,
+                "datetime_string": "2024-06-13 06:05:47.072000+03:00"
+              },
+              {
+                "hr_bpm_int": 59,
+                "datetime_string": "2024-06-13 06:13:12.072000+03:00"
+              },
+              {
+                "hr_bpm_int": 60,
+                "datetime_string": "2024-06-13 06:15:22.072000+03:00"
+              },
+              {
+                "hr_bpm_int": 60,
+                "datetime_string": "2024-06-13 06:20:12.572000+03:00"
+              },
+              {
+                "hr_bpm_int": 61,
+                "datetime_string": "2024-06-13 06:27:07.072000+03:00"
+              },
+              {
+                "hr_bpm_int": 60,
+                "datetime_string": "2024-06-13 06:31:07.322000+03:00"
+              },
+              {
+                "hr_bpm_int": 60,
+                "datetime_string": "2024-06-13 06:35:22.322000+03:00"
+              },
+              {
+                "hr_bpm_int": 60,
+                "datetime_string": "2024-06-13 06:40:19.822000+03:00"
+              },
+              {
+                "hr_bpm_int": 60,
+                "datetime_string": "2024-06-13 06:45:17.322000+03:00"
+              },
+              {
+                "hr_bpm_int": 60,
+                "datetime_string": "2024-06-13 06:50:12.322000+03:00"
+              },
+              {
+                "hr_bpm_int": 59,
+                "datetime_string": "2024-06-13 06:55:38.322000+03:00"
+              },
+              {
+                "hr_bpm_int": 61,
+                "datetime_string": "2024-06-13 07:02:03.322000+03:00"
+              },
+              {
+                "hr_bpm_int": 64,
+                "datetime_string": "2024-06-13 07:06:33.322000+03:00"
+              },
+              {
+                "hr_bpm_int": 65,
+                "datetime_string": "2024-06-13 07:10:13.322000+03:00"
+              },
+              {
+                "hr_bpm_int": 62,
+                "datetime_string": "2024-06-13 07:16:40.822000+03:00"
+              },
+              {
+                "hr_bpm_int": 59,
+                "datetime_string": "2024-06-13 07:20:33.322000+03:00"
+              },
+              {
+                "hr_bpm_int": 57,
+                "datetime_string": "2024-06-13 07:25:48.072000+03:00"
+              },
+              {
+                "hr_bpm_int": 57,
+                "datetime_string": "2024-06-13 07:30:28.072000+03:00"
+              },
+              {
+                "hr_bpm_int": 57,
+                "datetime_string": "2024-06-13 07:35:18.072000+03:00"
+              },
+              {
+                "hr_bpm_int": 57,
+                "datetime_string": "2024-06-13 07:40:33.072000+03:00"
+              },
+              {
+                "hr_bpm_int": 57,
+                "datetime_string": "2024-06-13 07:45:58.822000+03:00"
+              },
+              {
+                "hr_bpm_int": 57,
+                "datetime_string": "2024-06-13 07:50:36.822000+03:00"
+              },
+              {
+                "hr_bpm_int": 57,
+                "datetime_string": "2024-06-13 07:55:16.822000+03:00"
+              },
+              {
+                "hr_bpm_int": 57,
+                "datetime_string": "2024-06-13 08:00:16.822000+03:00"
+              },
+              {
+                "hr_bpm_int": 57,
+                "datetime_string": "2024-06-13 08:05:26.822000+03:00"
+              },
+              {
+                "hr_bpm_int": 57,
+                "datetime_string": "2024-06-13 08:10:16.822000+03:00"
+              },
+              {
+                "hr_bpm_int": 58,
+                "datetime_string": "2024-06-13 08:15:31.822000+03:00"
+              },
+              {
+                "hr_bpm_int": 60,
+                "datetime_string": "2024-06-13 08:20:31.822000+03:00"
+              },
+              {
+                "hr_bpm_int": 60,
+                "datetime_string": "2024-06-13 08:25:16.822000+03:00"
+              },
+              {
+                "hr_bpm_int": 68,
+                "datetime_string": "2024-06-13 08:34:44.572000+03:00"
+              },
+              {
+                "hr_bpm_int": 67,
+                "datetime_string": "2024-06-13 08:36:38.822000+03:00"
+              },
+              {
+                "hr_bpm_int": 73,
+                "datetime_string": "2024-06-13 08:42:52.322000+03:00"
+              },
+              {
+                "hr_bpm_int": 76,
+                "datetime_string": "2024-06-13 08:45:36.072000+03:00"
+              },
+              {
+                "hr_bpm_int": 80,
+                "datetime_string": "2024-06-13 08:53:21.322000+03:00"
+              },
+              {
+                "hr_bpm_int": 85,
+                "datetime_string": "2024-06-13 08:55:50.822000+03:00"
+              },
+              {
+                "hr_bpm_int": 82,
+                "datetime_string": "2024-06-13 09:04:55.822000+03:00"
+              },
+              {
+                "hr_bpm_int": 77,
+                "datetime_string": "2024-06-13 09:06:37.572000+03:00"
+              },
+              {
+                "hr_bpm_int": 73,
+                "datetime_string": "2024-06-13 09:11:54.572000+03:00"
+              },
+              {
+                "hr_bpm_int": 69,
+                "datetime_string": "2024-06-13 09:16:08.322000+03:00"
+              },
+              {
+                "hr_bpm_int": 71,
+                "datetime_string": "2024-06-13 09:28:07.322000+03:00"
+              },
+              {
+                "hr_bpm_int": 74,
+                "datetime_string": "2024-06-13 09:33:13.822000+03:00"
+              },
+              {
+                "hr_bpm_int": 87,
+                "datetime_string": "2024-06-13 09:40:02.822000+03:00"
+              },
+              {
+                "hr_bpm_int": 81,
+                "datetime_string": "2024-06-13 09:43:08.322000+03:00"
+              },
+              {
+                "hr_bpm_int": 79,
+                "datetime_string": "2024-06-13 09:46:49.322000+03:00"
+              },
+              {
+                "hr_bpm_int": 87,
+                "datetime_string": "2024-06-13 09:51:50.322000+03:00"
+              },
+              {
+                "hr_bpm_int": 114,
+                "datetime_string": "2024-06-13 09:58:42.822000+03:00"
+              },
+              {
+                "hr_bpm_int": 104,
+                "datetime_string": "2024-06-13 10:02:14.572000+03:00"
+              },
+              {
+                "hr_bpm_int": 116,
+                "datetime_string": "2024-06-13 10:07:38.881000+03:00"
+              },
+              {
+                "hr_bpm_int": 89,
+                "datetime_string": "2024-06-13 10:17:41.639000+03:00"
+              },
+              {
+                "hr_bpm_int": 91,
+                "datetime_string": "2024-06-13 10:18:06.572000+03:00"
+              },
+              {
+                "hr_bpm_int": 87,
+                "datetime_string": "2024-06-13 10:23:57.822000+03:00"
+              },
+              {
+                "hr_bpm_int": 95,
+                "datetime_string": "2024-06-13 10:27:28.822000+03:00"
+              },
+              {
+                "hr_bpm_int": 81,
+                "datetime_string": "2024-06-13 10:32:03.572000+03:00"
+              },
+              {
+                "hr_bpm_int": 86,
+                "datetime_string": "2024-06-13 10:37:46.572000+03:00"
+              },
+              {
+                "hr_bpm_int": 99,
+                "datetime_string": "2024-06-13 10:40:45.685000+03:00"
+              },
+              {
+                "hr_bpm_int": 101,
+                "datetime_string": "2024-06-13 10:40:49.685000+03:00"
+              },
+              {
+                "hr_bpm_int": 100,
+                "datetime_string": "2024-06-13 10:40:52.685000+03:00"
+              },
+              {
+                "hr_bpm_int": 99,
+                "datetime_string": "2024-06-13 10:40:57.685000+03:00"
+              },
+              {
+                "hr_bpm_int": 99,
+                "datetime_string": "2024-06-13 10:41:04.685000+03:00"
+              },
+              {
+                "hr_bpm_int": 99,
+                "datetime_string": "2024-06-13 10:41:10.685000+03:00"
+              },
+              {
+                "hr_bpm_int": 98,
+                "datetime_string": "2024-06-13 10:41:11.685000+03:00"
+              },
+              {
+                "hr_bpm_int": 98,
+                "datetime_string": "2024-06-13 10:41:16.685000+03:00"
+              },
+              {
+                "hr_bpm_int": 99,
+                "datetime_string": "2024-06-13 10:41:24.685000+03:00"
+              },
+              {
+                "hr_bpm_int": 125,
+                "datetime_string": "2024-06-13 10:44:33.316000+03:00"
+              },
+              {
+                "hr_bpm_int": 127,
+                "datetime_string": "2024-06-13 10:48:42.432000+03:00"
+              },
+              {
+                "hr_bpm_int": 116,
+                "datetime_string": "2024-06-13 10:48:58.553000+03:00"
+              },
+              {
+                "hr_bpm_int": 102,
+                "datetime_string": "2024-06-13 10:52:14.553000+03:00"
+              },
+              {
+                "hr_bpm_int": 98,
+                "datetime_string": "2024-06-13 10:57:19.803000+03:00"
+              },
+              {
+                "hr_bpm_int": 129,
+                "datetime_string": "2024-06-13 11:02:15.893000+03:00"
+              },
+              {
+                "hr_bpm_int": 97,
+                "datetime_string": "2024-06-13 11:04:23.053000+03:00"
+              },
+              {
+                "hr_bpm_int": 103,
+                "datetime_string": "2024-06-13 11:08:02.553000+03:00"
+              },
+              {
+                "hr_bpm_int": 97,
+                "datetime_string": "2024-06-13 11:15:39.053000+03:00"
+              },
+              {
+                "hr_bpm_int": 93,
+                "datetime_string": "2024-06-13 11:22:20.803000+03:00"
+              },
+              {
+                "hr_bpm_int": 89,
+                "datetime_string": "2024-06-13 11:27:35.303000+03:00"
+              },
+              {
+                "hr_bpm_int": 90,
+                "datetime_string": "2024-06-13 11:32:02.303000+03:00"
+              },
+              {
+                "hr_bpm_int": 98,
+                "datetime_string": "2024-06-13 11:36:50.803000+03:00"
+              },
+              {
+                "hr_bpm_int": 137,
+                "datetime_string": "2024-06-13 11:39:14.510000+03:00"
+              },
+              {
+                "hr_bpm_int": 130,
+                "datetime_string": "2024-06-13 11:40:48.721000+03:00"
+              },
+              {
+                "hr_bpm_int": 128,
+                "datetime_string": "2024-06-13 11:40:52.721000+03:00"
+              },
+              {
+                "hr_bpm_int": 127,
+                "datetime_string": "2024-06-13 11:40:55.721000+03:00"
+              },
+              {
+                "hr_bpm_int": 126,
+                "datetime_string": "2024-06-13 11:41:03.721000+03:00"
+              },
+              {
+                "hr_bpm_int": 125,
+                "datetime_string": "2024-06-13 11:41:04.721000+03:00"
+              },
+              {
+                "hr_bpm_int": 131,
+                "datetime_string": "2024-06-13 11:41:13.721000+03:00"
+              },
+              {
+                "hr_bpm_int": 132,
+                "datetime_string": "2024-06-13 11:41:14.721000+03:00"
+              },
+              {
+                "hr_bpm_int": 125,
+                "datetime_string": "2024-06-13 11:41:23.721000+03:00"
+              },
+              {
+                "hr_bpm_int": 122,
+                "datetime_string": "2024-06-13 11:41:27.721000+03:00"
+              },
+              {
+                "hr_bpm_int": 120,
+                "datetime_string": "2024-06-13 11:41:32.721000+03:00"
+              },
+              {
+                "hr_bpm_int": 113,
+                "datetime_string": "2024-06-13 11:41:38.721000+03:00"
+              },
+              {
+                "hr_bpm_int": 111,
+                "datetime_string": "2024-06-13 11:41:43.721000+03:00"
+              },
+              {
+                "hr_bpm_int": 109,
+                "datetime_string": "2024-06-13 11:41:48.721000+03:00"
+              },
+              {
+                "hr_bpm_int": 110,
+                "datetime_string": "2024-06-13 11:41:49.721000+03:00"
+              },
+              {
+                "hr_bpm_int": 107,
+                "datetime_string": "2024-06-13 11:41:54.721000+03:00"
+              },
+              {
+                "hr_bpm_int": 101,
+                "datetime_string": "2024-06-13 11:42:03.721000+03:00"
+              },
+              {
+                "hr_bpm_int": 100,
+                "datetime_string": "2024-06-13 11:42:07.721000+03:00"
+              },
+              {
+                "hr_bpm_int": 100,
+                "datetime_string": "2024-06-13 11:42:13.721000+03:00"
+              },
+              {
+                "hr_bpm_int": 93,
+                "datetime_string": "2024-06-13 11:44:00.553000+03:00"
+              },
+              {
+                "hr_bpm_int": 91,
+                "datetime_string": "2024-06-13 11:48:17.053000+03:00"
+              },
+              {
+                "hr_bpm_int": 91,
+                "datetime_string": "2024-06-13 11:50:51.553000+03:00"
+              },
+              {
+                "hr_bpm_int": 96,
+                "datetime_string": "2024-06-13 11:57:31.053000+03:00"
+              },
+              {
+                "hr_bpm_int": 103,
+                "datetime_string": "2024-06-13 12:01:45.307000+03:00"
+              },
+              {
+                "hr_bpm_int": 84,
+                "datetime_string": "2024-06-13 12:03:46.553000+03:00"
+              },
+              {
+                "hr_bpm_int": 90,
+                "datetime_string": "2024-06-13 12:09:56.553000+03:00"
+              },
+              {
+                "hr_bpm_int": 95,
+                "datetime_string": "2024-06-13 12:15:00.803000+03:00"
+              },
+              {
+                "hr_bpm_int": 88,
+                "datetime_string": "2024-06-13 12:18:12.803000+03:00"
+              },
+              {
+                "hr_bpm_int": 87,
+                "datetime_string": "2024-06-13 12:21:17.803000+03:00"
+              },
+              {
+                "hr_bpm_int": 88,
+                "datetime_string": "2024-06-13 12:25:14.303000+03:00"
+              },
+              {
+                "hr_bpm_int": 84,
+                "datetime_string": "2024-06-13 12:32:36.553000+03:00"
+              },
+              {
+                "hr_bpm_int": 87,
+                "datetime_string": "2024-06-13 12:37:38.553000+03:00"
+              },
+              {
+                "hr_bpm_int": 82,
+                "datetime_string": "2024-06-13 12:40:29.553000+03:00"
+              },
+              {
+                "hr_bpm_int": 85,
+                "datetime_string": "2024-06-13 12:47:07.803000+03:00"
+              },
+              {
+                "hr_bpm_int": 82,
+                "datetime_string": "2024-06-13 12:50:16.303000+03:00"
+              },
+              {
+                "hr_bpm_int": 101,
+                "datetime_string": "2024-06-13 12:57:39.799000+03:00"
+              },
+              {
+                "hr_bpm_int": 84,
+                "datetime_string": "2024-06-13 12:59:24.053000+03:00"
+              },
+              {
+                "hr_bpm_int": 76,
+                "datetime_string": "2024-06-13 13:04:09.053000+03:00"
+              },
+              {
+                "hr_bpm_int": 81,
+                "datetime_string": "2024-06-13 13:10:05.803000+03:00"
+              },
+              {
+                "hr_bpm_int": 90,
+                "datetime_string": "2024-06-13 13:14:27.303000+03:00"
+              },
+              {
+                "hr_bpm_int": 97,
+                "datetime_string": "2024-06-13 13:18:08.803000+03:00"
+              },
+              {
+                "hr_bpm_int": 86,
+                "datetime_string": "2024-06-13 13:20:55.053000+03:00"
+              },
+              {
+                "hr_bpm_int": 90,
+                "datetime_string": "2024-06-13 13:28:30.553000+03:00"
+              },
+              {
+                "hr_bpm_int": 89,
+                "datetime_string": "2024-06-13 13:33:01.053000+03:00"
+              },
+              {
+                "hr_bpm_int": 91,
+                "datetime_string": "2024-06-13 13:38:46.553000+03:00"
+              },
+              {
+                "hr_bpm_int": 90,
+                "datetime_string": "2024-06-13 13:40:48.053000+03:00"
+              },
+              {
+                "hr_bpm_int": 98,
+                "datetime_string": "2024-06-13 13:46:37.053000+03:00"
+              },
+              {
+                "hr_bpm_int": 113,
+                "datetime_string": "2024-06-13 13:50:39.048000+03:00"
+              },
+              {
+                "hr_bpm_int": 118,
+                "datetime_string": "2024-06-13 13:51:52.760000+03:00"
+              },
+              {
+                "hr_bpm_int": 109,
+                "datetime_string": "2024-06-13 13:51:57.760000+03:00"
+              },
+              {
+                "hr_bpm_int": 114,
+                "datetime_string": "2024-06-13 13:52:24.760000+03:00"
+              },
+              {
+                "hr_bpm_int": 118,
+                "datetime_string": "2024-06-13 13:52:30.760000+03:00"
+              },
+              {
+                "hr_bpm_int": 121,
+                "datetime_string": "2024-06-13 13:52:32.760000+03:00"
+              },
+              {
+                "hr_bpm_int": 114,
+                "datetime_string": "2024-06-13 13:52:51.760000+03:00"
+              },
+              {
+                "hr_bpm_int": 121,
+                "datetime_string": "2024-06-13 13:52:56.760000+03:00"
+              },
+              {
+                "hr_bpm_int": 119,
+                "datetime_string": "2024-06-13 13:53:01.760000+03:00"
+              },
+              {
+                "hr_bpm_int": 117,
+                "datetime_string": "2024-06-13 13:53:02.760000+03:00"
+              },
+              {
+                "hr_bpm_int": 119,
+                "datetime_string": "2024-06-13 13:53:11.760000+03:00"
+              },
+              {
+                "hr_bpm_int": 120,
+                "datetime_string": "2024-06-13 13:53:13.760000+03:00"
+              },
+              {
+                "hr_bpm_int": 119,
+                "datetime_string": "2024-06-13 13:53:17.760000+03:00"
+              },
+              {
+                "hr_bpm_int": 118,
+                "datetime_string": "2024-06-13 13:53:22.760000+03:00"
+              },
+              {
+                "hr_bpm_int": 120,
+                "datetime_string": "2024-06-13 13:55:25.970000+03:00"
+              },
+              {
+                "hr_bpm_int": 126,
+                "datetime_string": "2024-06-13 13:55:26.970000+03:00"
+              },
+              {
+                "hr_bpm_int": 134,
+                "datetime_string": "2024-06-13 13:55:40.970000+03:00"
+              },
+              {
+                "hr_bpm_int": 121,
+                "datetime_string": "2024-06-13 13:55:41.970000+03:00"
+              },
+              {
+                "hr_bpm_int": 130,
+                "datetime_string": "2024-06-13 13:55:48.970000+03:00"
+              },
+              {
+                "hr_bpm_int": 128,
+                "datetime_string": "2024-06-13 13:55:52.970000+03:00"
+              },
+              {
+                "hr_bpm_int": 122,
+                "datetime_string": "2024-06-13 13:56:00.970000+03:00"
+              },
+              {
+                "hr_bpm_int": 122,
+                "datetime_string": "2024-06-13 13:56:02.970000+03:00"
+              },
+              {
+                "hr_bpm_int": 122,
+                "datetime_string": "2024-06-13 13:56:07.970000+03:00"
+              },
+              {
+                "hr_bpm_int": 122,
+                "datetime_string": "2024-06-13 13:56:11.970000+03:00"
+              },
+              {
+                "hr_bpm_int": 122,
+                "datetime_string": "2024-06-13 13:56:18.970000+03:00"
+              },
+              {
+                "hr_bpm_int": 122,
+                "datetime_string": "2024-06-13 13:56:25.970000+03:00"
+              },
+              {
+                "hr_bpm_int": 124,
+                "datetime_string": "2024-06-13 13:56:26.970000+03:00"
+              },
+              {
+                "hr_bpm_int": 126,
+                "datetime_string": "2024-06-13 13:56:31.970000+03:00"
+              },
+              {
+                "hr_bpm_int": 125,
+                "datetime_string": "2024-06-13 13:56:38.970000+03:00"
+              },
+              {
+                "hr_bpm_int": 117,
+                "datetime_string": "2024-06-13 13:56:44.970000+03:00"
+              },
+              {
+                "hr_bpm_int": 118,
+                "datetime_string": "2024-06-13 13:56:50.970000+03:00"
+              },
+              {
+                "hr_bpm_int": 118,
+                "datetime_string": "2024-06-13 13:56:52.970000+03:00"
+              },
+              {
+                "hr_bpm_int": 121,
+                "datetime_string": "2024-06-13 13:56:56.970000+03:00"
+              },
+              {
+                "hr_bpm_int": 119,
+                "datetime_string": "2024-06-13 13:57:05.970000+03:00"
+              },
+              {
+                "hr_bpm_int": 121,
+                "datetime_string": "2024-06-13 13:57:08.970000+03:00"
+              },
+              {
+                "hr_bpm_int": 120,
+                "datetime_string": "2024-06-13 13:57:12.489000+03:00"
+              },
+              {
+                "hr_bpm_int": 119,
+                "datetime_string": "2024-06-13 13:57:17.489000+03:00"
+              },
+              {
+                "hr_bpm_int": 119,
+                "datetime_string": "2024-06-13 13:57:22.489000+03:00"
+              },
+              {
+                "hr_bpm_int": 122,
+                "datetime_string": "2024-06-13 13:57:31.489000+03:00"
+              },
+              {
+                "hr_bpm_int": 124,
+                "datetime_string": "2024-06-13 13:57:36.489000+03:00"
+              },
+              {
+                "hr_bpm_int": 124,
+                "datetime_string": "2024-06-13 13:57:39.489000+03:00"
+              },
+              {
+                "hr_bpm_int": 124,
+                "datetime_string": "2024-06-13 13:57:44.489000+03:00"
+              },
+              {
+                "hr_bpm_int": 122,
+                "datetime_string": "2024-06-13 13:57:50.489000+03:00"
+              },
+              {
+                "hr_bpm_int": 122,
+                "datetime_string": "2024-06-13 13:57:54.489000+03:00"
+              },
+              {
+                "hr_bpm_int": 124,
+                "datetime_string": "2024-06-13 13:57:57.489000+03:00"
+              },
+              {
+                "hr_bpm_int": 122,
+                "datetime_string": "2024-06-13 13:58:06.489000+03:00"
+              },
+              {
+                "hr_bpm_int": 121,
+                "datetime_string": "2024-06-13 13:58:10.489000+03:00"
+              },
+              {
+                "hr_bpm_int": 117,
+                "datetime_string": "2024-06-13 13:58:16.489000+03:00"
+              },
+              {
+                "hr_bpm_int": 115,
+                "datetime_string": "2024-06-13 13:58:21.489000+03:00"
+              },
+              {
+                "hr_bpm_int": 116,
+                "datetime_string": "2024-06-13 13:58:23.489000+03:00"
+              },
+              {
+                "hr_bpm_int": 122,
+                "datetime_string": "2024-06-13 13:59:22.449000+03:00"
+              },
+              {
+                "hr_bpm_int": 121,
+                "datetime_string": "2024-06-13 13:59:27.449000+03:00"
+              },
+              {
+                "hr_bpm_int": 118,
+                "datetime_string": "2024-06-13 13:59:30.449000+03:00"
+              },
+              {
+                "hr_bpm_int": 118,
+                "datetime_string": "2024-06-13 13:59:37.449000+03:00"
+              },
+              {
+                "hr_bpm_int": 118,
+                "datetime_string": "2024-06-13 13:59:41.449000+03:00"
+              },
+              {
+                "hr_bpm_int": 120,
+                "datetime_string": "2024-06-13 13:59:46.449000+03:00"
+              },
+              {
+                "hr_bpm_int": 120,
+                "datetime_string": "2024-06-13 13:59:48.449000+03:00"
+              },
+              {
+                "hr_bpm_int": 120,
+                "datetime_string": "2024-06-13 13:59:54.449000+03:00"
+              },
+              {
+                "hr_bpm_int": 117,
+                "datetime_string": "2024-06-13 14:00:01.449000+03:00"
+              },
+              {
+                "hr_bpm_int": 116,
+                "datetime_string": "2024-06-13 14:00:03.449000+03:00"
+              },
+              {
+                "hr_bpm_int": 114,
+                "datetime_string": "2024-06-13 14:00:08.449000+03:00"
+              },
+              {
+                "hr_bpm_int": 119,
+                "datetime_string": "2024-06-13 14:00:38.449000+03:00"
+              },
+              {
+                "hr_bpm_int": 120,
+                "datetime_string": "2024-06-13 14:00:44.255000+03:00"
+              },
+              {
+                "hr_bpm_int": 122,
+                "datetime_string": "2024-06-13 14:00:51.255000+03:00"
+              },
+              {
+                "hr_bpm_int": 122,
+                "datetime_string": "2024-06-13 14:00:58.255000+03:00"
+              },
+              {
+                "hr_bpm_int": 122,
+                "datetime_string": "2024-06-13 14:01:02.255000+03:00"
+              },
+              {
+                "hr_bpm_int": 122,
+                "datetime_string": "2024-06-13 14:01:04.255000+03:00"
+              },
+              {
+                "hr_bpm_int": 122,
+                "datetime_string": "2024-06-13 14:01:09.255000+03:00"
+              },
+              {
+                "hr_bpm_int": 125,
+                "datetime_string": "2024-06-13 14:01:15.255000+03:00"
+              },
+              {
+                "hr_bpm_int": 128,
+                "datetime_string": "2024-06-13 14:01:19.255000+03:00"
+              },
+              {
+                "hr_bpm_int": 131,
+                "datetime_string": "2024-06-13 14:01:24.255000+03:00"
+              },
+              {
+                "hr_bpm_int": 128,
+                "datetime_string": "2024-06-13 14:01:33.255000+03:00"
+              },
+              {
+                "hr_bpm_int": 129,
+                "datetime_string": "2024-06-13 14:01:34.255000+03:00"
+              },
+              {
+                "hr_bpm_int": 127,
+                "datetime_string": "2024-06-13 14:01:40.255000+03:00"
+              },
+              {
+                "hr_bpm_int": 118,
+                "datetime_string": "2024-06-13 14:01:48.255000+03:00"
+              },
+              {
+                "hr_bpm_int": 117,
+                "datetime_string": "2024-06-13 14:01:51.255000+03:00"
+              },
+              {
+                "hr_bpm_int": 118,
+                "datetime_string": "2024-06-13 14:01:58.255000+03:00"
+              },
+              {
+                "hr_bpm_int": 94,
+                "datetime_string": "2024-06-13 14:02:38.622000+03:00"
+              },
+              {
+                "hr_bpm_int": 107,
+                "datetime_string": "2024-06-13 14:02:45.622000+03:00"
+              },
+              {
+                "hr_bpm_int": 106,
+                "datetime_string": "2024-06-13 14:02:46.622000+03:00"
+              },
+              {
+                "hr_bpm_int": 103,
+                "datetime_string": "2024-06-13 14:03:05.622000+03:00"
+              },
+              {
+                "hr_bpm_int": 115,
+                "datetime_string": "2024-06-13 14:03:16.622000+03:00"
+              },
+              {
+                "hr_bpm_int": 115,
+                "datetime_string": "2024-06-13 14:03:25.622000+03:00"
+              },
+              {
+                "hr_bpm_int": 114,
+                "datetime_string": "2024-06-13 14:03:29.622000+03:00"
+              },
+              {
+                "hr_bpm_int": 114,
+                "datetime_string": "2024-06-13 14:03:31.622000+03:00"
+              },
+              {
+                "hr_bpm_int": 114,
+                "datetime_string": "2024-06-13 14:03:36.622000+03:00"
+              },
+              {
+                "hr_bpm_int": 115,
+                "datetime_string": "2024-06-13 14:03:45.622000+03:00"
+              },
+              {
+                "hr_bpm_int": 116,
+                "datetime_string": "2024-06-13 14:03:49.622000+03:00"
+              },
+              {
+                "hr_bpm_int": 116,
+                "datetime_string": "2024-06-13 14:03:51.622000+03:00"
+              },
+              {
+                "hr_bpm_int": 113,
+                "datetime_string": "2024-06-13 14:03:57.622000+03:00"
+              },
+              {
+                "hr_bpm_int": 115,
+                "datetime_string": "2024-06-13 14:04:02.622000+03:00"
+              },
+              {
+                "hr_bpm_int": 115,
+                "datetime_string": "2024-06-13 14:04:07.622000+03:00"
+              },
+              {
+                "hr_bpm_int": 117,
+                "datetime_string": "2024-06-13 14:04:13.622000+03:00"
+              },
+              {
+                "hr_bpm_int": 115,
+                "datetime_string": "2024-06-13 14:04:20.622000+03:00"
+              },
+              {
+                "hr_bpm_int": 115,
+                "datetime_string": "2024-06-13 14:04:25.622000+03:00"
+              },
+              {
+                "hr_bpm_int": 115,
+                "datetime_string": "2024-06-13 14:04:26.622000+03:00"
+              },
+              {
+                "hr_bpm_int": 113,
+                "datetime_string": "2024-06-13 14:04:31.622000+03:00"
+              },
+              {
+                "hr_bpm_int": 112,
+                "datetime_string": "2024-06-13 14:04:40.622000+03:00"
+              },
+              {
+                "hr_bpm_int": 112,
+                "datetime_string": "2024-06-13 14:04:45.622000+03:00"
+              },
+              {
+                "hr_bpm_int": 112,
+                "datetime_string": "2024-06-13 14:04:47.622000+03:00"
+              },
+              {
+                "hr_bpm_int": 109,
+                "datetime_string": "2024-06-13 14:04:53.622000+03:00"
+              },
+              {
+                "hr_bpm_int": 111,
+                "datetime_string": "2024-06-13 14:04:56.622000+03:00"
+              },
+              {
+                "hr_bpm_int": 102,
+                "datetime_string": "2024-06-13 14:05:04.622000+03:00"
+              },
+              {
+                "hr_bpm_int": 108,
+                "datetime_string": "2024-06-13 14:05:09.622000+03:00"
+              },
+              {
+                "hr_bpm_int": 107,
+                "datetime_string": "2024-06-13 14:05:11.622000+03:00"
+              },
+              {
+                "hr_bpm_int": 102,
+                "datetime_string": "2024-06-13 14:05:16.622000+03:00"
+              },
+              {
+                "hr_bpm_int": 107,
+                "datetime_string": "2024-06-13 14:05:25.622000+03:00"
+              },
+              {
+                "hr_bpm_int": 113,
+                "datetime_string": "2024-06-13 14:05:30.622000+03:00"
+              },
+              {
+                "hr_bpm_int": 111,
+                "datetime_string": "2024-06-13 14:05:35.622000+03:00"
+              },
+              {
+                "hr_bpm_int": 110,
+                "datetime_string": "2024-06-13 14:05:39.622000+03:00"
+              },
+              {
+                "hr_bpm_int": 104,
+                "datetime_string": "2024-06-13 14:06:53.548000+03:00"
+              },
+              {
+                "hr_bpm_int": 122,
+                "datetime_string": "2024-06-13 14:11:22.809000+03:00"
+              },
+              {
+                "hr_bpm_int": 105,
+                "datetime_string": "2024-06-13 14:12:59.176000+03:00"
+              },
+              {
+                "hr_bpm_int": 96,
+                "datetime_string": "2024-06-13 14:13:05.176000+03:00"
+              },
+              {
+                "hr_bpm_int": 96,
+                "datetime_string": "2024-06-13 14:13:08.176000+03:00"
+              },
+              {
+                "hr_bpm_int": 97,
+                "datetime_string": "2024-06-13 14:13:16.176000+03:00"
+              },
+              {
+                "hr_bpm_int": 97,
+                "datetime_string": "2024-06-13 14:13:18.176000+03:00"
+              },
+              {
+                "hr_bpm_int": 96,
+                "datetime_string": "2024-06-13 14:13:26.176000+03:00"
+              },
+              {
+                "hr_bpm_int": 96,
+                "datetime_string": "2024-06-13 14:13:28.176000+03:00"
+              },
+              {
+                "hr_bpm_int": 97,
+                "datetime_string": "2024-06-13 14:13:32.176000+03:00"
+              },
+              {
+                "hr_bpm_int": 110,
+                "datetime_string": "2024-06-13 14:13:40.176000+03:00"
+              },
+              {
+                "hr_bpm_int": 118,
+                "datetime_string": "2024-06-13 14:13:46.176000+03:00"
+              },
+              {
+                "hr_bpm_int": 117,
+                "datetime_string": "2024-06-13 14:13:51.176000+03:00"
+              },
+              {
+                "hr_bpm_int": 116,
+                "datetime_string": "2024-06-13 14:13:52.176000+03:00"
+              },
+              {
+                "hr_bpm_int": 110,
+                "datetime_string": "2024-06-13 14:14:01.176000+03:00"
+              },
+              {
+                "hr_bpm_int": 113,
+                "datetime_string": "2024-06-13 14:14:04.176000+03:00"
+              },
+              {
+                "hr_bpm_int": 106,
+                "datetime_string": "2024-06-13 14:14:11.176000+03:00"
+              },
+              {
+                "hr_bpm_int": 106,
+                "datetime_string": "2024-06-13 14:14:12.176000+03:00"
+              },
+              {
+                "hr_bpm_int": 110,
+                "datetime_string": "2024-06-13 14:14:17.176000+03:00"
+              },
+              {
+                "hr_bpm_int": 111,
+                "datetime_string": "2024-06-13 14:14:24.176000+03:00"
+              },
+              {
+                "hr_bpm_int": 108,
+                "datetime_string": "2024-06-13 14:14:27.176000+03:00"
+              },
+              {
+                "hr_bpm_int": 89,
+                "datetime_string": "2024-06-13 14:15:55.298000+03:00"
+              },
+              {
+                "hr_bpm_int": 124,
+                "datetime_string": "2024-06-13 14:18:29.043000+03:00"
+              },
+              {
+                "hr_bpm_int": 131,
+                "datetime_string": "2024-06-13 14:19:11.160000+03:00"
+              },
+              {
+                "hr_bpm_int": 133,
+                "datetime_string": "2024-06-13 14:19:13.160000+03:00"
+              },
+              {
+                "hr_bpm_int": 133,
+                "datetime_string": "2024-06-13 14:19:17.160000+03:00"
+              },
+              {
+                "hr_bpm_int": 133,
+                "datetime_string": "2024-06-13 14:19:22.160000+03:00"
+              },
+              {
+                "hr_bpm_int": 131,
+                "datetime_string": "2024-06-13 14:19:31.160000+03:00"
+              },
+              {
+                "hr_bpm_int": 133,
+                "datetime_string": "2024-06-13 14:19:36.160000+03:00"
+              },
+              {
+                "hr_bpm_int": 131,
+                "datetime_string": "2024-06-13 14:19:38.160000+03:00"
+              },
+              {
+                "hr_bpm_int": 130,
+                "datetime_string": "2024-06-13 14:19:42.160000+03:00"
+              },
+              {
+                "hr_bpm_int": 129,
+                "datetime_string": "2024-06-13 14:19:47.160000+03:00"
+              },
+              {
+                "hr_bpm_int": 128,
+                "datetime_string": "2024-06-13 14:19:52.160000+03:00"
+              },
+              {
+                "hr_bpm_int": 119,
+                "datetime_string": "2024-06-13 14:19:58.160000+03:00"
+              },
+              {
+                "hr_bpm_int": 119,
+                "datetime_string": "2024-06-13 14:20:06.160000+03:00"
+              },
+              {
+                "hr_bpm_int": 118,
+                "datetime_string": "2024-06-13 14:20:09.160000+03:00"
+              },
+              {
+                "hr_bpm_int": 117,
+                "datetime_string": "2024-06-13 14:20:12.160000+03:00"
+              },
+              {
+                "hr_bpm_int": 121,
+                "datetime_string": "2024-06-13 14:20:21.160000+03:00"
+              },
+              {
+                "hr_bpm_int": 124,
+                "datetime_string": "2024-06-13 14:20:24.160000+03:00"
+              },
+              {
+                "hr_bpm_int": 122,
+                "datetime_string": "2024-06-13 14:20:29.160000+03:00"
+              },
+              {
+                "hr_bpm_int": 122,
+                "datetime_string": "2024-06-13 14:23:54.809000+03:00"
+              },
+              {
+                "hr_bpm_int": 101,
+                "datetime_string": "2024-06-13 14:24:52.048000+03:00"
+              },
+              {
+                "hr_bpm_int": 104,
+                "datetime_string": "2024-06-13 14:25:21.192000+03:00"
+              },
+              {
+                "hr_bpm_int": 86,
+                "datetime_string": "2024-06-13 14:27:11.548000+03:00"
+              },
+              {
+                "hr_bpm_int": 98,
+                "datetime_string": "2024-06-13 14:34:46.548000+03:00"
+              },
+              {
+                "hr_bpm_int": 91,
+                "datetime_string": "2024-06-13 14:38:46.048000+03:00"
+              },
+              {
+                "hr_bpm_int": 96,
+                "datetime_string": "2024-06-13 14:44:21.048000+03:00"
+              },
+              {
+                "hr_bpm_int": 97,
+                "datetime_string": "2024-06-13 14:47:44.048000+03:00"
+              },
+              {
+                "hr_bpm_int": 90,
+                "datetime_string": "2024-06-13 14:53:20.548000+03:00"
+              },
+              {
+                "hr_bpm_int": 89,
+                "datetime_string": "2024-06-13 14:55:20.548000+03:00"
+              },
+              {
+                "hr_bpm_int": 91,
+                "datetime_string": "2024-06-13 15:00:48.548000+03:00"
+              },
+              {
+                "hr_bpm_int": 87,
+                "datetime_string": "2024-06-13 15:09:37.298000+03:00"
+              },
+              {
+                "hr_bpm_int": 95,
+                "datetime_string": "2024-06-13 15:11:15.548000+03:00"
+              },
+              {
+                "hr_bpm_int": 92,
+                "datetime_string": "2024-06-13 15:15:34.548000+03:00"
+              },
+              {
+                "hr_bpm_int": 91,
+                "datetime_string": "2024-06-13 15:21:58.048000+03:00"
+              },
+              {
+                "hr_bpm_int": 92,
+                "datetime_string": "2024-06-13 15:26:20.048000+03:00"
+              },
+              {
+                "hr_bpm_int": 95,
+                "datetime_string": "2024-06-13 15:34:01.548000+03:00"
+              },
+              {
+                "hr_bpm_int": 91,
+                "datetime_string": "2024-06-13 15:39:05.548000+03:00"
+              },
+              {
+                "hr_bpm_int": 94,
+                "datetime_string": "2024-06-13 15:40:29.548000+03:00"
+              },
+              {
+                "hr_bpm_int": 88,
+                "datetime_string": "2024-06-13 15:49:41.048000+03:00"
+              },
+              {
+                "hr_bpm_int": 88,
+                "datetime_string": "2024-06-13 15:54:40.048000+03:00"
+              },
+              {
+                "hr_bpm_int": 91,
+                "datetime_string": "2024-06-13 15:59:13.048000+03:00"
+              },
+              {
+                "hr_bpm_int": 98,
+                "datetime_string": "2024-06-13 16:02:58.548000+03:00"
+              },
+              {
+                "hr_bpm_int": 91,
+                "datetime_string": "2024-06-13 16:08:06.048000+03:00"
+              },
+              {
+                "hr_bpm_int": 98,
+                "datetime_string": "2024-06-13 16:10:53.548000+03:00"
+              },
+              {
+                "hr_bpm_int": 92,
+                "datetime_string": "2024-06-13 16:18:24.048000+03:00"
+              },
+              {
+                "hr_bpm_int": 91,
+                "datetime_string": "2024-06-13 16:20:17.548000+03:00"
+              },
+              {
+                "hr_bpm_int": 90,
+                "datetime_string": "2024-06-13 16:30:02.548000+03:00"
+              },
+              {
+                "hr_bpm_int": 91,
+                "datetime_string": "2024-06-13 16:32:40.548000+03:00"
+              },
+              {
+                "hr_bpm_int": 87,
+                "datetime_string": "2024-06-13 16:35:33.048000+03:00"
+              },
+              {
+                "hr_bpm_int": 84,
+                "datetime_string": "2024-06-13 16:44:20.048000+03:00"
+              },
+              {
+                "hr_bpm_int": 85,
+                "datetime_string": "2024-06-13 16:45:44.048000+03:00"
+              },
+              {
+                "hr_bpm_int": 84,
+                "datetime_string": "2024-06-13 16:51:22.048000+03:00"
+              },
+              {
+                "hr_bpm_int": 89,
+                "datetime_string": "2024-06-13 16:57:17.548000+03:00"
+              },
+              {
+                "hr_bpm_int": 85,
+                "datetime_string": "2024-06-13 17:02:43.048000+03:00"
+              },
+              {
+                "hr_bpm_int": 86,
+                "datetime_string": "2024-06-13 17:07:44.548000+03:00"
+              },
+              {
+                "hr_bpm_int": 74,
+                "datetime_string": "2024-06-13 17:14:25.048000+03:00"
+              },
+              {
+                "hr_bpm_int": 91,
+                "datetime_string": "2024-06-13 17:16:57.298000+03:00"
+              },
+              {
+                "hr_bpm_int": 92,
+                "datetime_string": "2024-06-13 17:23:28.798000+03:00"
+              },
+              {
+                "hr_bpm_int": 59,
+                "datetime_string": "2024-06-13 17:35:09.798000+03:00"
+              },
+              {
+                "hr_bpm_int": 84,
+                "datetime_string": "2024-06-13 17:37:21.298000+03:00"
+              },
+              {
+                "hr_bpm_int": 84,
+                "datetime_string": "2024-06-13 17:43:59.298000+03:00"
+              },
+              {
+                "hr_bpm_int": 93,
+                "datetime_string": "2024-06-13 17:46:07.048000+03:00"
+              },
+              {
+                "hr_bpm_int": 81,
+                "datetime_string": "2024-06-13 17:50:22.048000+03:00"
+              },
+              {
+                "hr_bpm_int": 82,
+                "datetime_string": "2024-06-13 17:56:07.548000+03:00"
+              },
+              {
+                "hr_bpm_int": 77,
+                "datetime_string": "2024-06-13 18:02:59.548000+03:00"
+              },
+              {
+                "hr_bpm_int": 74,
+                "datetime_string": "2024-06-13 18:05:22.048000+03:00"
+              },
+              {
+                "hr_bpm_int": 93,
+                "datetime_string": "2024-06-13 18:11:18.796000+03:00"
+              },
+              {
+                "hr_bpm_int": 96,
+                "datetime_string": "2024-06-13 18:19:33.546000+03:00"
+              },
+              {
+                "hr_bpm_int": 119,
+                "datetime_string": "2024-06-13 18:22:53.546000+03:00"
+              },
+              {
+                "hr_bpm_int": 122,
+                "datetime_string": "2024-06-13 18:26:18.033000+03:00"
+              },
+              {
+                "hr_bpm_int": 97,
+                "datetime_string": "2024-06-13 18:29:42.296000+03:00"
+              },
+              {
+                "hr_bpm_int": 81,
+                "datetime_string": "2024-06-13 18:31:59.296000+03:00"
+              },
+              {
+                "hr_bpm_int": 124,
+                "datetime_string": "2024-06-13 18:35:49.275000+03:00"
+              },
+              {
+                "hr_bpm_int": 52,
+                "datetime_string": "2024-06-13 18:39:48.796000+03:00"
+              },
+              {
+                "hr_bpm_int": 131,
+                "datetime_string": "2024-06-13 18:42:36.392000+03:00"
+              },
+              {
+                "hr_bpm_int": 117,
+                "datetime_string": "2024-06-13 18:46:02.046000+03:00"
+              },
+              {
+                "hr_bpm_int": 111,
+                "datetime_string": "2024-06-13 18:51:42.901000+03:00"
+              },
+              {
+                "hr_bpm_int": 109,
+                "datetime_string": "2024-06-13 18:52:08.296000+03:00"
+              },
+              {
+                "hr_bpm_int": 137,
+                "datetime_string": "2024-06-13 18:55:50.783000+03:00"
+              },
+              {
+                "hr_bpm_int": 170,
+                "datetime_string": "2024-06-13 19:01:28.245000+03:00"
+              },
+              {
+                "hr_bpm_int": 117,
+                "datetime_string": "2024-06-13 19:08:32.046000+03:00"
+              },
+              {
+                "hr_bpm_int": 105,
+                "datetime_string": "2024-06-13 19:10:41.046000+03:00"
+              },
+              {
+                "hr_bpm_int": 100,
+                "datetime_string": "2024-06-13 19:15:35.046000+03:00"
+              },
+              {
+                "hr_bpm_int": 94,
+                "datetime_string": "2024-06-13 19:22:07.339000+03:00"
+              },
+              {
+                "hr_bpm_int": 92,
+                "datetime_string": "2024-06-13 19:25:14.839000+03:00"
+              },
+              {
+                "hr_bpm_int": 94,
+                "datetime_string": "2024-06-13 19:31:10.339000+03:00"
+              },
+              {
+                "hr_bpm_int": 91,
+                "datetime_string": "2024-06-13 19:36:36.089000+03:00"
+              },
+              {
+                "hr_bpm_int": 83,
+                "datetime_string": "2024-06-13 19:44:26.041000+03:00"
+              },
+              {
+                "hr_bpm_int": 114,
+                "datetime_string": "2024-06-13 19:58:25.482000+03:00"
+              },
+              {
+                "hr_bpm_int": 57,
+                "datetime_string": "2024-06-13 19:59:15.291000+03:00"
+              },
+              {
+                "hr_bpm_int": 103,
+                "datetime_string": "2024-06-13 20:00:45.291000+03:00"
+              },
+              {
+                "hr_bpm_int": 87,
+                "datetime_string": "2024-06-13 20:09:34.291000+03:00"
+              },
+              {
+                "hr_bpm_int": 96,
+                "datetime_string": "2024-06-13 20:12:15.291000+03:00"
+              },
+              {
+                "hr_bpm_int": 71,
+                "datetime_string": "2024-06-13 20:17:59.291000+03:00"
+              },
+              {
+                "hr_bpm_int": 85,
+                "datetime_string": "2024-06-13 20:21:53.791000+03:00"
+              },
+              {
+                "hr_bpm_int": 67,
+                "datetime_string": "2024-06-13 20:28:15.791000+03:00"
+              },
+              {
+                "hr_bpm_int": 66,
+                "datetime_string": "2024-06-13 20:34:33.791000+03:00"
+              },
+              {
+                "hr_bpm_int": 74,
+                "datetime_string": "2024-06-13 20:37:56.291000+03:00"
+              },
+              {
+                "hr_bpm_int": 95,
+                "datetime_string": "2024-06-13 20:44:22.291000+03:00"
+              },
+              {
+                "hr_bpm_int": 84,
+                "datetime_string": "2024-06-13 20:48:32.791000+03:00"
+              },
+              {
+                "hr_bpm_int": 60,
+                "datetime_string": "2024-06-13 20:52:42.291000+03:00"
+              },
+              {
+                "hr_bpm_int": 100,
+                "datetime_string": "2024-06-13 20:58:30.791000+03:00"
+              },
+              {
+                "hr_bpm_int": 94,
+                "datetime_string": "2024-06-13 21:01:33.041000+03:00"
+              },
+              {
+                "hr_bpm_int": 89,
+                "datetime_string": "2024-06-13 21:07:45.791000+03:00"
+              },
+              {
+                "hr_bpm_int": 53,
+                "datetime_string": "2024-06-13 21:14:58.791000+03:00"
+              },
+              {
+                "hr_bpm_int": 67,
+                "datetime_string": "2024-06-13 21:17:40.791000+03:00"
+              },
+              {
+                "hr_bpm_int": 92,
+                "datetime_string": "2024-06-13 21:22:11.791000+03:00"
+              },
+              {
+                "hr_bpm_int": 93,
+                "datetime_string": "2024-06-13 21:30:01.291000+03:00"
+              },
+              {
+                "hr_bpm_int": 81,
+                "datetime_string": "2024-06-13 21:31:12.291000+03:00"
+              },
+              {
+                "hr_bpm_int": 70,
+                "datetime_string": "2024-06-13 21:38:36.541000+03:00"
+              },
+              {
+                "hr_bpm_int": 67,
+                "datetime_string": "2024-06-13 21:41:11.041000+03:00"
+              },
+              {
+                "hr_bpm_int": 69,
+                "datetime_string": "2024-06-13 21:50:54.791000+03:00"
+              },
+              {
+                "hr_bpm_int": 44,
+                "datetime_string": "2024-06-13 21:57:33.291000+03:00"
+              },
+              {
+                "hr_bpm_int": 83,
+                "datetime_string": "2024-06-13 22:04:38.291000+03:00"
+              },
+              {
+                "hr_bpm_int": 88,
+                "datetime_string": "2024-06-13 22:05:03.365000+03:00"
+              },
+              {
+                "hr_bpm_int": 88,
+                "datetime_string": "2024-06-13 22:07:29.791000+03:00"
+              },
+              {
+                "hr_bpm_int": 84,
+                "datetime_string": "2024-06-13 22:11:04.791000+03:00"
+              },
+              {
+                "hr_bpm_int": 87,
+                "datetime_string": "2024-06-13 22:17:46.541000+03:00"
+              },
+              {
+                "hr_bpm_int": 84,
+                "datetime_string": "2024-06-13 22:21:01.541000+03:00"
+              },
+              {
+                "hr_bpm_int": 84,
+                "datetime_string": "2024-06-13 22:27:08.541000+03:00"
+              },
+              {
+                "hr_bpm_int": 84,
+                "datetime_string": "2024-06-13 22:31:50.041000+03:00"
+              },
+              {
+                "hr_bpm_int": 81,
+                "datetime_string": "2024-06-13 22:35:39.291000+03:00"
+              },
+              {
+                "hr_bpm_int": 79,
+                "datetime_string": "2024-06-13 22:42:00.041000+03:00"
+              },
+              {
+                "hr_bpm_int": 79,
+                "datetime_string": "2024-06-13 22:46:54.041000+03:00"
+              },
+              {
+                "hr_bpm_int": 79,
+                "datetime_string": "2024-06-13 22:52:44.041000+03:00"
+              },
+              {
+                "hr_bpm_int": 77,
+                "datetime_string": "2024-06-13 22:55:58.541000+03:00"
+              },
+              {
+                "hr_bpm_int": 79,
+                "datetime_string": "2024-06-13 23:03:27.791000+03:00"
+              },
+              {
+                "hr_bpm_int": 79,
+                "datetime_string": "2024-06-13 23:05:12.791000+03:00"
+              },
+              {
+                "hr_bpm_int": 108,
+                "datetime_string": "2024-06-13 23:12:19.791000+03:00"
+              },
+              {
+                "hr_bpm_int": 81,
+                "datetime_string": "2024-06-13 23:16:46.291000+03:00"
+              },
+              {
+                "hr_bpm_int": 91,
+                "datetime_string": "2024-06-13 23:23:07.291000+03:00"
+              },
+              {
+                "hr_bpm_int": 93,
+                "datetime_string": "2024-06-13 23:25:57.857000+03:00"
+              },
+              {
+                "hr_bpm_int": 122,
+                "datetime_string": "2024-06-13 23:26:24.541000+03:00"
+              },
+              {
+                "hr_bpm_int": 103,
+                "datetime_string": "2024-06-13 23:30:46.817000+03:00"
+              },
+              {
+                "hr_bpm_int": 99,
+                "datetime_string": "2024-06-13 23:33:10.153000+03:00"
+              },
+              {
+                "hr_bpm_int": 88,
+                "datetime_string": "2024-06-13 23:33:27.291000+03:00"
+              },
+              {
+                "hr_bpm_int": 97,
+                "datetime_string": "2024-06-13 23:35:21.020000+03:00"
+              },
+              {
+                "hr_bpm_int": 98,
+                "datetime_string": "2024-06-13 23:35:25.020000+03:00"
+              },
+              {
+                "hr_bpm_int": 103,
+                "datetime_string": "2024-06-13 23:35:28.020000+03:00"
+              },
+              {
+                "hr_bpm_int": 114,
+                "datetime_string": "2024-06-13 23:35:36.020000+03:00"
+              },
+              {
+                "hr_bpm_int": 121,
+                "datetime_string": "2024-06-13 23:35:40.020000+03:00"
+              },
+              {
+                "hr_bpm_int": 125,
+                "datetime_string": "2024-06-13 23:35:43.020000+03:00"
+              },
+              {
+                "hr_bpm_int": 127,
+                "datetime_string": "2024-06-13 23:35:51.020000+03:00"
+              },
+              {
+                "hr_bpm_int": 126,
+                "datetime_string": "2024-06-13 23:35:56.020000+03:00"
+              },
+              {
+                "hr_bpm_int": 126,
+                "datetime_string": "2024-06-13 23:35:57.020000+03:00"
+              },
+              {
+                "hr_bpm_int": 124,
+                "datetime_string": "2024-06-13 23:36:06.020000+03:00"
+              },
+              {
+                "hr_bpm_int": 122,
+                "datetime_string": "2024-06-13 23:36:09.020000+03:00"
+              },
+              {
+                "hr_bpm_int": 121,
+                "datetime_string": "2024-06-13 23:36:12.020000+03:00"
+              },
+              {
+                "hr_bpm_int": 121,
+                "datetime_string": "2024-06-13 23:36:17.020000+03:00"
+              },
+              {
+                "hr_bpm_int": 117,
+                "datetime_string": "2024-06-13 23:36:23.020000+03:00"
+              },
+              {
+                "hr_bpm_int": 113,
+                "datetime_string": "2024-06-13 23:36:29.020000+03:00"
+              },
+              {
+                "hr_bpm_int": 111,
+                "datetime_string": "2024-06-13 23:36:32.020000+03:00"
+              },
+              {
+                "hr_bpm_int": 106,
+                "datetime_string": "2024-06-13 23:36:40.020000+03:00"
+              },
+              {
+                "hr_bpm_int": 101,
+                "datetime_string": "2024-06-13 23:37:24.791000+03:00"
+              },
+              {
+                "hr_bpm_int": 91,
+                "datetime_string": "2024-06-13 23:44:49.791000+03:00"
+              },
+              {
+                "hr_bpm_int": 99,
+                "datetime_string": "2024-06-13 23:48:09.700000+03:00"
+              },
+              {
+                "hr_bpm_int": 99,
+                "datetime_string": "2024-06-13 23:48:10.700000+03:00"
+              },
+              {
+                "hr_bpm_int": 99,
+                "datetime_string": "2024-06-13 23:48:18.700000+03:00"
+              },
+              {
+                "hr_bpm_int": 98,
+                "datetime_string": "2024-06-13 23:48:20.700000+03:00"
+              },
+              {
+                "hr_bpm_int": 101,
+                "datetime_string": "2024-06-13 23:48:28.700000+03:00"
+              },
+              {
+                "hr_bpm_int": 107,
+                "datetime_string": "2024-06-13 23:48:34.700000+03:00"
+              },
+              {
+                "hr_bpm_int": 112,
+                "datetime_string": "2024-06-13 23:48:38.700000+03:00"
+              },
+              {
+                "hr_bpm_int": 116,
+                "datetime_string": "2024-06-13 23:48:42.700000+03:00"
+              },
+              {
+                "hr_bpm_int": 114,
+                "datetime_string": "2024-06-13 23:48:45.700000+03:00"
+              },
+              {
+                "hr_bpm_int": 95,
+                "datetime_string": "2024-06-13 23:48:54.700000+03:00"
+              },
+              {
+                "hr_bpm_int": 92,
+                "datetime_string": "2024-06-13 23:48:58.700000+03:00"
+              },
+              {
+                "hr_bpm_int": 85,
+                "datetime_string": "2024-06-13 23:49:04.700000+03:00"
+              },
+              {
+                "hr_bpm_int": 85,
+                "datetime_string": "2024-06-13 23:49:58.541000+03:00"
+              },
+              {
+                "hr_bpm_int": 104,
+                "datetime_string": "2024-06-13 23:58:50.786000+03:00"
+              },
+              {
+                "hr_bpm_int": 95,
+                "datetime_string": "2024-06-13 23:59:36.541000+03:00"
+              }
+            ],
+            "hrv_avg_rmssd_float": null,
+            "hrv_avg_sdnn_float": 30.0,
+            "hrv_sdnn_granular_data_array": [
+              {
+                "hrv_sdnn_float": 25.0,
+                "datetime_string": "2024-06-13 22:05:03.365000+03:00"
+              },
+              {
+                "hrv_sdnn_float": 14.0,
+                "datetime_string": "2024-06-13 18:51:42.901000+03:00"
+              },
+              {
+                "hrv_sdnn_float": 25.0,
+                "datetime_string": "2024-06-13 14:25:21.192000+03:00"
+              },
+              {
+                "hrv_sdnn_float": 33.0,
+                "datetime_string": "2024-06-13 10:17:41.639000+03:00"
+              },
+              {
+                "hrv_sdnn_float": 48.0,
+                "datetime_string": "2024-06-13 06:04:42.139000+03:00"
+              },
+              {
+                "hrv_sdnn_float": 30.0,
+                "datetime_string": "2024-06-13 02:04:43.522000+03:00"
+              },
+              {
+                "hrv_sdnn_float": 31.0,
+                "datetime_string": "2024-06-13 00:30:44.906000+03:00"
+              }
+            ],
+            "hrv_rmssd_granular_data_array": []
+          },
+          "mood": {
+            "mood_minimum_scale_int": null,
+            "mood_avg_scale_int": null,
+            "mood_maximum_scale_int": null,
+            "mood_granular_data_array": [],
+            "mood_delta_scale_int": null
+          },
+          "nutrition": {
+            "food_intake_float": null,
+            "calories_intake_kcal_float": null,
+            "protein_intake_g_float": null,
+            "sugar_intake_g_float": null,
+            "fat_intake_g_float": null,
+            "trans_fat_intake_g_float": null,
+            "carbohydrates_intake_g_float": null,
+            "fiber_intake_g_float": null,
+            "alcohol_intake_g_float": null,
+            "sodium_intake_mg_float": null,
+            "cholesterol_intake_mg_float": null
+          },
+          "oxygenation": {
+            "saturation_avg_percentage_int": null,
+            "saturation_granular_data_array": [],
+            "vo2max_mL_per_min_per_kg_int": null,
+            "vo2_granular_data_array": []
+          },
+          "temperature": {
+            "temperature_avg_object": {},
+            "temperature_maximum_object": {},
+            "temperature_minimum_object": {},
+            "temperature_granular_data_array": [],
+            "temperature_delta_object": {}
+          },
+          "menstruation": {
+            "last_updated_datetime_string": null,
+            "period_start_date_string": null,
+            "cycle_day_int": null,
+            "predicted_cycle_length_days_int": null,
+            "cycle_length_days_int": null,
+            "current_phase_string": null,
+            "length_of_current_phase_days_int": null,
+            "days_until_next_phase_int": null,
+            "is_a_predicted_cycle_bool": null,
+            "menstruation_flow_granular_data_array": []
+          },
+          "metadata": {
+            "datetime_string": "2024-06-13T15:00:00.000000+03:00",
+            "user_id_string": "666b6deb546ffd3bd73dc257",
+            "sources_of_data_array": [
+              "Apple Health"
+            ]
+          },
+          "non_structured_data": []
+        }
+      }
+    }
+  }

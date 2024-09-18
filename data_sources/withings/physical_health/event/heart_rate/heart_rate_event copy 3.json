@@ -1,0 +1,34 @@
+{
+    "version": 2,
+    "data_structure": "heart_rate_event",
+    "client_uuid": "c738126d-627b-4488-8a15-22920965db26",
+    "user_id": "6666e0e1546ffd3bd74411b0",
+    "physical_health": {
+      "events": {
+        "heart_rate_event": [
+          {
+            "metadata": {
+              "datetime_string": "2024-06-10T11:17:34.000000Z",
+              "user_id_string": "6666e0e1546ffd3bd74411b0",
+              "sources_of_data_array": [
+                "Withings"
+              ],
+              "was_the_user_under_physical_activity_bool": null
+            },
+            "heart_rate": {
+              "hr_maximum_bpm_int": null,
+              "hr_minimum_bpm_int": null,
+              "hr_avg_bpm_int": 52,
+              "hr_resting_bpm_int": null,
+              "hr_granular_data_array": [],
+              "hrv_avg_rmssd_float": null,
+              "hrv_avg_sdnn_float": null,
+              "hrv_sdnn_granular_data_array": [],
+              "hrv_rmssd_granular_data_array": []
+            },
+            "non_structured_data_array": []
+          }
+        ]
+      }
+    }
+  }

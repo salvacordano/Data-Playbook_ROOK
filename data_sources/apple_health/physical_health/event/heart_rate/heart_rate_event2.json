@@ -1,0 +1,1087 @@
+{
+    "version": 2,
+    "data_structure": "heart_rate_event",
+    "client_uuid": "80024b87-b5d0-4257-aa1d-6310322a8915",
+    "user_id": "66689d7f546ffd3bd7e56ce0",
+    "physical_health": {
+      "events": {
+        "heart_rate_event": [
+          {
+            "metadata": {
+              "datetime_string": "2024-06-10T18:02:47.818000-07:00",
+              "user_id_string": "66689d7f546ffd3bd7e56ce0",
+              "sources_of_data_array": [
+                "Apple Health"
+              ],
+              "was_the_user_under_physical_activity_bool": true
+            },
+            "heart_rate": {
+              "hr_maximum_bpm_int": 172,
+              "hr_minimum_bpm_int": 94,
+              "hr_avg_bpm_int": 146,
+              "hr_resting_bpm_int": null,
+              "hr_granular_data_array": [
+                {
+                  "hr_bpm_int": 102,
+                  "datetime_string": "2024-06-10T18:02:47.818-07:00"
+                },
+                {
+                  "hr_bpm_int": 102,
+                  "datetime_string": "2024-06-10T18:02:54.818-07:00"
+                },
+                {
+                  "hr_bpm_int": 102,
+                  "datetime_string": "2024-06-10T18:02:55.818-07:00"
+                },
+                {
+                  "hr_bpm_int": 100,
+                  "datetime_string": "2024-06-10T18:03:04.818-07:00"
+                },
+                {
+                  "hr_bpm_int": 101,
+                  "datetime_string": "2024-06-10T18:03:08.818-07:00"
+                },
+                {
+                  "hr_bpm_int": 101,
+                  "datetime_string": "2024-06-10T18:03:10.818-07:00"
+                },
+                {
+                  "hr_bpm_int": 101,
+                  "datetime_string": "2024-06-10T18:03:15.818-07:00"
+                },
+                {
+                  "hr_bpm_int": 100,
+                  "datetime_string": "2024-06-10T18:03:22.818-07:00"
+                },
+                {
+                  "hr_bpm_int": 100,
+                  "datetime_string": "2024-06-10T18:03:26.818-07:00"
+                },
+                {
+                  "hr_bpm_int": 97,
+                  "datetime_string": "2024-06-10T18:04:19.818-07:00"
+                },
+                {
+                  "hr_bpm_int": 95,
+                  "datetime_string": "2024-06-10T18:04:24.818-07:00"
+                },
+                {
+                  "hr_bpm_int": 96,
+                  "datetime_string": "2024-06-10T18:04:34.818-07:00"
+                },
+                {
+                  "hr_bpm_int": 96,
+                  "datetime_string": "2024-06-10T18:04:44.818-07:00"
+                },
+                {
+                  "hr_bpm_int": 95,
+                  "datetime_string": "2024-06-10T18:04:45.818-07:00"
+                },
+                {
+                  "hr_bpm_int": 94,
+                  "datetime_string": "2024-06-10T18:04:50.818-07:00"
+                },
+                {
+                  "hr_bpm_int": 101,
+                  "datetime_string": "2024-06-10T18:04:57.818-07:00"
+                },
+                {
+                  "hr_bpm_int": 106,
+                  "datetime_string": "2024-06-10T18:05:01.818-07:00"
+                },
+                {
+                  "hr_bpm_int": 111,
+                  "datetime_string": "2024-06-10T18:05:05.818-07:00"
+                },
+                {
+                  "hr_bpm_int": 112,
+                  "datetime_string": "2024-06-10T18:05:29.818-07:00"
+                },
+                {
+                  "hr_bpm_int": 112,
+                  "datetime_string": "2024-06-10T18:05:35.818-07:00"
+                },
+                {
+                  "hr_bpm_int": 113,
+                  "datetime_string": "2024-06-10T18:05:41.818-07:00"
+                },
+                {
+                  "hr_bpm_int": 114,
+                  "datetime_string": "2024-06-10T18:05:48.818-07:00"
+                },
+                {
+                  "hr_bpm_int": 115,
+                  "datetime_string": "2024-06-10T18:05:50.818-07:00"
+                },
+                {
+                  "hr_bpm_int": 132,
+                  "datetime_string": "2024-06-10T18:09:03.818-07:00"
+                },
+                {
+                  "hr_bpm_int": 143,
+                  "datetime_string": "2024-06-10T18:09:44.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 145,
+                  "datetime_string": "2024-06-10T18:09:49.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 145,
+                  "datetime_string": "2024-06-10T18:09:54.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 145,
+                  "datetime_string": "2024-06-10T18:09:55.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 142,
+                  "datetime_string": "2024-06-10T18:10:00.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 140,
+                  "datetime_string": "2024-06-10T18:10:07.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 140,
+                  "datetime_string": "2024-06-10T18:10:11.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 140,
+                  "datetime_string": "2024-06-10T18:10:16.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 142,
+                  "datetime_string": "2024-06-10T18:10:23.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 144,
+                  "datetime_string": "2024-06-10T18:10:25.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 149,
+                  "datetime_string": "2024-06-10T18:10:30.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 151,
+                  "datetime_string": "2024-06-10T18:10:35.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 151,
+                  "datetime_string": "2024-06-10T18:10:44.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 152,
+                  "datetime_string": "2024-06-10T18:10:47.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 153,
+                  "datetime_string": "2024-06-10T18:10:52.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 153,
+                  "datetime_string": "2024-06-10T18:10:57.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 154,
+                  "datetime_string": "2024-06-10T18:11:03.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 154,
+                  "datetime_string": "2024-06-10T18:11:09.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 154,
+                  "datetime_string": "2024-06-10T18:11:13.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 154,
+                  "datetime_string": "2024-06-10T18:11:17.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 155,
+                  "datetime_string": "2024-06-10T18:11:22.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 155,
+                  "datetime_string": "2024-06-10T18:11:28.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 156,
+                  "datetime_string": "2024-06-10T18:11:32.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 157,
+                  "datetime_string": "2024-06-10T18:11:39.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 155,
+                  "datetime_string": "2024-06-10T18:11:44.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 154,
+                  "datetime_string": "2024-06-10T18:11:46.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 154,
+                  "datetime_string": "2024-06-10T18:11:52.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 154,
+                  "datetime_string": "2024-06-10T18:11:56.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 156,
+                  "datetime_string": "2024-06-10T18:12:01.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 154,
+                  "datetime_string": "2024-06-10T18:12:06.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 153,
+                  "datetime_string": "2024-06-10T18:12:10.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 156,
+                  "datetime_string": "2024-06-10T18:12:19.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 154,
+                  "datetime_string": "2024-06-10T18:12:23.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 154,
+                  "datetime_string": "2024-06-10T18:12:28.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 153,
+                  "datetime_string": "2024-06-10T18:12:30.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 150,
+                  "datetime_string": "2024-06-10T18:12:38.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 151,
+                  "datetime_string": "2024-06-10T18:12:44.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 151,
+                  "datetime_string": "2024-06-10T18:12:47.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 151,
+                  "datetime_string": "2024-06-10T18:12:52.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 150,
+                  "datetime_string": "2024-06-10T18:12:55.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 145,
+                  "datetime_string": "2024-06-10T18:13:04.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 141,
+                  "datetime_string": "2024-06-10T18:13:09.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 140,
+                  "datetime_string": "2024-06-10T18:13:10.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 145,
+                  "datetime_string": "2024-06-10T18:13:19.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 145,
+                  "datetime_string": "2024-06-10T18:13:22.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 144,
+                  "datetime_string": "2024-06-10T18:13:26.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 145,
+                  "datetime_string": "2024-06-10T18:13:30.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 150,
+                  "datetime_string": "2024-06-10T18:13:38.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 149,
+                  "datetime_string": "2024-06-10T18:13:44.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 149,
+                  "datetime_string": "2024-06-10T18:13:49.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 149,
+                  "datetime_string": "2024-06-10T18:13:53.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 149,
+                  "datetime_string": "2024-06-10T18:13:59.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 149,
+                  "datetime_string": "2024-06-10T18:14:02.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 150,
+                  "datetime_string": "2024-06-10T18:14:05.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 151,
+                  "datetime_string": "2024-06-10T18:14:10.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 152,
+                  "datetime_string": "2024-06-10T18:14:16.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 154,
+                  "datetime_string": "2024-06-10T18:14:24.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 154,
+                  "datetime_string": "2024-06-10T18:14:26.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 157,
+                  "datetime_string": "2024-06-10T18:14:31.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 158,
+                  "datetime_string": "2024-06-10T18:14:36.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 159,
+                  "datetime_string": "2024-06-10T18:14:40.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 160,
+                  "datetime_string": "2024-06-10T18:14:48.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 161,
+                  "datetime_string": "2024-06-10T18:14:52.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 164,
+                  "datetime_string": "2024-06-10T18:14:59.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 165,
+                  "datetime_string": "2024-06-10T18:15:04.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 164,
+                  "datetime_string": "2024-06-10T18:15:05.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 163,
+                  "datetime_string": "2024-06-10T18:15:11.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 167,
+                  "datetime_string": "2024-06-10T18:15:19.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 168,
+                  "datetime_string": "2024-06-10T18:15:23.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 168,
+                  "datetime_string": "2024-06-10T18:15:28.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 168,
+                  "datetime_string": "2024-06-10T18:15:33.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 169,
+                  "datetime_string": "2024-06-10T18:15:37.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 168,
+                  "datetime_string": "2024-06-10T18:15:40.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 169,
+                  "datetime_string": "2024-06-10T18:15:46.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 170,
+                  "datetime_string": "2024-06-10T18:15:52.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 171,
+                  "datetime_string": "2024-06-10T18:15:59.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 171,
+                  "datetime_string": "2024-06-10T18:16:00.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 171,
+                  "datetime_string": "2024-06-10T18:16:08.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 170,
+                  "datetime_string": "2024-06-10T18:16:12.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 171,
+                  "datetime_string": "2024-06-10T18:16:18.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 172,
+                  "datetime_string": "2024-06-10T18:16:23.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 170,
+                  "datetime_string": "2024-06-10T18:16:29.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 170,
+                  "datetime_string": "2024-06-10T18:16:31.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 168,
+                  "datetime_string": "2024-06-10T18:16:38.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 167,
+                  "datetime_string": "2024-06-10T18:16:40.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 168,
+                  "datetime_string": "2024-06-10T18:16:49.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 167,
+                  "datetime_string": "2024-06-10T18:16:50.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 166,
+                  "datetime_string": "2024-06-10T18:16:57.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 166,
+                  "datetime_string": "2024-06-10T18:17:03.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 166,
+                  "datetime_string": "2024-06-10T18:17:07.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 162,
+                  "datetime_string": "2024-06-10T18:17:12.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 160,
+                  "datetime_string": "2024-06-10T18:17:19.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 160,
+                  "datetime_string": "2024-06-10T18:17:21.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 161,
+                  "datetime_string": "2024-06-10T18:17:27.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 160,
+                  "datetime_string": "2024-06-10T18:17:31.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 159,
+                  "datetime_string": "2024-06-10T18:17:38.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 157,
+                  "datetime_string": "2024-06-10T18:17:44.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 158,
+                  "datetime_string": "2024-06-10T18:17:46.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 155,
+                  "datetime_string": "2024-06-10T18:17:53.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 155,
+                  "datetime_string": "2024-06-10T18:17:57.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 155,
+                  "datetime_string": "2024-06-10T18:18:02.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 154,
+                  "datetime_string": "2024-06-10T18:18:06.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 152,
+                  "datetime_string": "2024-06-10T18:18:12.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 156,
+                  "datetime_string": "2024-06-10T18:18:19.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 155,
+                  "datetime_string": "2024-06-10T18:18:24.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 154,
+                  "datetime_string": "2024-06-10T18:18:29.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 155,
+                  "datetime_string": "2024-06-10T18:18:34.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 154,
+                  "datetime_string": "2024-06-10T18:18:38.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 154,
+                  "datetime_string": "2024-06-10T18:18:40.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 152,
+                  "datetime_string": "2024-06-10T18:18:47.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 152,
+                  "datetime_string": "2024-06-10T18:18:50.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 150,
+                  "datetime_string": "2024-06-10T18:18:55.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 152,
+                  "datetime_string": "2024-06-10T18:19:04.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 154,
+                  "datetime_string": "2024-06-10T18:19:07.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 155,
+                  "datetime_string": "2024-06-10T18:19:10.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 152,
+                  "datetime_string": "2024-06-10T18:19:19.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 151,
+                  "datetime_string": "2024-06-10T18:19:21.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 142,
+                  "datetime_string": "2024-06-10T18:19:29.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 140,
+                  "datetime_string": "2024-06-10T18:19:32.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 142,
+                  "datetime_string": "2024-06-10T18:19:37.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 142,
+                  "datetime_string": "2024-06-10T18:19:42.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 142,
+                  "datetime_string": "2024-06-10T18:19:45.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 141,
+                  "datetime_string": "2024-06-10T18:19:53.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 140,
+                  "datetime_string": "2024-06-10T18:19:55.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 139,
+                  "datetime_string": "2024-06-10T18:20:00.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 142,
+                  "datetime_string": "2024-06-10T18:20:05.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 142,
+                  "datetime_string": "2024-06-10T18:20:10.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 144,
+                  "datetime_string": "2024-06-10T18:20:15.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 144,
+                  "datetime_string": "2024-06-10T18:20:21.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 146,
+                  "datetime_string": "2024-06-10T18:20:25.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 150,
+                  "datetime_string": "2024-06-10T18:20:34.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 149,
+                  "datetime_string": "2024-06-10T18:20:39.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 151,
+                  "datetime_string": "2024-06-10T18:20:43.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 152,
+                  "datetime_string": "2024-06-10T18:20:49.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 152,
+                  "datetime_string": "2024-06-10T18:20:50.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 153,
+                  "datetime_string": "2024-06-10T18:20:55.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 155,
+                  "datetime_string": "2024-06-10T18:21:00.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 153,
+                  "datetime_string": "2024-06-10T18:21:08.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 152,
+                  "datetime_string": "2024-06-10T18:21:14.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 152,
+                  "datetime_string": "2024-06-10T18:21:15.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 152,
+                  "datetime_string": "2024-06-10T18:21:21.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 152,
+                  "datetime_string": "2024-06-10T18:21:27.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 153,
+                  "datetime_string": "2024-06-10T18:21:34.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 153,
+                  "datetime_string": "2024-06-10T18:21:35.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 154,
+                  "datetime_string": "2024-06-10T18:21:43.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 155,
+                  "datetime_string": "2024-06-10T18:21:46.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 152,
+                  "datetime_string": "2024-06-10T18:21:50.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 155,
+                  "datetime_string": "2024-06-10T18:21:59.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 152,
+                  "datetime_string": "2024-06-10T18:22:03.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 150,
+                  "datetime_string": "2024-06-10T18:22:09.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 149,
+                  "datetime_string": "2024-06-10T18:22:10.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 149,
+                  "datetime_string": "2024-06-10T18:22:15.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 147,
+                  "datetime_string": "2024-06-10T18:22:24.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 146,
+                  "datetime_string": "2024-06-10T18:22:29.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 145,
+                  "datetime_string": "2024-06-10T18:22:33.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 145,
+                  "datetime_string": "2024-06-10T18:22:38.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 145,
+                  "datetime_string": "2024-06-10T18:22:44.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 145,
+                  "datetime_string": "2024-06-10T18:22:45.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 147,
+                  "datetime_string": "2024-06-10T18:22:53.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 148,
+                  "datetime_string": "2024-06-10T18:22:55.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 150,
+                  "datetime_string": "2024-06-10T18:23:04.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 149,
+                  "datetime_string": "2024-06-10T18:23:08.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 148,
+                  "datetime_string": "2024-06-10T18:23:12.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 146,
+                  "datetime_string": "2024-06-10T18:23:19.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 148,
+                  "datetime_string": "2024-06-10T18:23:22.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 152,
+                  "datetime_string": "2024-06-10T18:23:29.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 153,
+                  "datetime_string": "2024-06-10T18:23:34.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 154,
+                  "datetime_string": "2024-06-10T18:23:37.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 157,
+                  "datetime_string": "2024-06-10T18:23:42.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 158,
+                  "datetime_string": "2024-06-10T18:23:45.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 159,
+                  "datetime_string": "2024-06-10T18:23:51.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 160,
+                  "datetime_string": "2024-06-10T18:23:55.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 161,
+                  "datetime_string": "2024-06-10T18:24:04.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 161,
+                  "datetime_string": "2024-06-10T18:24:08.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 162,
+                  "datetime_string": "2024-06-10T18:24:12.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 160,
+                  "datetime_string": "2024-06-10T18:24:19.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 160,
+                  "datetime_string": "2024-06-10T18:24:22.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 160,
+                  "datetime_string": "2024-06-10T18:24:27.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 159,
+                  "datetime_string": "2024-06-10T18:24:32.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 159,
+                  "datetime_string": "2024-06-10T18:24:35.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 160,
+                  "datetime_string": "2024-06-10T18:24:40.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 161,
+                  "datetime_string": "2024-06-10T18:24:47.068-07:00"
+                },
+                {
+                  "hr_bpm_int": 161,
+                  "datetime_string": "2024-06-10T18:24:50.069-07:00"
+                },
+                {
+                  "hr_bpm_int": 160,
+                  "datetime_string": "2024-06-10T18:24:59.069-07:00"
+                },
+                {
+                  "hr_bpm_int": 160,
+                  "datetime_string": "2024-06-10T18:25:00.069-07:00"
+                },
+                {
+                  "hr_bpm_int": 163,
+                  "datetime_string": "2024-06-10T18:25:07.069-07:00"
+                },
+                {
+                  "hr_bpm_int": 164,
+                  "datetime_string": "2024-06-10T18:25:12.069-07:00"
+                },
+                {
+                  "hr_bpm_int": 160,
+                  "datetime_string": "2024-06-10T18:25:19.069-07:00"
+                },
+                {
+                  "hr_bpm_int": 160,
+                  "datetime_string": "2024-06-10T18:25:20.069-07:00"
+                },
+                {
+                  "hr_bpm_int": 160,
+                  "datetime_string": "2024-06-10T18:25:25.069-07:00"
+                },
+                {
+                  "hr_bpm_int": 156,
+                  "datetime_string": "2024-06-10T18:25:34.069-07:00"
+                },
+                {
+                  "hr_bpm_int": 152,
+                  "datetime_string": "2024-06-10T18:25:38.069-07:00"
+                },
+                {
+                  "hr_bpm_int": 153,
+                  "datetime_string": "2024-06-10T18:25:41.069-07:00"
+                },
+                {
+                  "hr_bpm_int": 151,
+                  "datetime_string": "2024-06-10T18:25:48.069-07:00"
+                },
+                {
+                  "hr_bpm_int": 152,
+                  "datetime_string": "2024-06-10T18:25:53.069-07:00"
+                },
+                {
+                  "hr_bpm_int": 151,
+                  "datetime_string": "2024-06-10T18:25:55.069-07:00"
+                },
+                {
+                  "hr_bpm_int": 152,
+                  "datetime_string": "2024-06-10T18:26:00.069-07:00"
+                },
+                {
+                  "hr_bpm_int": 152,
+                  "datetime_string": "2024-06-10T18:26:09.069-07:00"
+                },
+                {
+                  "hr_bpm_int": 149,
+                  "datetime_string": "2024-06-10T18:26:14.069-07:00"
+                },
+                {
+                  "hr_bpm_int": 149,
+                  "datetime_string": "2024-06-10T18:26:16.069-07:00"
+                },
+                {
+                  "hr_bpm_int": 149,
+                  "datetime_string": "2024-06-10T18:26:21.069-07:00"
+                },
+                {
+                  "hr_bpm_int": 150,
+                  "datetime_string": "2024-06-10T18:26:27.069-07:00"
+                },
+                {
+                  "hr_bpm_int": 150,
+                  "datetime_string": "2024-06-10T18:26:30.069-07:00"
+                },
+                {
+                  "hr_bpm_int": 152,
+                  "datetime_string": "2024-06-10T18:26:35.069-07:00"
+                },
+                {
+                  "hr_bpm_int": 152,
+                  "datetime_string": "2024-06-10T18:26:40.069-07:00"
+                },
+                {
+                  "hr_bpm_int": 150,
+                  "datetime_string": "2024-06-10T18:26:49.069-07:00"
+                },
+                {
+                  "hr_bpm_int": 149,
+                  "datetime_string": "2024-06-10T18:26:54.069-07:00"
+                },
+                {
+                  "hr_bpm_int": 148,
+                  "datetime_string": "2024-06-10T18:26:55.069-07:00"
+                },
+                {
+                  "hr_bpm_int": 141,
+                  "datetime_string": "2024-06-10T18:27:03.069-07:00"
+                },
+                {
+                  "hr_bpm_int": 140,
+                  "datetime_string": "2024-06-10T18:27:08.069-07:00"
+                },
+                {
+                  "hr_bpm_int": 140,
+                  "datetime_string": "2024-06-10T18:27:10.069-07:00"
+                },
+                {
+                  "hr_bpm_int": 139,
+                  "datetime_string": "2024-06-10T18:27:17.069-07:00"
+                },
+                {
+                  "hr_bpm_int": 134,
+                  "datetime_string": "2024-06-10T18:27:23.069-07:00"
+                },
+                {
+                  "hr_bpm_int": 133,
+                  "datetime_string": "2024-06-10T18:27:25.069-07:00"
+                },
+                {
+                  "hr_bpm_int": 137,
+                  "datetime_string": "2024-06-10T18:27:33.069-07:00"
+                },
+                {
+                  "hr_bpm_int": 136,
+                  "datetime_string": "2024-06-10T18:27:35.069-07:00"
+                },
+                {
+                  "hr_bpm_int": 134,
+                  "datetime_string": "2024-06-10T18:27:41.069-07:00"
+                },
+                {
+                  "hr_bpm_int": 134,
+                  "datetime_string": "2024-06-10T18:27:49.069-07:00"
+                },
+                {
+                  "hr_bpm_int": 133,
+                  "datetime_string": "2024-06-10T18:27:53.069-07:00"
+                },
+                {
+                  "hr_bpm_int": 137,
+                  "datetime_string": "2024-06-10T18:27:58.069-07:00"
+                },
+                {
+                  "hr_bpm_int": 134,
+                  "datetime_string": "2024-06-10T18:28:02.069-07:00"
+                },
+                {
+                  "hr_bpm_int": 134,
+                  "datetime_string": "2024-06-10T18:28:09.069-07:00"
+                },
+                {
+                  "hr_bpm_int": 134,
+                  "datetime_string": "2024-06-10T18:28:10.069-07:00"
+                },
+                {
+                  "hr_bpm_int": 132,
+                  "datetime_string": "2024-06-10T18:28:15.069-07:00"
+                },
+                {
+                  "hr_bpm_int": 135,
+                  "datetime_string": "2024-06-10T18:28:24.069-07:00"
+                },
+                {
+                  "hr_bpm_int": 135,
+                  "datetime_string": "2024-06-10T18:28:26.069-07:00"
+                },
+                {
+                  "hr_bpm_int": 135,
+                  "datetime_string": "2024-06-10T18:28:34.069-07:00"
+                },
+                {
+                  "hr_bpm_int": 135,
+                  "datetime_string": "2024-06-10T18:28:38.069-07:00"
+                },
+                {
+                  "hr_bpm_int": 135,
+                  "datetime_string": "2024-06-10T18:28:40.069-07:00"
+                },
+                {
+                  "hr_bpm_int": 133,
+                  "datetime_string": "2024-06-10T18:28:47.069-07:00"
+                },
+                {
+                  "hr_bpm_int": 132,
+                  "datetime_string": "2024-06-10T18:28:54.069-07:00"
+                },
+                {
+                  "hr_bpm_int": 129,
+                  "datetime_string": "2024-06-10T18:28:59.069-07:00"
+                },
+                {
+                  "hr_bpm_int": 125,
+                  "datetime_string": "2024-06-10T18:29:04.069-07:00"
+                },
+                {
+                  "hr_bpm_int": 126,
+                  "datetime_string": "2024-06-10T18:29:09.069-07:00"
+                },
+                {
+                  "hr_bpm_int": 125,
+                  "datetime_string": "2024-06-10T18:29:14.069-07:00"
+                },
+                {
+                  "hr_bpm_int": 125,
+                  "datetime_string": "2024-06-10T18:29:15.069-07:00"
+                },
+                {
+                  "hr_bpm_int": 128,
+                  "datetime_string": "2024-06-10T18:29:24.069-07:00"
+                },
+                {
+                  "hr_bpm_int": 128,
+                  "datetime_string": "2024-06-10T18:29:25.069-07:00"
+                },
+                {
+                  "hr_bpm_int": 127,
+                  "datetime_string": "2024-06-10T18:29:33.069-07:00"
+                }
+              ],
+              "hrv_avg_rmssd_float": null,
+              "hrv_avg_sdnn_float": null,
+              "hrv_sdnn_granular_data_array": [],
+              "hrv_rmssd_granular_data_array": []
+            },
+            "non_structured_data_array": []
+          }
+        ]
+      }
+    }
+  }

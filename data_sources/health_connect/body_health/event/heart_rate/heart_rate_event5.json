@@ -1,0 +1,123 @@
+{
+    "version": 2,
+    "data_structure": "heart_rate_event",
+    "client_uuid": "0064c327-574f-45fa-a624-47942f831613",
+    "user_id": "66881e833136af1a29928f4b",
+    "body_health": {
+      "events": {
+        "heart_rate_event": [
+          {
+            "metadata": {
+              "datetime_string": "2024-07-05T04:00:00.000000-06:00",
+              "user_id_string": "66881e833136af1a29928f4b",
+              "sources_of_data_array": [
+                "Health Connect"
+              ],
+              "was_the_user_under_physical_activity_bool": false
+            },
+            "heart_rate": {
+              "hr_maximum_bpm_int": 59,
+              "hr_minimum_bpm_int": 51,
+              "hr_avg_bpm_int": 53,
+              "hr_resting_bpm_int": null,
+              "hr_granular_data_array": [
+                {
+                  "hr_bpm_int": 51,
+                  "datetime_string": "2024-07-05 04:00:28-06:00"
+                },
+                {
+                  "hr_bpm_int": 52,
+                  "datetime_string": "2024-07-05 04:03:12-06:00"
+                },
+                {
+                  "hr_bpm_int": 52,
+                  "datetime_string": "2024-07-05 04:08:12-06:00"
+                },
+                {
+                  "hr_bpm_int": 53,
+                  "datetime_string": "2024-07-05 04:13:17-06:00"
+                },
+                {
+                  "hr_bpm_int": 52,
+                  "datetime_string": "2024-07-05 04:15:28-06:00"
+                },
+                {
+                  "hr_bpm_int": 52,
+                  "datetime_string": "2024-07-05 04:18:17-06:00"
+                },
+                {
+                  "hr_bpm_int": 53,
+                  "datetime_string": "2024-07-05 04:20:28-06:00"
+                },
+                {
+                  "hr_bpm_int": 53,
+                  "datetime_string": "2024-07-05 04:23:17-06:00"
+                },
+                {
+                  "hr_bpm_int": 52,
+                  "datetime_string": "2024-07-05 04:25:28-06:00"
+                },
+                {
+                  "hr_bpm_int": 59,
+                  "datetime_string": "2024-07-05 04:28:17-06:00"
+                },
+                {
+                  "hr_bpm_int": 53,
+                  "datetime_string": "2024-07-05 04:30:28-06:00"
+                },
+                {
+                  "hr_bpm_int": 53,
+                  "datetime_string": "2024-07-05 04:33:17-06:00"
+                },
+                {
+                  "hr_bpm_int": 59,
+                  "datetime_string": "2024-07-05 04:35:28-06:00"
+                },
+                {
+                  "hr_bpm_int": 54,
+                  "datetime_string": "2024-07-05 04:38:17-06:00"
+                },
+                {
+                  "hr_bpm_int": 53,
+                  "datetime_string": "2024-07-05 04:40:28-06:00"
+                },
+                {
+                  "hr_bpm_int": 53,
+                  "datetime_string": "2024-07-05 04:43:17-06:00"
+                },
+                {
+                  "hr_bpm_int": 54,
+                  "datetime_string": "2024-07-05 04:45:28-06:00"
+                },
+                {
+                  "hr_bpm_int": 54,
+                  "datetime_string": "2024-07-05 04:48:17-06:00"
+                },
+                {
+                  "hr_bpm_int": 53,
+                  "datetime_string": "2024-07-05 04:50:28-06:00"
+                },
+                {
+                  "hr_bpm_int": 53,
+                  "datetime_string": "2024-07-05 04:53:17-06:00"
+                },
+                {
+                  "hr_bpm_int": 54,
+                  "datetime_string": "2024-07-05 04:55:28-06:00"
+                },
+                {
+                  "hr_bpm_int": 53,
+                  "datetime_string": "2024-07-05 04:58:17-06:00"
+                }
+              ],
+              "hrv_avg_rmssd_float": null,
+              "hrv_avg_sdnn_float": null,
+              "hrv_sdnn_granular_data_array": [],
+              "hrv_rmssd_granular_data_array": []
+            },
+            "non_structured_data_array": []
+          }
+        ]
+      }
+    }
+  }

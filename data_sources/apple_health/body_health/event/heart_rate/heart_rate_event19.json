@@ -1,0 +1,79 @@
+{
+    "version": 2,
+    "data_structure": "heart_rate_event",
+    "client_uuid": "11a489ea-3c28-4a3f-b8f8-e29fe85302d7",
+    "user_id": "667e9c27e0d679c0e7b4a050",
+    "body_health": {
+      "events": {
+        "heart_rate_event": [
+          {
+            "metadata": {
+              "datetime_string": "2024-06-24T20:01:09.886000-07:00",
+              "user_id_string": "667e9c27e0d679c0e7b4a050",
+              "sources_of_data_array": [
+                "Apple Health"
+              ],
+              "was_the_user_under_physical_activity_bool": false
+            },
+            "heart_rate": {
+              "hr_maximum_bpm_int": 76,
+              "hr_minimum_bpm_int": 67,
+              "hr_avg_bpm_int": 71,
+              "hr_resting_bpm_int": null,
+              "hr_granular_data_array": [
+                {
+                  "hr_bpm_int": 76,
+                  "datetime_string": "2024-06-24 20:01:09.886000-07:00"
+                },
+                {
+                  "hr_bpm_int": 76,
+                  "datetime_string": "2024-06-24 20:12:56.886000-07:00"
+                },
+                {
+                  "hr_bpm_int": 70,
+                  "datetime_string": "2024-06-24 20:22:25.886000-07:00"
+                },
+                {
+                  "hr_bpm_int": 68,
+                  "datetime_string": "2024-06-24 20:23:41.886000-07:00"
+                },
+                {
+                  "hr_bpm_int": 71,
+                  "datetime_string": "2024-06-24 20:31:23.886000-07:00"
+                },
+                {
+                  "hr_bpm_int": 71,
+                  "datetime_string": "2024-06-24 20:37:50.386000-07:00"
+                },
+                {
+                  "hr_bpm_int": 71,
+                  "datetime_string": "2024-06-24 20:41:55.886000-07:00"
+                },
+                {
+                  "hr_bpm_int": 70,
+                  "datetime_string": "2024-06-24 20:43:39.886000-07:00"
+                },
+                {
+                  "hr_bpm_int": 70,
+                  "datetime_string": "2024-06-24 20:50:03.886000-07:00"
+                },
+                {
+                  "hr_bpm_int": 67,
+                  "datetime_string": "2024-06-24 20:55:31.886000-07:00"
+                },
+                {
+                  "hr_bpm_int": 76,
+                  "datetime_string": "2024-06-24 20:58:56.636000-07:00"
+                }
+              ],
+              "hrv_avg_rmssd_float": null,
+              "hrv_avg_sdnn_float": null,
+              "hrv_sdnn_granular_data_array": [],
+              "hrv_rmssd_granular_data_array": []
+            },
+            "non_structured_data_array": []
+          }
+        ]
+      }
+    }
+  }

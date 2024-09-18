@@ -1,0 +1,66 @@
+{
+  "client_uuid": "demoClientUUID",
+  "user_id": "demoUserId",
+  "version": 2,
+  "document_version": 1,
+  "auto_detected": false,
+  "data_structure": "blood_pressure_event",
+  "body_health": {
+    "events": {
+      "blood_pressure_event": {
+          "non_structured_data_array": [
+            {}
+          ],
+          "metadata": {
+            "datetime_string": "2023-12-29T01:07:14.402999Z",
+            "sources_of_data_array": [],
+            "user_id_string": "demoUserId",
+            "was_the_user_under_physical_activity_bool": true
+          },
+          "blood_pressure": {
+            "blood_pressure_avg_object": {
+              "systolic_mmHg_int": 120,
+              "diastolic_mmHg_int": 80
+            },
+            "blood_pressure_granular_data_array": [
+              {
+                "datetime_string": "2023-12-29T01:07:14.402999Z",
+                "systolic_mmHg_int": 118,
+                "diastolic_mmHg_int": 79
+              },
+              {
+                "datetime_string": "2023-12-29T01:17:14.402999Z",
+                "systolic_mmHg_int": 120,
+                "diastolic_mmHg_int": 80
+              },
+              {
+                "datetime_string": "2023-12-29T01:27:14.402999Z",
+                "systolic_mmHg_int": 121,
+                "diastolic_mmHg_int": 82
+              },
+              {
+                "datetime_string": "2023-12-29T01:37:14.402999Z",
+                "systolic_mmHg_int": 119,
+                "diastolic_mmHg_int": 78
+              },
+              {
+                "datetime_string": "2023-12-29T01:47:14.402999Z",
+                "systolic_mmHg_int": 122,
+                "diastolic_mmHg_int": 81
+              },
+              {
+                "datetime_string": "2023-12-29T01:57:14.402999Z",
+                "systolic_mmHg_int": 123,
+                "diastolic_mmHg_int": 83
+              },
+              {
+                "datetime_string": "2023-12-29T02:07:14.402999Z",
+                "systolic_mmHg_int": 120,
+                "diastolic_mmHg_int": 80
+              }
+            ]
+          }
+        }
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+    "client_uuid": "demoClientUUID",
+    "user_id": "demoUserId",
+    "version": 2,
+    "document_version": 1,
+    "auto_detected": false,
+    "data_structure": "mood_event",
+    "body_health": {
+      "events": {
+        "mood_event": {
+          "non_structured_data_array": [
+            {}
+          ],
+          "metadata": {
+            "datetime_string": "2023-12-29T08:00:00.000Z",
+            "sources_of_data_array": [],
+            "user_id_string": "demoUserId",
+            "was_the_user_under_physical_activity_bool": true
+          },
+          "mood": {
+            "mood_minimum_scale_int": 4,
+            "mood_avg_scale_int": 6,
+            "mood_maximum_scale_int": 8,
+            "mood_granular_data_array": [
+              {
+                "datetime_string": "2023-12-29T08:00:00.000Z",
+                "interval_duration_seconds_float": 3600,
+                "mood_scale_int": 4
+              },
+              {
+                "datetime_string": "2023-12-29T08:15:00.000Z",
+                "interval_duration_seconds_float": 3600,
+                "mood_scale_int": 8
+              }
+            ],
+            "mood_delta_scale_int": null
+          }            
+        }
+      }
+    }
+  }

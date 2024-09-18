@@ -1,0 +1,119 @@
+{
+    "version": 2,
+    "data_structure": "heart_rate_event",
+    "client_uuid": "4d0be61d-d2da-4dac-8068-77a117e58dfa",
+    "user_id": "66881e813136af1a299283f6",
+    "body_health": {
+      "events": {
+        "heart_rate_event": [
+          {
+            "metadata": {
+              "datetime_string": "2024-07-05T01:00:00.000000-06:00",
+              "user_id_string": "66881e813136af1a299283f6",
+              "sources_of_data_array": [
+                "Health Connect"
+              ],
+              "was_the_user_under_physical_activity_bool": false
+            },
+            "heart_rate": {
+              "hr_maximum_bpm_int": 62,
+              "hr_minimum_bpm_int": 50,
+              "hr_avg_bpm_int": 54,
+              "hr_resting_bpm_int": null,
+              "hr_granular_data_array": [
+                {
+                  "hr_bpm_int": 54,
+                  "datetime_string": "2024-07-05 01:03:12-06:00"
+                },
+                {
+                  "hr_bpm_int": 53,
+                  "datetime_string": "2024-07-05 01:08:12-06:00"
+                },
+                {
+                  "hr_bpm_int": 54,
+                  "datetime_string": "2024-07-05 01:10:28-06:00"
+                },
+                {
+                  "hr_bpm_int": 54,
+                  "datetime_string": "2024-07-05 01:13:12-06:00"
+                },
+                {
+                  "hr_bpm_int": 53,
+                  "datetime_string": "2024-07-05 01:15:28-06:00"
+                },
+                {
+                  "hr_bpm_int": 53,
+                  "datetime_string": "2024-07-05 01:18:12-06:00"
+                },
+                {
+                  "hr_bpm_int": 54,
+                  "datetime_string": "2024-07-05 01:20:28-06:00"
+                },
+                {
+                  "hr_bpm_int": 53,
+                  "datetime_string": "2024-07-05 01:23:12-06:00"
+                },
+                {
+                  "hr_bpm_int": 51,
+                  "datetime_string": "2024-07-05 01:28:12-06:00"
+                },
+                {
+                  "hr_bpm_int": 53,
+                  "datetime_string": "2024-07-05 01:30:28-06:00"
+                },
+                {
+                  "hr_bpm_int": 59,
+                  "datetime_string": "2024-07-05 01:33:12-06:00"
+                },
+                {
+                  "hr_bpm_int": 51,
+                  "datetime_string": "2024-07-05 01:35:28-06:00"
+                },
+                {
+                  "hr_bpm_int": 60,
+                  "datetime_string": "2024-07-05 01:38:12-06:00"
+                },
+                {
+                  "hr_bpm_int": 59,
+                  "datetime_string": "2024-07-05 01:40:28-06:00"
+                },
+                {
+                  "hr_bpm_int": 62,
+                  "datetime_string": "2024-07-05 01:43:12-06:00"
+                },
+                {
+                  "hr_bpm_int": 60,
+                  "datetime_string": "2024-07-05 01:45:28-06:00"
+                },
+                {
+                  "hr_bpm_int": 53,
+                  "datetime_string": "2024-07-05 01:48:12-06:00"
+                },
+                {
+                  "hr_bpm_int": 62,
+                  "datetime_string": "2024-07-05 01:50:28-06:00"
+                },
+                {
+                  "hr_bpm_int": 50,
+                  "datetime_string": "2024-07-05 01:53:12-06:00"
+                },
+                {
+                  "hr_bpm_int": 53,
+                  "datetime_string": "2024-07-05 01:55:28-06:00"
+                },
+                {
+                  "hr_bpm_int": 50,
+                  "datetime_string": "2024-07-05 01:58:12-06:00"
+                }
+              ],
+              "hrv_avg_rmssd_float": null,
+              "hrv_avg_sdnn_float": null,
+              "hrv_sdnn_granular_data_array": [],
+              "hrv_rmssd_granular_data_array": []
+            },
+            "non_structured_data_array": []
+          }
+        ]
+      }
+    }
+  }

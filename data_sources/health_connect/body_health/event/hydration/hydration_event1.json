@@ -1,0 +1,34 @@
+{
+    "version": 2,
+    "data_structure": "hydration_event",
+    "client_uuid": "b8a124de-753e-4d46-9fa7-bad09775032f",
+    "user_id": "66675dab546ffd3bd7131d02",
+    "body_health": {
+      "events": {
+        "hydration_event": [
+          {
+            "metadata": {
+              "datetime_string": "2024-06-09T13:00:00.000000-06:00",
+              "user_id_string": "66675dab546ffd3bd7131d02",
+              "sources_of_data_array": [
+                "Health Connect"
+              ],
+              "was_the_user_under_physical_activity_bool": false
+            },
+            "hydration": {
+              "water_total_consumption_mL_int": 12000,
+              "hydration_amount_granular_data_array": [
+                {
+                  "interval_duration_seconds_float": 1800.0,
+                  "hydration_amount_mL_int": 12000,
+                  "datetime_string": "2024-06-09 13:39:32.195000-06:00"
+                }
+              ],
+              "hydration_level_granular_data_array": []
+            },
+            "non_structured_data_array": []
+          }
+        ]
+      }
+    }
+  }

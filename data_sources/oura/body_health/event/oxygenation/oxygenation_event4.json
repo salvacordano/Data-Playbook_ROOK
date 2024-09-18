@@ -1,0 +1,29 @@
+{
+    "version": 2,
+    "data_structure": "oxygenation_event",
+    "client_uuid": "658c6109-3c60-48a9-a2a7-bd8d6f4b2aef",
+    "user_id": "667c0352546ffd3bd7098b86",
+    "body_health": {
+      "events": {
+        "oxygenation_event": [
+          {
+            "metadata": {
+              "datetime_string": "2024-06-26T12:02:21.351941Z",
+              "user_id_string": "667c0352546ffd3bd7098b86",
+              "sources_of_data_array": [
+                "Oura"
+              ],
+              "was_the_user_under_physical_activity_bool": null
+            },
+            "oxygenation": {
+              "saturation_avg_percentage_int": 97,
+              "saturation_granular_data_array": [],
+              "vo2max_mL_per_min_per_kg_int": null,
+              "vo2_granular_data_array": []
+            },
+            "non_structured_data_array": []
+          }
+        ]
+      }
+    }
+  }

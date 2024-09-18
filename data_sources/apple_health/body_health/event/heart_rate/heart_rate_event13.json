@@ -1,0 +1,47 @@
+{
+    "version": 2,
+    "data_structure": "heart_rate_event",
+    "client_uuid": "48af2ffa-8d6c-4ebf-a275-b94fe868c44f",
+    "user_id": "667a0737546ffd3bd75cc430",
+    "body_health": {
+      "events": {
+        "heart_rate_event": [
+          {
+            "metadata": {
+              "datetime_string": "2024-06-15T23:02:00.892000-06:00",
+              "user_id_string": "667a0737546ffd3bd75cc430",
+              "sources_of_data_array": [
+                "Apple Health"
+              ],
+              "was_the_user_under_physical_activity_bool": false
+            },
+            "heart_rate": {
+              "hr_maximum_bpm_int": 68,
+              "hr_minimum_bpm_int": 65,
+              "hr_avg_bpm_int": 66,
+              "hr_resting_bpm_int": null,
+              "hr_granular_data_array": [
+                {
+                  "hr_bpm_int": 66,
+                  "datetime_string": "2024-06-15 23:02:00.892000-06:00"
+                },
+                {
+                  "hr_bpm_int": 68,
+                  "datetime_string": "2024-06-15 23:04:26.892000-06:00"
+                },
+                {
+                  "hr_bpm_int": 65,
+                  "datetime_string": "2024-06-15 23:10:15.017000-06:00"
+                }
+              ],
+              "hrv_avg_rmssd_float": null,
+              "hrv_avg_sdnn_float": null,
+              "hrv_sdnn_granular_data_array": [],
+              "hrv_rmssd_granular_data_array": []
+            },
+            "non_structured_data_array": []
+          }
+        ]
+      }
+    }
+  }

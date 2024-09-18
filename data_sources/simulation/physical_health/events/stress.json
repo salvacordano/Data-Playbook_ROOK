@@ -1,0 +1,54 @@
+{
+  "client_uuid": "demoClientUUID",
+  "user_id": "demoUserId",
+  "version": 2,
+  "document_version": 1,
+  "auto_detected": false,
+  "data_structure": "stress_event",
+  "physical_health": {
+    "events": {
+      "stress_event": {
+        "non_structured_data_array": [
+          {}
+        ],
+        "metadata": {
+          "datetime_string": "2023-12-29T21:07:14.402999Z",
+          "sources_of_data_array": [],
+          "user_id_string": "",
+          "was_the_user_under_physical_activity_bool": true
+        },
+        "stress": {
+          "stress_at_rest_duration_seconds_int": 300,
+          "stress_duration_seconds_int": 1380,
+          "low_stress_duration_seconds_int": 600,
+          "medium_stress_duration_seconds_int": 480,
+          "high_stress_duration_seconds_int": 300,
+          "tss_granular_data_array": [
+            {
+              "datetime_string": "2023-12-29T21:07:14.402999Z",
+              "interval_duration_seconds_float": 300,
+              "tss_score_int": 10
+            },
+            {
+              "datetime_string": "2023-12-29T21:12:14.402999Z",
+              "interval_duration_seconds_float": 600,
+              "tss_score_int": 30
+            },
+            {
+              "datetime_string": "2023-12-29T21:22:14.402999Z",
+              "interval_duration_seconds_float": 480,
+              "tss_score_int": 60
+            },
+            {
+              "datetime_string": "2023-12-29T21:30:14.402999Z",
+              "interval_duration_seconds_float": 300,
+              "tss_score_int": 90
+            }
+          ],
+          "stress_avg_level_int": 55,
+          "stress_maximum_level_int": 90
+        }              
+      }
+    }
+  }
+}

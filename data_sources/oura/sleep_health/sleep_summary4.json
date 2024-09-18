@@ -1,0 +1,83 @@
+{
+    "version": 2,
+    "data_structure": "sleep_summary",
+    "client_uuid": "7348ba7a-bfac-4b15-981e-4edf8c1b9a2d",
+    "user_id": "666815fc546ffd3bd70664fe",
+    "sleep_health": {
+      "summary": {
+        "sleep_summary": {
+          "duration": {
+            "sleep_start_datetime_string": "2024-06-10T00:27:29.000000-04:00",
+            "sleep_end_datetime_string": "2024-06-10T07:23:38.000000-04:00",
+            "sleep_date_string": "2024-06-10T00:00:00.000000Z",
+            "sleep_duration_seconds_int": 20070,
+            "time_in_bed_seconds_int": 24969,
+            "light_sleep_duration_seconds_int": 11580,
+            "rem_sleep_duration_seconds_int": 4500,
+            "deep_sleep_duration_seconds_int": 3990,
+            "time_to_fall_asleep_seconds_int": null,
+            "time_awake_during_sleep_seconds_int": 4899
+          },
+          "scores": {
+            "sleep_quality_rating_1_5_score_int": null,
+            "sleep_efficiency_1_100_score_int": null,
+            "sleep_goal_seconds_int": null,
+            "sleep_continuity_1_5_score_int": null,
+            "sleep_continuity_1_5_rating_int": null
+          },
+          "heart_rate": {
+            "hr_maximum_bpm_int": null,
+            "hr_minimum_bpm_int": null,
+            "hr_avg_bpm_int": 82,
+            "hr_resting_bpm_int": null,
+            "hr_basal_bpm_int": null,
+            "hr_granular_data_array": [],
+            "hrv_avg_rmssd_float": 15.0,
+            "hrv_avg_sdnn_float": null,
+            "hrv_sdnn_granular_data_array": [],
+            "hrv_rmssd_granular_data_array": []
+          },
+          "temperature": {
+            "temperature_minimum_object": {
+              "temperature_celsius_float": null,
+              "measurement_type_string": null
+            },
+            "temperature_avg_object": {
+              "temperature_celsius_float": null,
+              "measurement_type_string": null
+            },
+            "temperature_maximum_object": {
+              "temperature_celsius_float": null,
+              "measurement_type_string": null
+            },
+            "temperature_granular_data_array": [],
+            "temperature_delta_object": {
+              "temperature_celsius_float": null,
+              "measurement_type_string": null
+            }
+          },
+          "breathing": {
+            "breaths_minimum_per_min_int": null,
+            "breaths_avg_per_min_int": 11,
+            "breaths_maximum_per_min_int": null,
+            "breathing_granular_data_array": [],
+            "snoring_events_count_int": null,
+            "snoring_duration_total_seconds_int": null,
+            "snoring_granular_data_array": [],
+            "saturation_avg_percentage_int": null,
+            "saturation_minimum_percentage_int": null,
+            "saturation_maximum_percentage_int": null,
+            "saturation_granular_data_array": []
+          },
+          "metadata": {
+            "datetime_string": "2024-06-10T00:27:29.000000-04:00",
+            "user_id_string": "666815fc546ffd3bd70664fe",
+            "sources_of_data_array": [
+              "Oura"
+            ]
+          },
+          "non_structured_data": []
+        }
+      }
+    }
+  }

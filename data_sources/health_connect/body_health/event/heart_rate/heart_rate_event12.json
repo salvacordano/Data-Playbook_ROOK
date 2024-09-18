@@ -1,0 +1,59 @@
+{
+    "version": 2,
+    "data_structure": "heart_rate_event",
+    "client_uuid": "90f3f863-65df-4809-a387-248031b15399",
+    "user_id": "66883e3e3136af1a299305de",
+    "body_health": {
+      "events": {
+        "heart_rate_event": [
+          {
+            "metadata": {
+              "datetime_string": "2024-07-05T11:00:00.000000-06:00",
+              "user_id_string": "66883e3e3136af1a299305de",
+              "sources_of_data_array": [
+                "Health Connect"
+              ],
+              "was_the_user_under_physical_activity_bool": false
+            },
+            "heart_rate": {
+              "hr_maximum_bpm_int": 72,
+              "hr_minimum_bpm_int": 61,
+              "hr_avg_bpm_int": 65,
+              "hr_resting_bpm_int": null,
+              "hr_granular_data_array": [
+                {
+                  "hr_bpm_int": 68,
+                  "datetime_string": "2024-07-05 11:14:03-06:00"
+                },
+                {
+                  "hr_bpm_int": 72,
+                  "datetime_string": "2024-07-05 11:14:11-06:00"
+                },
+                {
+                  "hr_bpm_int": 61,
+                  "datetime_string": "2024-07-05 11:14:12-06:00"
+                },
+                {
+                  "hr_bpm_int": 62,
+                  "datetime_string": "2024-07-05 11:29:23-06:00"
+                },
+                {
+                  "hr_bpm_int": 66,
+                  "datetime_string": "2024-07-05 11:30:10-06:00"
+                },
+                {
+                  "hr_bpm_int": 63,
+                  "datetime_string": "2024-07-05 11:31:08-06:00"
+                }
+              ],
+              "hrv_avg_rmssd_float": null,
+              "hrv_avg_sdnn_float": null,
+              "hrv_sdnn_granular_data_array": [],
+              "hrv_rmssd_granular_data_array": []
+            },
+            "non_structured_data_array": []
+          }
+        ]
+      }
+    }
+  }

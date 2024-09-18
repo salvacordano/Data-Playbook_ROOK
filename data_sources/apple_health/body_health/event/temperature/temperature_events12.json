@@ -1,0 +1,97 @@
+{
+    "version": 2,
+    "data_structure": "temperature_event",
+    "client_uuid": "499477c7-427f-4c7e-823a-77ce34143882",
+    "user_id": "667c6c00546ffd3bd7813e19",
+    "body_health": {
+      "events": {
+        "temperature_event": [
+          {
+            "metadata": {
+              "datetime_string": "2024-06-20T04:00:00.000000-07:00",
+              "user_id_string": "667c6c00546ffd3bd7813e19",
+              "sources_of_data_array": [
+                "Apple Health"
+              ],
+              "was_the_user_under_physical_activity_bool": false
+            },
+            "temperature": {
+              "temperature_avg_object": {
+                "temperature_celsius_float": 34.0,
+                "measurement_type_string": "Unknown"
+              },
+              "temperature_maximum_object": {
+                "temperature_celsius_float": 35.0,
+                "measurement_type_string": "Unknown"
+              },
+              "temperature_minimum_object": {},
+              "temperature_granular_data_array": [
+                {
+                  "temperature_celsius_float": 34.0,
+                  "measurement_type_string": "Unknown",
+                  "datetime_string": "2024-06-20T04:04:51.000-07:00"
+                },
+                {
+                  "temperature_celsius_float": 34.0,
+                  "measurement_type_string": "Unknown",
+                  "datetime_string": "2024-06-20T04:09:44.000-07:00"
+                },
+                {
+                  "temperature_celsius_float": 34.0,
+                  "measurement_type_string": "Unknown",
+                  "datetime_string": "2024-06-20T04:14:37.000-07:00"
+                },
+                {
+                  "temperature_celsius_float": 34.0,
+                  "measurement_type_string": "Unknown",
+                  "datetime_string": "2024-06-20T04:19:30.000-07:00"
+                },
+                {
+                  "temperature_celsius_float": 34.0,
+                  "measurement_type_string": "Unknown",
+                  "datetime_string": "2024-06-20T04:24:23.000-07:00"
+                },
+                {
+                  "temperature_celsius_float": 34.0,
+                  "measurement_type_string": "Unknown",
+                  "datetime_string": "2024-06-20T04:29:15.000-07:00"
+                },
+                {
+                  "temperature_celsius_float": 34.0,
+                  "measurement_type_string": "Unknown",
+                  "datetime_string": "2024-06-20T04:34:08.000-07:00"
+                },
+                {
+                  "temperature_celsius_float": 34.0,
+                  "measurement_type_string": "Unknown",
+                  "datetime_string": "2024-06-20T04:39:01.000-07:00"
+                },
+                {
+                  "temperature_celsius_float": 35.0,
+                  "measurement_type_string": "Unknown",
+                  "datetime_string": "2024-06-20T04:43:54.000-07:00"
+                },
+                {
+                  "temperature_celsius_float": 35.0,
+                  "measurement_type_string": "Unknown",
+                  "datetime_string": "2024-06-20T04:48:47.000-07:00"
+                },
+                {
+                  "temperature_celsius_float": 35.0,
+                  "measurement_type_string": "Unknown",
+                  "datetime_string": "2024-06-20T04:53:40.000-07:00"
+                },
+                {
+                  "temperature_celsius_float": 35.0,
+                  "measurement_type_string": "Unknown",
+                  "datetime_string": "2024-06-20T04:58:33.000-07:00"
+                }
+              ],
+              "temperature_delta_object": {}
+            },
+            "non_structured_data_array": []
+          }
+        ]
+      }
+    }
+  }

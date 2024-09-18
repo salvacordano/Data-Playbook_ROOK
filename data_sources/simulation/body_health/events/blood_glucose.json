@@ -1,0 +1,56 @@
+{
+    "client_uuid": "demoClientUUID",
+    "user_id": "demoUserId",
+    "version": 2,
+    "document_version": 1,
+    "auto_detected": false,
+    "data_structure": "blood_glucose_event",
+    "body_health": {
+      "events": {
+        "blood_glucose_event": {
+            "non_structured_data_array": [
+              {}
+            ],
+            "metadata": {
+              "datetime_string": "2023-12-29T01:07:14.402999Z",
+              "sources_of_data_array": [],
+              "user_id_string": "demoUserId",
+              "was_the_user_under_physical_activity_bool": true
+            },
+            "blood_glucose": {
+              "blood_glucose_avg_mg_per_dL_int": 98,
+              "blood_glucose_granular_data_array": [
+                {
+                  "datetime_string": "2023-12-29T01:07:14.402999Z",
+                  "blood_glucose_mg_per_dL_int": 97
+                },
+                {
+                  "datetime_string": "2023-12-29T01:17:14.402999Z",
+                  "blood_glucose_mg_per_dL_int": 100
+                },
+                {
+                  "datetime_string": "2023-12-29T01:27:14.402999Z",
+                  "blood_glucose_mg_per_dL_int": 99
+                },
+                {
+                  "datetime_string": "2023-12-29T01:37:14.402999Z",
+                  "blood_glucose_mg_per_dL_int": 97
+                },
+                {
+                  "datetime_string": "2023-12-29T01:47:14.402999Z",
+                  "blood_glucose_mg_per_dL_int": 98
+                },
+                {
+                  "datetime_string": "2023-12-29T01:57:14.402999Z",
+                  "blood_glucose_mg_per_dL_int": 96
+                },
+                {
+                  "datetime_string": "2023-12-29T02:07:14.402999Z",
+                  "blood_glucose_mg_per_dL_int": 99
+                }
+              ]
+            }
+          }
+      }
+    }
+  }

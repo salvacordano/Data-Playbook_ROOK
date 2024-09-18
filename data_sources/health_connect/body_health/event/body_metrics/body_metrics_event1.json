@@ -1,0 +1,34 @@
+{
+    "version": 2,
+    "data_structure": "body_metrics_event",
+    "client_uuid": "48d85c6a-d903-4c4e-a722-ccb1c708acbc",
+    "user_id": "667d7228546ffd3bd768032a",
+    "body_health": {
+      "events": {
+        "body_metrics_event": [
+          {
+            "metadata": {
+              "datetime_string": "2024-06-27T18:00:00.000000+05:00",
+              "user_id_string": "667d7228546ffd3bd768032a",
+              "sources_of_data_array": [
+                "Health Connect"
+              ],
+              "was_the_user_under_physical_activity_bool": false
+            },
+            "body_metrics": {
+              "waist_circumference_cm_int": null,
+              "hip_circumference_cm_int": null,
+              "chest_circumference_cm_int": null,
+              "bone_composition_percentage_int": null,
+              "muscle_composition_percentage_int": null,
+              "water_composition_percentage_int": null,
+              "weight_kg_float": 50.0,
+              "height_cm_int": 162,
+              "bmi_float": 18.9
+            },
+            "non_structured_data_array": []
+          }
+        ]
+      }
+    }
+  }

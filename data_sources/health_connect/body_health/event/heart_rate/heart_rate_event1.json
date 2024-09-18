@@ -1,0 +1,99 @@
+{
+    "version": 2,
+    "data_structure": "heart_rate_event",
+    "client_uuid": "51536e2d-f117-483b-af8f-78d2e0451776",
+    "user_id": "66881e803136af1a29928057",
+    "body_health": {
+      "events": {
+        "heart_rate_event": [
+          {
+            "metadata": {
+              "datetime_string": "2024-07-05T00:00:00.000000-06:00",
+              "user_id_string": "66881e803136af1a29928057",
+              "sources_of_data_array": [
+                "Health Connect"
+              ],
+              "was_the_user_under_physical_activity_bool": false
+            },
+            "heart_rate": {
+              "hr_maximum_bpm_int": 60,
+              "hr_minimum_bpm_int": 54,
+              "hr_avg_bpm_int": 56,
+              "hr_resting_bpm_int": null,
+              "hr_granular_data_array": [
+                {
+                  "hr_bpm_int": 60,
+                  "datetime_string": "2024-07-05 00:03:12-06:00"
+                },
+                {
+                  "hr_bpm_int": 58,
+                  "datetime_string": "2024-07-05 00:08:12-06:00"
+                },
+                {
+                  "hr_bpm_int": 60,
+                  "datetime_string": "2024-07-05 00:10:28-06:00"
+                },
+                {
+                  "hr_bpm_int": 57,
+                  "datetime_string": "2024-07-05 00:13:12-06:00"
+                },
+                {
+                  "hr_bpm_int": 58,
+                  "datetime_string": "2024-07-05 00:15:28-06:00"
+                },
+                {
+                  "hr_bpm_int": 57,
+                  "datetime_string": "2024-07-05 00:18:12-06:00"
+                },
+                {
+                  "hr_bpm_int": 56,
+                  "datetime_string": "2024-07-05 00:23:12-06:00"
+                },
+                {
+                  "hr_bpm_int": 57,
+                  "datetime_string": "2024-07-05 00:25:28-06:00"
+                },
+                {
+                  "hr_bpm_int": 56,
+                  "datetime_string": "2024-07-05 00:28:12-06:00"
+                },
+                {
+                  "hr_bpm_int": 56,
+                  "datetime_string": "2024-07-05 00:33:12-06:00"
+                },
+                {
+                  "hr_bpm_int": 56,
+                  "datetime_string": "2024-07-05 00:38:12-06:00"
+                },
+                {
+                  "hr_bpm_int": 56,
+                  "datetime_string": "2024-07-05 00:43:12-06:00"
+                },
+                {
+                  "hr_bpm_int": 54,
+                  "datetime_string": "2024-07-05 00:48:12-06:00"
+                },
+                {
+                  "hr_bpm_int": 56,
+                  "datetime_string": "2024-07-05 00:50:28-06:00"
+                },
+                {
+                  "hr_bpm_int": 54,
+                  "datetime_string": "2024-07-05 00:53:12-06:00"
+                },
+                {
+                  "hr_bpm_int": 54,
+                  "datetime_string": "2024-07-05 00:58:12-06:00"
+                }
+              ],
+              "hrv_avg_rmssd_float": null,
+              "hrv_avg_sdnn_float": null,
+              "hrv_sdnn_granular_data_array": [],
+              "hrv_rmssd_granular_data_array": []
+            },
+            "non_structured_data_array": []
+          }
+        ]
+      }
+    }
+  }

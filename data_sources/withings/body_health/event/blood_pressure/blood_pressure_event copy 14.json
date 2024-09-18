@@ -1,0 +1,30 @@
+{
+    "version": 2,
+    "data_structure": "blood_pressure_event",
+    "client_uuid": "93aa5e4d-f586-40c8-b3d7-1ee3fcebaf08",
+    "user_id": "66795a4d546ffd3bd7dea1c1",
+    "body_health": {
+      "events": {
+        "blood_pressure_event": [
+          {
+            "metadata": {
+              "datetime_string": "2024-06-24T11:36:23.000000Z",
+              "user_id_string": "66795a4d546ffd3bd7dea1c1",
+              "sources_of_data_array": [
+                "Withings"
+              ],
+              "was_the_user_under_physical_activity_bool": null
+            },
+            "blood_pressure": {
+              "blood_pressure_avg_object": {
+                "diastolic_mmHg_int": 123,
+                "systolic_mmHg_int": 71
+              },
+              "blood_pressure_granular_data_array": []
+            },
+            "non_structured_data_array": []
+          }
+        ]
+      }
+    }
+  }

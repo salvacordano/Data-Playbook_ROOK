@@ -1,0 +1,102 @@
+{
+    "version": 2,
+    "data_structure": "temperature_event",
+    "client_uuid": "a1cac67d-dcb1-472c-b800-b6f4d236b3b1",
+    "user_id": "667c6bf5546ffd3bd780fc77",
+    "body_health": {
+      "events": {
+        "temperature_event": [
+          {
+            "metadata": {
+              "datetime_string": "2024-06-18T20:00:00.000000-07:00",
+              "user_id_string": "667c6bf5546ffd3bd780fc77",
+              "sources_of_data_array": [
+                "Apple Health"
+              ],
+              "was_the_user_under_physical_activity_bool": false
+            },
+            "temperature": {
+              "temperature_avg_object": {
+                "temperature_celsius_float": 31.0,
+                "measurement_type_string": "Unknown"
+              },
+              "temperature_maximum_object": {
+                "temperature_celsius_float": 32.0,
+                "measurement_type_string": "Unknown"
+              },
+              "temperature_minimum_object": {},
+              "temperature_granular_data_array": [
+                {
+                  "temperature_celsius_float": 32.0,
+                  "measurement_type_string": "Unknown",
+                  "datetime_string": "2024-06-18T20:01:03.000-07:00"
+                },
+                {
+                  "temperature_celsius_float": 32.0,
+                  "measurement_type_string": "Unknown",
+                  "datetime_string": "2024-06-18T20:05:56.000-07:00"
+                },
+                {
+                  "temperature_celsius_float": 32.0,
+                  "measurement_type_string": "Unknown",
+                  "datetime_string": "2024-06-18T20:10:49.000-07:00"
+                },
+                {
+                  "temperature_celsius_float": 32.0,
+                  "measurement_type_string": "Unknown",
+                  "datetime_string": "2024-06-18T20:15:42.000-07:00"
+                },
+                {
+                  "temperature_celsius_float": 32.0,
+                  "measurement_type_string": "Unknown",
+                  "datetime_string": "2024-06-18T20:20:35.000-07:00"
+                },
+                {
+                  "temperature_celsius_float": 32.0,
+                  "measurement_type_string": "Unknown",
+                  "datetime_string": "2024-06-18T20:25:28.000-07:00"
+                },
+                {
+                  "temperature_celsius_float": 31.0,
+                  "measurement_type_string": "Unknown",
+                  "datetime_string": "2024-06-18T20:30:21.000-07:00"
+                },
+                {
+                  "temperature_celsius_float": 31.0,
+                  "measurement_type_string": "Unknown",
+                  "datetime_string": "2024-06-18T20:35:14.000-07:00"
+                },
+                {
+                  "temperature_celsius_float": 31.0,
+                  "measurement_type_string": "Unknown",
+                  "datetime_string": "2024-06-18T20:40:07.000-07:00"
+                },
+                {
+                  "temperature_celsius_float": 31.0,
+                  "measurement_type_string": "Unknown",
+                  "datetime_string": "2024-06-18T20:45:00.000-07:00"
+                },
+                {
+                  "temperature_celsius_float": 31.0,
+                  "measurement_type_string": "Unknown",
+                  "datetime_string": "2024-06-18T20:49:53.000-07:00"
+                },
+                {
+                  "temperature_celsius_float": 31.0,
+                  "measurement_type_string": "Unknown",
+                  "datetime_string": "2024-06-18T20:54:46.000-07:00"
+                },
+                {
+                  "temperature_celsius_float": 31.0,
+                  "measurement_type_string": "Unknown",
+                  "datetime_string": "2024-06-18T20:59:39.000-07:00"
+                }
+              ],
+              "temperature_delta_object": {}
+            },
+            "non_structured_data_array": []
+          }
+        ]
+      }
+    }
+  }

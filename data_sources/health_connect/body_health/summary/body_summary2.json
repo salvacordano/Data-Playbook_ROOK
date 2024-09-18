@@ -1,0 +1,815 @@
+{
+    "version": 2,
+    "data_structure": "body_summary",
+    "client_uuid": "e15ed30f-d01f-44d1-ab09-43b4cf6d6f48",
+    "user_id": "666764cd546ffd3bd7352b54",
+    "body_health": {
+      "summary": {
+        "body_summary": {
+          "body_metrics": {
+            "waist_circumference_cm_int": null,
+            "hip_circumference_cm_int": null,
+            "chest_circumference_cm_int": null,
+            "bone_composition_percentage_int": null,
+            "muscle_composition_percentage_int": null,
+            "water_composition_percentage_int": null,
+            "weight_kg_float": 75.0,
+            "height_cm_int": 165,
+            "bmi_float": 27.0
+          },
+          "blood_glucose": {
+            "blood_glucose_avg_mg_per_dL_int": null,
+            "blood_glucose_granular_data_array": []
+          },
+          "blood_pressure": {
+            "blood_pressure_avg_object": {},
+            "blood_pressure_granular_data_array": []
+          },
+          "hydration": {
+            "water_total_consumption_mL_int": 12000,
+            "hydration_amount_granular_data_array": [
+              {
+                "interval_duration_seconds_float": 1800.0,
+                "hydration_amount_mL_int": 12000,
+                "datetime_string": "2024-06-09 13:39:32.195000-06:00"
+              }
+            ],
+            "hydration_level_granular_data_array": []
+          },
+          "heart_rate": {
+            "hr_maximum_bpm_int": 125,
+            "hr_minimum_bpm_int": 59,
+            "hr_avg_bpm_int": 80,
+            "hr_resting_bpm_int": 65,
+            "hr_granular_data_array": [
+              {
+                "hr_bpm_int": 71,
+                "datetime_string": "2024-06-09 09:30:37.671000-06:00"
+              },
+              {
+                "hr_bpm_int": 94,
+                "datetime_string": "2024-06-09 09:34:59.798000-06:00"
+              },
+              {
+                "hr_bpm_int": 72,
+                "datetime_string": "2024-06-09 09:38:10.412000-06:00"
+              },
+              {
+                "hr_bpm_int": 90,
+                "datetime_string": "2024-06-09 09:46:25.412000-06:00"
+              },
+              {
+                "hr_bpm_int": 85,
+                "datetime_string": "2024-06-09 09:48:24.428000-06:00"
+              },
+              {
+                "hr_bpm_int": 89,
+                "datetime_string": "2024-06-09 09:49:37.662000-06:00"
+              },
+              {
+                "hr_bpm_int": 73,
+                "datetime_string": "2024-06-09 09:55:49.662000-06:00"
+              },
+              {
+                "hr_bpm_int": 88,
+                "datetime_string": "2024-06-09 10:05:03.662000-06:00"
+              },
+              {
+                "hr_bpm_int": 90,
+                "datetime_string": "2024-06-09 10:07:58.412000-06:00"
+              },
+              {
+                "hr_bpm_int": 86,
+                "datetime_string": "2024-06-09 10:16:31.412000-06:00"
+              },
+              {
+                "hr_bpm_int": 85,
+                "datetime_string": "2024-06-09 10:18:00.412000-06:00"
+              },
+              {
+                "hr_bpm_int": 68,
+                "datetime_string": "2024-06-09 10:25:54.412000-06:00"
+              },
+              {
+                "hr_bpm_int": 65,
+                "datetime_string": "2024-06-09 10:30:16.412000-06:00"
+              },
+              {
+                "hr_bpm_int": 71,
+                "datetime_string": "2024-06-09 10:32:11.412000-06:00"
+              },
+              {
+                "hr_bpm_int": 85,
+                "datetime_string": "2024-06-09 10:41:34.412000-06:00"
+              },
+              {
+                "hr_bpm_int": 72,
+                "datetime_string": "2024-06-09 10:45:14.412000-06:00"
+              },
+              {
+                "hr_bpm_int": 75,
+                "datetime_string": "2024-06-09 10:48:58.412000-06:00"
+              },
+              {
+                "hr_bpm_int": 78,
+                "datetime_string": "2024-06-09 10:49:31.677000-06:00"
+              },
+              {
+                "hr_bpm_int": 72,
+                "datetime_string": "2024-06-09 10:54:15.039000-06:00"
+              },
+              {
+                "hr_bpm_int": 79,
+                "datetime_string": "2024-06-09 10:58:07.039000-06:00"
+              },
+              {
+                "hr_bpm_int": 72,
+                "datetime_string": "2024-06-09 11:02:05.039000-06:00"
+              },
+              {
+                "hr_bpm_int": 80,
+                "datetime_string": "2024-06-09 11:07:42.039000-06:00"
+              },
+              {
+                "hr_bpm_int": 72,
+                "datetime_string": "2024-06-09 11:08:08.305000-06:00"
+              },
+              {
+                "hr_bpm_int": 107,
+                "datetime_string": "2024-06-09 11:16:18.291000-06:00"
+              },
+              {
+                "hr_bpm_int": 125,
+                "datetime_string": "2024-06-09 11:25:18.791000-06:00"
+              },
+              {
+                "hr_bpm_int": 100,
+                "datetime_string": "2024-06-09 11:26:54.914000-06:00"
+              },
+              {
+                "hr_bpm_int": 99,
+                "datetime_string": "2024-06-09 11:30:41.914000-06:00"
+              },
+              {
+                "hr_bpm_int": 80,
+                "datetime_string": "2024-06-09 11:33:25.914000-06:00"
+              },
+              {
+                "hr_bpm_int": 76,
+                "datetime_string": "2024-06-09 11:34:05.677000-06:00"
+              },
+              {
+                "hr_bpm_int": 80,
+                "datetime_string": "2024-06-09 11:41:15.039000-06:00"
+              },
+              {
+                "hr_bpm_int": 88,
+                "datetime_string": "2024-06-09 11:42:53.539000-06:00"
+              },
+              {
+                "hr_bpm_int": 86,
+                "datetime_string": "2024-06-09 11:48:47.039000-06:00"
+              },
+              {
+                "hr_bpm_int": 77,
+                "datetime_string": "2024-06-09 11:54:00.039000-06:00"
+              },
+              {
+                "hr_bpm_int": 79,
+                "datetime_string": "2024-06-09 11:57:56.539000-06:00"
+              },
+              {
+                "hr_bpm_int": 85,
+                "datetime_string": "2024-06-09 12:03:09.039000-06:00"
+              },
+              {
+                "hr_bpm_int": 80,
+                "datetime_string": "2024-06-09 12:09:06.039000-06:00"
+              },
+              {
+                "hr_bpm_int": 96,
+                "datetime_string": "2024-06-09 12:16:45.664000-06:00"
+              },
+              {
+                "hr_bpm_int": 84,
+                "datetime_string": "2024-06-09 12:18:00.664000-06:00"
+              },
+              {
+                "hr_bpm_int": 91,
+                "datetime_string": "2024-06-09 12:23:50.164000-06:00"
+              },
+              {
+                "hr_bpm_int": 93,
+                "datetime_string": "2024-06-09 12:28:29.164000-06:00"
+              },
+              {
+                "hr_bpm_int": 85,
+                "datetime_string": "2024-06-09 12:35:22.664000-06:00"
+              },
+              {
+                "hr_bpm_int": 80,
+                "datetime_string": "2024-06-09 12:39:16.664000-06:00"
+              },
+              {
+                "hr_bpm_int": 84,
+                "datetime_string": "2024-06-09 12:46:06.164000-06:00"
+              },
+              {
+                "hr_bpm_int": 84,
+                "datetime_string": "2024-06-09 12:49:11.664000-06:00"
+              },
+              {
+                "hr_bpm_int": 69,
+                "datetime_string": "2024-06-09 12:56:51.664000-06:00"
+              },
+              {
+                "hr_bpm_int": 70,
+                "datetime_string": "2024-06-09 12:59:20.789000-06:00"
+              },
+              {
+                "hr_bpm_int": 65,
+                "datetime_string": "2024-06-09 13:06:45.789000-06:00"
+              },
+              {
+                "hr_bpm_int": 68,
+                "datetime_string": "2024-06-09 13:10:58.789000-06:00"
+              },
+              {
+                "hr_bpm_int": 70,
+                "datetime_string": "2024-06-09 13:15:35.789000-06:00"
+              },
+              {
+                "hr_bpm_int": 70,
+                "datetime_string": "2024-06-09 13:17:16.414000-06:00"
+              },
+              {
+                "hr_bpm_int": 64,
+                "datetime_string": "2024-06-09 13:26:51.414000-06:00"
+              },
+              {
+                "hr_bpm_int": 74,
+                "datetime_string": "2024-06-09 13:27:18.805000-06:00"
+              },
+              {
+                "hr_bpm_int": 72,
+                "datetime_string": "2024-06-09 13:28:27.414000-06:00"
+              },
+              {
+                "hr_bpm_int": 73,
+                "datetime_string": "2024-06-09 13:32:08.414000-06:00"
+              },
+              {
+                "hr_bpm_int": 72,
+                "datetime_string": "2024-06-09 13:42:01.414000-06:00"
+              },
+              {
+                "hr_bpm_int": 101,
+                "datetime_string": "2024-06-09 13:49:13.914000-06:00"
+              },
+              {
+                "hr_bpm_int": 74,
+                "datetime_string": "2024-06-09 13:56:31.914000-06:00"
+              },
+              {
+                "hr_bpm_int": 66,
+                "datetime_string": "2024-06-09 13:58:29.539000-06:00"
+              },
+              {
+                "hr_bpm_int": 69,
+                "datetime_string": "2024-06-09 14:03:32.539000-06:00"
+              },
+              {
+                "hr_bpm_int": 69,
+                "datetime_string": "2024-06-09 14:10:56.539000-06:00"
+              },
+              {
+                "hr_bpm_int": 71,
+                "datetime_string": "2024-06-09 14:15:01.539000-06:00"
+              },
+              {
+                "hr_bpm_int": 71,
+                "datetime_string": "2024-06-09 14:20:01.539000-06:00"
+              },
+              {
+                "hr_bpm_int": 67,
+                "datetime_string": "2024-06-09 14:23:54.289000-06:00"
+              },
+              {
+                "hr_bpm_int": 76,
+                "datetime_string": "2024-06-09 14:27:23.289000-06:00"
+              },
+              {
+                "hr_bpm_int": 91,
+                "datetime_string": "2024-06-09 14:36:42.137000-06:00"
+              },
+              {
+                "hr_bpm_int": 88,
+                "datetime_string": "2024-06-09 14:39:27.637000-06:00"
+              },
+              {
+                "hr_bpm_int": 86,
+                "datetime_string": "2024-06-09 15:15:52.131000-06:00"
+              },
+              {
+                "hr_bpm_int": 76,
+                "datetime_string": "2024-06-09 15:17:45.131000-06:00"
+              },
+              {
+                "hr_bpm_int": 69,
+                "datetime_string": "2024-06-09 15:25:16.131000-06:00"
+              },
+              {
+                "hr_bpm_int": 97,
+                "datetime_string": "2024-06-09 15:34:11.257000-06:00"
+              },
+              {
+                "hr_bpm_int": 73,
+                "datetime_string": "2024-06-09 15:36:40.506000-06:00"
+              },
+              {
+                "hr_bpm_int": 74,
+                "datetime_string": "2024-06-09 15:38:16.006000-06:00"
+              },
+              {
+                "hr_bpm_int": 90,
+                "datetime_string": "2024-06-09 15:46:17.131000-06:00"
+              },
+              {
+                "hr_bpm_int": 84,
+                "datetime_string": "2024-06-09 15:50:50.131000-06:00"
+              },
+              {
+                "hr_bpm_int": 84,
+                "datetime_string": "2024-06-09 15:55:17.131000-06:00"
+              },
+              {
+                "hr_bpm_int": 83,
+                "datetime_string": "2024-06-09 15:55:50.662000-06:00"
+              },
+              {
+                "hr_bpm_int": 86,
+                "datetime_string": "2024-06-09 15:55:57.894000-06:00"
+              },
+              {
+                "hr_bpm_int": 94,
+                "datetime_string": "2024-06-09 16:01:57.131000-06:00"
+              },
+              {
+                "hr_bpm_int": 90,
+                "datetime_string": "2024-06-09 16:03:17.131000-06:00"
+              },
+              {
+                "hr_bpm_int": 85,
+                "datetime_string": "2024-06-09 16:08:45.131000-06:00"
+              },
+              {
+                "hr_bpm_int": 83,
+                "datetime_string": "2024-06-09 16:13:15.131000-06:00"
+              },
+              {
+                "hr_bpm_int": 86,
+                "datetime_string": "2024-06-09 16:17:06.257000-06:00"
+              },
+              {
+                "hr_bpm_int": 78,
+                "datetime_string": "2024-06-09 16:25:17.006000-06:00"
+              },
+              {
+                "hr_bpm_int": 76,
+                "datetime_string": "2024-06-09 16:30:58.506000-06:00"
+              },
+              {
+                "hr_bpm_int": 73,
+                "datetime_string": "2024-06-09 16:38:13.506000-06:00"
+              },
+              {
+                "hr_bpm_int": 73,
+                "datetime_string": "2024-06-09 16:43:28.506000-06:00"
+              },
+              {
+                "hr_bpm_int": 75,
+                "datetime_string": "2024-06-09 16:47:50.506000-06:00"
+              },
+              {
+                "hr_bpm_int": 98,
+                "datetime_string": "2024-06-09 16:53:56.757000-06:00"
+              },
+              {
+                "hr_bpm_int": 87,
+                "datetime_string": "2024-06-09 16:56:35.132000-06:00"
+              },
+              {
+                "hr_bpm_int": 105,
+                "datetime_string": "2024-06-09 17:11:00.382000-06:00"
+              },
+              {
+                "hr_bpm_int": 108,
+                "datetime_string": "2024-06-09 17:11:20.382000-06:00"
+              },
+              {
+                "hr_bpm_int": 113,
+                "datetime_string": "2024-06-09 17:13:34.882000-06:00"
+              },
+              {
+                "hr_bpm_int": 117,
+                "datetime_string": "2024-06-09 17:13:39.882000-06:00"
+              },
+              {
+                "hr_bpm_int": 118,
+                "datetime_string": "2024-06-09 17:13:40.882000-06:00"
+              },
+              {
+                "hr_bpm_int": 94,
+                "datetime_string": "2024-06-09 17:18:14.506000-06:00"
+              },
+              {
+                "hr_bpm_int": 113,
+                "datetime_string": "2024-06-09 17:23:22.757000-06:00"
+              },
+              {
+                "hr_bpm_int": 80,
+                "datetime_string": "2024-06-09 17:25:26.506000-06:00"
+              },
+              {
+                "hr_bpm_int": 82,
+                "datetime_string": "2024-06-09 17:28:28.257000-06:00"
+              },
+              {
+                "hr_bpm_int": 95,
+                "datetime_string": "2024-06-09 17:35:56.381000-06:00"
+              },
+              {
+                "hr_bpm_int": 81,
+                "datetime_string": "2024-06-09 17:39:16.381000-06:00"
+              },
+              {
+                "hr_bpm_int": 75,
+                "datetime_string": "2024-06-09 17:43:43.381000-06:00"
+              },
+              {
+                "hr_bpm_int": 69,
+                "datetime_string": "2024-06-09 17:53:37.381000-06:00"
+              },
+              {
+                "hr_bpm_int": 80,
+                "datetime_string": "2024-06-09 17:58:06.007000-06:00"
+              },
+              {
+                "hr_bpm_int": 72,
+                "datetime_string": "2024-06-09 17:59:36.256000-06:00"
+              },
+              {
+                "hr_bpm_int": 77,
+                "datetime_string": "2024-06-09 17:59:57.522000-06:00"
+              },
+              {
+                "hr_bpm_int": 74,
+                "datetime_string": "2024-06-09 18:06:38.256000-06:00"
+              },
+              {
+                "hr_bpm_int": 76,
+                "datetime_string": "2024-06-09 18:08:51.256000-06:00"
+              },
+              {
+                "hr_bpm_int": 62,
+                "datetime_string": "2024-06-09 18:12:55.256000-06:00"
+              },
+              {
+                "hr_bpm_int": 67,
+                "datetime_string": "2024-06-09 18:20:54.256000-06:00"
+              },
+              {
+                "hr_bpm_int": 65,
+                "datetime_string": "2024-06-09 18:25:21.006000-06:00"
+              },
+              {
+                "hr_bpm_int": 75,
+                "datetime_string": "2024-06-09 18:31:30.506000-06:00"
+              },
+              {
+                "hr_bpm_int": 71,
+                "datetime_string": "2024-06-09 18:35:00.506000-06:00"
+              },
+              {
+                "hr_bpm_int": 73,
+                "datetime_string": "2024-06-09 18:45:20.506000-06:00"
+              },
+              {
+                "hr_bpm_int": 71,
+                "datetime_string": "2024-06-09 18:48:07.506000-06:00"
+              },
+              {
+                "hr_bpm_int": 71,
+                "datetime_string": "2024-06-09 18:56:49.506000-06:00"
+              },
+              {
+                "hr_bpm_int": 74,
+                "datetime_string": "2024-06-09 18:58:30.131000-06:00"
+              },
+              {
+                "hr_bpm_int": 83,
+                "datetime_string": "2024-06-09 19:03:47.131000-06:00"
+              },
+              {
+                "hr_bpm_int": 64,
+                "datetime_string": "2024-06-09 19:09:28.131000-06:00"
+              },
+              {
+                "hr_bpm_int": 75,
+                "datetime_string": "2024-06-09 19:13:31.631000-06:00"
+              },
+              {
+                "hr_bpm_int": 69,
+                "datetime_string": "2024-06-09 19:17:22.131000-06:00"
+              },
+              {
+                "hr_bpm_int": 102,
+                "datetime_string": "2024-06-09 19:25:06.131000-06:00"
+              },
+              {
+                "hr_bpm_int": 84,
+                "datetime_string": "2024-06-09 19:34:09.131000-06:00"
+              },
+              {
+                "hr_bpm_int": 85,
+                "datetime_string": "2024-06-09 19:46:52.131000-06:00"
+              },
+              {
+                "hr_bpm_int": 67,
+                "datetime_string": "2024-06-09 19:48:04.131000-06:00"
+              },
+              {
+                "hr_bpm_int": 75,
+                "datetime_string": "2024-06-09 19:56:58.131000-06:00"
+              },
+              {
+                "hr_bpm_int": 75,
+                "datetime_string": "2024-06-09 19:59:57.131000-06:00"
+              },
+              {
+                "hr_bpm_int": 85,
+                "datetime_string": "2024-06-09 20:09:17.131000-06:00"
+              },
+              {
+                "hr_bpm_int": 73,
+                "datetime_string": "2024-06-09 20:13:07.131000-06:00"
+              },
+              {
+                "hr_bpm_int": 83,
+                "datetime_string": "2024-06-09 20:17:10.131000-06:00"
+              },
+              {
+                "hr_bpm_int": 89,
+                "datetime_string": "2024-06-09 20:23:53.131000-06:00"
+              },
+              {
+                "hr_bpm_int": 85,
+                "datetime_string": "2024-06-09 20:29:36.131000-06:00"
+              },
+              {
+                "hr_bpm_int": 91,
+                "datetime_string": "2024-06-09 20:33:15.131000-06:00"
+              },
+              {
+                "hr_bpm_int": 88,
+                "datetime_string": "2024-06-09 20:34:51.522000-06:00"
+              },
+              {
+                "hr_bpm_int": 84,
+                "datetime_string": "2024-06-09 20:37:29.507000-06:00"
+              },
+              {
+                "hr_bpm_int": 78,
+                "datetime_string": "2024-06-09 20:44:34.507000-06:00"
+              },
+              {
+                "hr_bpm_int": 66,
+                "datetime_string": "2024-06-09 20:47:08.507000-06:00"
+              },
+              {
+                "hr_bpm_int": 73,
+                "datetime_string": "2024-06-09 20:52:32.507000-06:00"
+              },
+              {
+                "hr_bpm_int": 75,
+                "datetime_string": "2024-06-09 20:58:22.507000-06:00"
+              },
+              {
+                "hr_bpm_int": 77,
+                "datetime_string": "2024-06-09 21:03:33.507000-06:00"
+              },
+              {
+                "hr_bpm_int": 75,
+                "datetime_string": "2024-06-09 21:07:41.507000-06:00"
+              },
+              {
+                "hr_bpm_int": 72,
+                "datetime_string": "2024-06-09 21:08:16.039000-06:00"
+              },
+              {
+                "hr_bpm_int": 78,
+                "datetime_string": "2024-06-09 21:08:23.395000-06:00"
+              },
+              {
+                "hr_bpm_int": 71,
+                "datetime_string": "2024-06-09 21:13:59.132000-06:00"
+              },
+              {
+                "hr_bpm_int": 76,
+                "datetime_string": "2024-06-09 21:18:34.132000-06:00"
+              },
+              {
+                "hr_bpm_int": 79,
+                "datetime_string": "2024-06-09 21:26:29.132000-06:00"
+              },
+              {
+                "hr_bpm_int": 76,
+                "datetime_string": "2024-06-09 21:28:21.632000-06:00"
+              },
+              {
+                "hr_bpm_int": 65,
+                "datetime_string": "2024-06-09 21:42:32.132000-06:00"
+              },
+              {
+                "hr_bpm_int": 76,
+                "datetime_string": "2024-06-09 21:49:05.632000-06:00"
+              },
+              {
+                "hr_bpm_int": 75,
+                "datetime_string": "2024-06-09 21:53:07.132000-06:00"
+              },
+              {
+                "hr_bpm_int": 88,
+                "datetime_string": "2024-06-09 22:00:45.632000-06:00"
+              },
+              {
+                "hr_bpm_int": 73,
+                "datetime_string": "2024-06-09 22:03:13.132000-06:00"
+              },
+              {
+                "hr_bpm_int": 71,
+                "datetime_string": "2024-06-09 22:16:26.132000-06:00"
+              },
+              {
+                "hr_bpm_int": 59,
+                "datetime_string": "2024-06-09 22:21:00.132000-06:00"
+              },
+              {
+                "hr_bpm_int": 66,
+                "datetime_string": "2024-06-09 22:25:39.270000-06:00"
+              },
+              {
+                "hr_bpm_int": 63,
+                "datetime_string": "2024-06-09 22:26:01.632000-06:00"
+              },
+              {
+                "hr_bpm_int": 63,
+                "datetime_string": "2024-06-09 22:29:41.632000-06:00"
+              },
+              {
+                "hr_bpm_int": 66,
+                "datetime_string": "2024-06-09 22:32:07.632000-06:00"
+              },
+              {
+                "hr_bpm_int": 87,
+                "datetime_string": "2024-06-09 22:39:13.632000-06:00"
+              },
+              {
+                "hr_bpm_int": 75,
+                "datetime_string": "2024-06-09 22:42:53.132000-06:00"
+              },
+              {
+                "hr_bpm_int": 65,
+                "datetime_string": "2024-06-09 22:51:44.632000-06:00"
+              },
+              {
+                "hr_bpm_int": 93,
+                "datetime_string": "2024-06-09 22:54:21.632000-06:00"
+              },
+              {
+                "hr_bpm_int": 78,
+                "datetime_string": "2024-06-09 22:59:01.632000-06:00"
+              },
+              {
+                "hr_bpm_int": 84,
+                "datetime_string": "2024-06-09 23:06:48.132000-06:00"
+              }
+            ],
+            "hrv_avg_rmssd_float": null,
+            "hrv_avg_sdnn_float": 49.0,
+            "hrv_sdnn_granular_data_array": [
+              {
+                "hrv_sdnn_float": 55.0,
+                "datetime_string": "2024-06-09 21:08:16.039000-06:00"
+              },
+              {
+                "hrv_sdnn_float": 37.0,
+                "datetime_string": "2024-06-09 20:34:51.522000-06:00"
+              },
+              {
+                "hrv_sdnn_float": 57.0,
+                "datetime_string": "2024-06-09 17:59:57.522000-06:00"
+              },
+              {
+                "hrv_sdnn_float": 33.0,
+                "datetime_string": "2024-06-09 15:55:50.662000-06:00"
+              },
+              {
+                "hrv_sdnn_float": 41.0,
+                "datetime_string": "2024-06-09 13:27:18.805000-06:00"
+              },
+              {
+                "hrv_sdnn_float": 85.0,
+                "datetime_string": "2024-06-09 11:08:08.305000-06:00"
+              },
+              {
+                "hrv_sdnn_float": 33.0,
+                "datetime_string": "2024-06-09 09:48:24.428000-06:00"
+              }
+            ],
+            "hrv_rmssd_granular_data_array": []
+          },
+          "mood": {
+            "mood_minimum_scale_int": null,
+            "mood_avg_scale_int": null,
+            "mood_maximum_scale_int": null,
+            "mood_granular_data_array": [],
+            "mood_delta_scale_int": null
+          },
+          "nutrition": {
+            "food_intake_float": null,
+            "calories_intake_kcal_float": null,
+            "protein_intake_g_float": null,
+            "sugar_intake_g_float": null,
+            "fat_intake_g_float": null,
+            "trans_fat_intake_g_float": null,
+            "carbohydrates_intake_g_float": null,
+            "fiber_intake_g_float": null,
+            "alcohol_intake_g_float": null,
+            "sodium_intake_mg_float": null,
+            "cholesterol_intake_mg_float": null
+          },
+          "oxygenation": {
+            "saturation_avg_percentage_int": 94,
+            "saturation_granular_data_array": [
+              {
+                "saturation_percentage_int": 99,
+                "datetime_string": "2024-06-09 10:49:31.677000-06:00",
+                "interval_duration_seconds_float": null
+              },
+              {
+                "saturation_percentage_int": 93,
+                "datetime_string": "2024-06-09 11:34:05.677000-06:00",
+                "interval_duration_seconds_float": null
+              },
+              {
+                "saturation_percentage_int": 96,
+                "datetime_string": "2024-06-09 15:55:57.894000-06:00",
+                "interval_duration_seconds_float": null
+              },
+              {
+                "saturation_percentage_int": 88,
+                "datetime_string": "2024-06-09 21:08:23.395000-06:00",
+                "interval_duration_seconds_float": null
+              },
+              {
+                "saturation_percentage_int": 96,
+                "datetime_string": "2024-06-09 22:25:39.270000-06:00",
+                "interval_duration_seconds_float": null
+              }
+            ],
+            "vo2max_mL_per_min_per_kg_int": null,
+            "vo2_granular_data_array": []
+          },
+          "temperature": {
+            "temperature_avg_object": {},
+            "temperature_maximum_object": {},
+            "temperature_minimum_object": {},
+            "temperature_granular_data_array": [],
+            "temperature_delta_object": {}
+          },
+          "menstruation": {
+            "last_updated_datetime_string": null,
+            "period_start_date_string": null,
+            "cycle_day_int": null,
+            "predicted_cycle_length_days_int": null,
+            "cycle_length_days_int": null,
+            "current_phase_string": null,
+            "length_of_current_phase_days_int": null,
+            "days_until_next_phase_int": null,
+            "is_a_predicted_cycle_bool": null,
+            "menstruation_flow_granular_data_array": []
+          },
+          "metadata": {
+            "datetime_string": "2024-06-09T06:00:00.000000-06:00",
+            "user_id_string": "666764cd546ffd3bd7352b54",
+            "sources_of_data_array": [
+              "Apple Health",
+              "Health Connect"
+            ]
+          },
+          "non_structured_data": []
+        }
+      }
+    }
+  }

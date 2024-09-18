@@ -1,0 +1,30 @@
+{
+    "version": 2,
+    "data_structure": "body_metrics_event",
+    "client_uuid": "",
+    "user_id": "",
+    "body_health": {
+      "events": {
+        "body_metrics_event": {
+            "metadata": {
+              "datetime_string": "2024-06-29T08:25:27.000000-05:00",
+              "user_id_string": "668328473136af1a29411702",
+              "sources_of_data_array": [],
+              "was_the_user_under_physical_activity_bool": false
+            },
+            "body_metrics": {
+              "waist_circumference_cm_int": 78,
+              "hip_circumference_cm_int": 95,
+              "chest_circumference_cm_int": 92,
+              "bone_composition_percentage_int": 12,
+              "muscle_composition_percentage_int": 45,
+              "water_composition_percentage_int": 58,
+              "weight_kg_float": 66.0,
+              "height_cm_int": 170,
+              "bmi_float": 22.8
+            },
+            "non_structured_data_array": []
+          }
+      }
+    }
+  }

@@ -1,0 +1,37 @@
+{
+    "version": 2,
+    "data_structure": "nutrition_event",
+    "client_uuid": "8637f5d7-55d4-487f-95d0-617ab5cbf3f4",
+    "user_id": "66881a673136af1a2978d261",
+    "body_health": {
+      "events": {
+        "nutrition_event": [
+          {
+            "metadata": {
+              "datetime_string": "2024-01-01T00:00:00.000000Z",
+              "user_id_string": "66881a673136af1a2978d261",
+              "sources_of_data_array": [
+                "Android",
+                "Health Connect"
+              ],
+              "was_the_user_under_physical_activity_bool": false
+            },
+            "nutrition": {
+              "food_intake_float": 1000.0,
+              "calories_intake_kcal_float": 1000.0,
+              "protein_intake_g_float": 1000.0,
+              "sugar_intake_g_float": 1000.0,
+              "fat_intake_g_float": 1000.0,
+              "trans_fat_intake_g_float": 1000.0,
+              "carbohydrates_intake_g_float": 1000.0,
+              "fiber_intake_g_float": 1000.0,
+              "alcohol_intake_g_float": 1000.0,
+              "sodium_intake_mg_float": 1000.0,
+              "cholesterol_intake_mg_float": 1000.0
+            },
+            "non_structured_data_array": []
+          }
+        ]
+      }
+    }
+  }

@@ -1,0 +1,32 @@
+{
+    "version": 2,
+    "data_structure": "nutrition_event",
+    "client_uuid": "",
+    "user_id": "",
+    "body_health": {
+      "events": {
+        "nutrition_event": {
+          "metadata": {
+            "datetime_string": "2024-01-01T00:00:00.000000Z",
+            "user_id_string": "",
+            "sources_of_data_array": [],
+            "was_the_user_under_physical_activity_bool": false
+          },
+          "nutrition": {
+            "food_intake_float": 500,
+            "calories_intake_kcal_float": 600,
+            "protein_intake_g_float": 35,
+            "sugar_intake_g_float": 10,
+            "fat_intake_g_float": 20,
+            "trans_fat_intake_g_float": 0,
+            "carbohydrates_intake_g_float": 75,
+            "fiber_intake_g_float": 8,
+            "alcohol_intake_g_float": 0,
+            "sodium_intake_mg_float": 700,
+            "cholesterol_intake_mg_float": 50
+          },
+          "non_structured_data_array": []
+        }
+      }
+    }
+  }

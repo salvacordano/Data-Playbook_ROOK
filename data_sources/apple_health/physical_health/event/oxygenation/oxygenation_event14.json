@@ -1,0 +1,35 @@
+{
+    "version": 2,
+    "data_structure": "oxygenation_event",
+    "client_uuid": "a6bba6f7-3d87-4ea9-86d1-0ff52771d63f",
+    "user_id": "667c6bc7546ffd3bd77fd9bf",
+    "physical_health": {
+      "events": {
+        "oxygenation_event": [
+          {
+            "metadata": {
+              "datetime_string": "2024-06-19T20:17:28.104000-07:00",
+              "user_id_string": "667c6bc7546ffd3bd77fd9bf",
+              "sources_of_data_array": [
+                "Apple Health"
+              ],
+              "was_the_user_under_physical_activity_bool": true
+            },
+            "oxygenation": {
+              "saturation_avg_percentage_int": 92,
+              "saturation_granular_data_array": [
+                {
+                  "saturation_percentage_int": 92,
+                  "datetime_string": "2024-06-19T20:17:28.104-07:00",
+                  "interval_duration_seconds_float": null
+                }
+              ],
+              "vo2max_mL_per_min_per_kg_int": null,
+              "vo2_granular_data_array": []
+            },
+            "non_structured_data_array": []
+          }
+        ]
+      }
+    }
+  }

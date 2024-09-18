@@ -1,0 +1,34 @@
+{
+    "version": 2,
+    "data_structure": "body_metrics_event",
+    "client_uuid": "c91cd28b-44e9-485c-90bb-cee132acc8f7",
+    "user_id": "666d54fa546ffd3bd7bff086",
+    "body_health": {
+      "events": {
+        "body_metrics_event": [
+          {
+            "metadata": {
+              "datetime_string": "2024-06-12T22:47:48.192000-07:00",
+              "user_id_string": "666d54fa546ffd3bd7bff086",
+              "sources_of_data_array": [
+                "Apple Health"
+              ],
+              "was_the_user_under_physical_activity_bool": false
+            },
+            "body_metrics": {
+              "waist_circumference_cm_int": null,
+              "hip_circumference_cm_int": null,
+              "chest_circumference_cm_int": null,
+              "bone_composition_percentage_int": null,
+              "muscle_composition_percentage_int": null,
+              "water_composition_percentage_int": null,
+              "weight_kg_float": 63.04934,
+              "height_cm_int": null,
+              "bmi_float": null
+            },
+            "non_structured_data_array": []
+          }
+        ]
+      }
+    }
+  }

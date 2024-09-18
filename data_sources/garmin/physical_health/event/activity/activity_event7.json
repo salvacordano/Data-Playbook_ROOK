@@ -1,0 +1,348 @@
+{
+    "version": 2,
+    "data_structure": "activity_event",
+    "client_uuid": "34e7f1cc-7b58-462a-846d-08134ca02c23",
+    "user_id": "666dd59c546ffd3bd707f6c0",
+    "physical_health": {
+      "events": {
+        "activity_event": [
+          {
+            "metadata": {
+              "datetime_string": "2024-06-15T19:01:59.000000+02:00",
+              "user_id_string": "666dd59c546ffd3bd707f6c0",
+              "sources_of_data_array": [
+                "Garmin"
+              ],
+              "was_the_user_under_physical_activity_bool": true
+            },
+            "activity": {
+              "activity_start_datetime_string": "2024-06-15T19:01:59.000000+02:00",
+              "activity_end_datetime_string": "2024-06-15T19:18:01.000000+02:00",
+              "activity_duration_seconds_int": 962,
+              "activity_type_name_string": "Walking",
+              "active_seconds_int": null,
+              "rest_seconds_int": null,
+              "low_intensity_seconds_int": null,
+              "moderate_intensity_seconds_int": null,
+              "vigorous_intensity_seconds_int": null,
+              "inactivity_seconds_int": null,
+              "activity_level_granular_data_array": [],
+              "continuous_inactive_periods_int": null,
+              "activity_strain_level_float": null,
+              "activity_work_kilojoules_float": null,
+              "activity_energy_kilojoules_float": null,
+              "activity_energy_planned_kilojoules_float": null
+            },
+            "calories": {
+              "calories_net_intake_kcal_float": null,
+              "calories_expenditure_kcal_float": null,
+              "calories_net_active_kcal_float": 69.0,
+              "calories_basal_metabolic_rate_kcal_float": null,
+              "fat_percentage_of_calories_int": null,
+              "carbohydrate_percentage_of_calories_int": null,
+              "protein_percentage_of_calories_int": null
+            },
+            "distance": {
+              "steps_int": 1380,
+              "steps_granular_data_array": [],
+              "walked_distance_meters_float": null,
+              "traveled_distance_meters_float": 701.84,
+              "traveled_distance_granular_data_array": [
+                {
+                  "traveled_distance_meters_float": 58.689998626708984,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-15T19:02:59.000000+02:00"
+                },
+                {
+                  "traveled_distance_meters_float": 107.23999786376953,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-15T19:03:59.000000+02:00"
+                },
+                {
+                  "traveled_distance_meters_float": 170.64999389648438,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-15T19:04:59.000000+02:00"
+                },
+                {
+                  "traveled_distance_meters_float": 223.83999633789062,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-15T19:05:59.000000+02:00"
+                },
+                {
+                  "traveled_distance_meters_float": 303.8399963378906,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-15T19:06:59.000000+02:00"
+                },
+                {
+                  "traveled_distance_meters_float": 314.45001220703125,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-15T19:07:59.000000+02:00"
+                },
+                {
+                  "traveled_distance_meters_float": 334.3800048828125,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-15T19:08:59.000000+02:00"
+                },
+                {
+                  "traveled_distance_meters_float": 370.6400146484375,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-15T19:09:59.000000+02:00"
+                },
+                {
+                  "traveled_distance_meters_float": 394.1499938964844,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-15T19:10:59.000000+02:00"
+                },
+                {
+                  "traveled_distance_meters_float": 409.45001220703125,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-15T19:11:59.000000+02:00"
+                },
+                {
+                  "traveled_distance_meters_float": 449.0299987792969,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-15T19:12:59.000000+02:00"
+                },
+                {
+                  "traveled_distance_meters_float": 506.1000061035156,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-15T19:13:59.000000+02:00"
+                },
+                {
+                  "traveled_distance_meters_float": 579.0399780273438,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-15T19:14:59.000000+02:00"
+                },
+                {
+                  "traveled_distance_meters_float": 640.5999755859375,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-15T19:15:59.000000+02:00"
+                },
+                {
+                  "traveled_distance_meters_float": 688.8400268554688,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-15T19:16:59.000000+02:00"
+                },
+                {
+                  "traveled_distance_meters_float": 701.8400268554688,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-15T19:17:59.000000+02:00"
+                }
+              ],
+              "floors_climbed_float": null,
+              "floors_climbed_granular_data_array": [],
+              "elevation_avg_altitude_meters_float": null,
+              "elevation_minimum_altitude_meters_float": null,
+              "elevation_maximum_altitude_meters_float": null,
+              "elevation_loss_actual_altitude_meters_float": null,
+              "elevation_gain_actual_altitude_meters_float": 9.0,
+              "elevation_planned_gain_meters_float": null,
+              "elevation_granular_data_array": [],
+              "swimming_num_strokes_float": null,
+              "swimming_num_laps_int": null,
+              "swimming_pool_length_meters_float": null,
+              "swimming_total_distance_meters_float": null,
+              "swimming_distance_granular_data_array": []
+            },
+            "heart_rate": {
+              "hr_maximum_bpm_int": 128,
+              "hr_minimum_bpm_int": null,
+              "hr_avg_bpm_int": 114,
+              "hr_resting_bpm_int": null,
+              "hr_granular_data_array": [
+                {
+                  "hr_bpm_int": 106,
+                  "datetime_string": "2024-06-15T19:01:59.000000+02:00"
+                },
+                {
+                  "hr_bpm_int": 109,
+                  "datetime_string": "2024-06-15T19:02:59.000000+02:00"
+                },
+                {
+                  "hr_bpm_int": 104,
+                  "datetime_string": "2024-06-15T19:03:59.000000+02:00"
+                },
+                {
+                  "hr_bpm_int": 104,
+                  "datetime_string": "2024-06-15T19:04:59.000000+02:00"
+                },
+                {
+                  "hr_bpm_int": 120,
+                  "datetime_string": "2024-06-15T19:05:59.000000+02:00"
+                },
+                {
+                  "hr_bpm_int": 117,
+                  "datetime_string": "2024-06-15T19:06:59.000000+02:00"
+                },
+                {
+                  "hr_bpm_int": 112,
+                  "datetime_string": "2024-06-15T19:07:59.000000+02:00"
+                },
+                {
+                  "hr_bpm_int": 116,
+                  "datetime_string": "2024-06-15T19:08:59.000000+02:00"
+                },
+                {
+                  "hr_bpm_int": 114,
+                  "datetime_string": "2024-06-15T19:09:59.000000+02:00"
+                },
+                {
+                  "hr_bpm_int": 124,
+                  "datetime_string": "2024-06-15T19:10:59.000000+02:00"
+                },
+                {
+                  "hr_bpm_int": 123,
+                  "datetime_string": "2024-06-15T19:11:59.000000+02:00"
+                },
+                {
+                  "hr_bpm_int": 118,
+                  "datetime_string": "2024-06-15T19:12:59.000000+02:00"
+                },
+                {
+                  "hr_bpm_int": 112,
+                  "datetime_string": "2024-06-15T19:13:59.000000+02:00"
+                },
+                {
+                  "hr_bpm_int": 117,
+                  "datetime_string": "2024-06-15T19:14:59.000000+02:00"
+                },
+                {
+                  "hr_bpm_int": 112,
+                  "datetime_string": "2024-06-15T19:15:59.000000+02:00"
+                },
+                {
+                  "hr_bpm_int": 114,
+                  "datetime_string": "2024-06-15T19:16:59.000000+02:00"
+                },
+                {
+                  "hr_bpm_int": 108,
+                  "datetime_string": "2024-06-15T19:17:59.000000+02:00"
+                }
+              ],
+              "hrv_avg_rmssd_float": null,
+              "hrv_avg_sdnn_float": null,
+              "hrv_sdnn_granular_data_array": [],
+              "hrv_rmssd_granular_data_array": []
+            },
+            "movement": {
+              "speed_normalized_meters_per_second_float": null,
+              "speed_avg_meters_per_second_float": 0.729,
+              "speed_maximum_meters_per_second_float": 1.381,
+              "speed_granular_data_array": [
+                {
+                  "speed_meters_per_second_float": 1.3339999914169312,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-15T19:02:59.000000+02:00"
+                },
+                {
+                  "speed_meters_per_second_float": 0.8679999709129333,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-15T19:03:59.000000+02:00"
+                },
+                {
+                  "speed_meters_per_second_float": 1.0920000076293945,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-15T19:04:59.000000+02:00"
+                },
+                {
+                  "speed_meters_per_second_float": 1.2319999933242798,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-15T19:05:59.000000+02:00"
+                },
+                {
+                  "speed_meters_per_second_float": 1.371999979019165,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-15T19:06:59.000000+02:00"
+                },
+                {
+                  "speed_meters_per_second_float": 1.2690000534057617,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-15T19:09:59.000000+02:00"
+                },
+                {
+                  "speed_meters_per_second_float": 0.5130000114440918,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-15T19:11:59.000000+02:00"
+                },
+                {
+                  "speed_meters_per_second_float": 1.1660000085830688,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-15T19:12:59.000000+02:00"
+                },
+                {
+                  "speed_meters_per_second_float": 1.0080000162124634,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-15T19:13:59.000000+02:00"
+                },
+                {
+                  "speed_meters_per_second_float": 1.2690000534057617,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-15T19:14:59.000000+02:00"
+                },
+                {
+                  "speed_meters_per_second_float": 0.8960000276565552,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-15T19:16:59.000000+02:00"
+                }
+              ],
+              "velocity_avg_object": {
+                "speed_meters_per_second_float": null,
+                "direction_string": null
+              },
+              "velocity_maximum_object": {
+                "speed_meters_per_second_float": null,
+                "direction_string": null
+              },
+              "pace_avg_min_per_km_float": 22.86237,
+              "pace_maximum_min_per_km_float": 12.068549,
+              "cadence_avg_rpm_float": null,
+              "cadence_maximum_rpm_float": null,
+              "cadence_granular_data_array": [],
+              "torque_avg_newton_meters_float": null,
+              "torque_maximum_newton_meters_float": null,
+              "torque_granular_data_array": [],
+              "lap_granular_data_array": []
+            },
+            "power": {
+              "power_avg_watts_float": null,
+              "power_maximum_watts_float": null,
+              "power_granular_data_array": []
+            },
+            "position": {
+              "position_start_object": {
+                "lat_deg_float": null,
+                "lng_deg_float": null
+              },
+              "position_centroid_object": {
+                "lat_deg_float": null,
+                "lng_deg_float": null
+              },
+              "position_end_object": {
+                "lat_deg_float": null,
+                "lng_deg_float": null
+              },
+              "position_granular_data_array": [],
+              "position_polyline_map_data_summary_string": null
+            },
+            "oxygenation": {
+              "saturation_avg_percentage_int": null,
+              "saturation_granular_data_array": [],
+              "vo2max_mL_per_min_per_kg_int": null,
+              "vo2_granular_data_array": []
+            },
+            "stress": {
+              "stress_at_rest_duration_seconds_int": null,
+              "stress_duration_seconds_int": null,
+              "low_stress_duration_seconds_int": null,
+              "medium_stress_duration_seconds_int": null,
+              "high_stress_duration_seconds_int": null,
+              "tss_granular_data_array": [],
+              "stress_avg_level_int": null,
+              "stress_maximum_level_int": null
+            },
+            "non_structured_data_array": []
+          }
+        ]
+      }
+    }
+  }

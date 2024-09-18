@@ -1,0 +1,179 @@
+{
+    "version": 2,
+    "data_structure": "physical_summary",
+    "client_uuid": "60b24527-319c-4ca4-8ca9-493bf6a09cb5",
+    "user_id": "66706f25546ffd3bd76e1e68",
+    "physical_health": {
+      "summary": {
+        "physical_summary": {
+          "distance": {
+            "steps_int": 412,
+            "steps_granular_data_array": [
+              {
+                "steps_int": 29,
+                "interval_duration_seconds_float": 112.0,
+                "datetime_string": "2024-06-11 10:32:41.481000-05:00"
+              },
+              {
+                "steps_int": 11,
+                "interval_duration_seconds_float": 2.0,
+                "datetime_string": "2024-06-11 11:54:54.242000-05:00"
+              },
+              {
+                "steps_int": 24,
+                "interval_duration_seconds_float": 15.0,
+                "datetime_string": "2024-06-11 13:14:53.758000-05:00"
+              },
+              {
+                "steps_int": 187,
+                "interval_duration_seconds_float": 315.0,
+                "datetime_string": "2024-06-11 18:47:07.300000-05:00"
+              },
+              {
+                "steps_int": 75,
+                "interval_duration_seconds_float": 539.0,
+                "datetime_string": "2024-06-11 19:26:00.807000-05:00"
+              },
+              {
+                "steps_int": 86,
+                "interval_duration_seconds_float": 97.0,
+                "datetime_string": "2024-06-11 19:51:34.600000-05:00"
+              }
+            ],
+            "active_steps_int": 412,
+            "active_steps_granular_data_array": [
+              {
+                "active_steps_int": 29,
+                "interval_duration_seconds_float": 112.0,
+                "datetime_string": "2024-06-11 10:32:41.481000-05:00"
+              },
+              {
+                "active_steps_int": 11,
+                "interval_duration_seconds_float": 2.0,
+                "datetime_string": "2024-06-11 11:54:54.242000-05:00"
+              },
+              {
+                "active_steps_int": 24,
+                "interval_duration_seconds_float": 15.0,
+                "datetime_string": "2024-06-11 13:14:53.758000-05:00"
+              },
+              {
+                "active_steps_int": 187,
+                "interval_duration_seconds_float": 315.0,
+                "datetime_string": "2024-06-11 18:47:07.300000-05:00"
+              },
+              {
+                "active_steps_int": 75,
+                "interval_duration_seconds_float": 539.0,
+                "datetime_string": "2024-06-11 19:26:00.807000-05:00"
+              },
+              {
+                "active_steps_int": 86,
+                "interval_duration_seconds_float": 97.0,
+                "datetime_string": "2024-06-11 19:51:34.600000-05:00"
+              }
+            ],
+            "walked_distance_meters_float": 266.0,
+            "traveled_distance_meters_float": 266.0,
+            "traveled_distance_granular_data_array": [
+              {
+                "traveled_distance_meters_float": 15.0,
+                "interval_duration_seconds_float": 112.0,
+                "datetime_string": "2024-06-11 10:32:41.481000-05:00"
+              },
+              {
+                "traveled_distance_meters_float": 5.0,
+                "interval_duration_seconds_float": 2.0,
+                "datetime_string": "2024-06-11 11:54:54.242000-05:00"
+              },
+              {
+                "traveled_distance_meters_float": 12.0,
+                "interval_duration_seconds_float": 15.0,
+                "datetime_string": "2024-06-11 13:14:53.758000-05:00"
+              },
+              {
+                "traveled_distance_meters_float": 123.0,
+                "interval_duration_seconds_float": 315.0,
+                "datetime_string": "2024-06-11 18:47:07.300000-05:00"
+              },
+              {
+                "traveled_distance_meters_float": 52.0,
+                "interval_duration_seconds_float": 539.0,
+                "datetime_string": "2024-06-11 19:26:00.807000-05:00"
+              },
+              {
+                "traveled_distance_meters_float": 58.0,
+                "interval_duration_seconds_float": 97.0,
+                "datetime_string": "2024-06-11 19:51:34.600000-05:00"
+              }
+            ],
+            "floors_climbed_float": null,
+            "floors_climbed_granular_data_array": [],
+            "elevation_avg_altitude_meters_float": null,
+            "elevation_minimum_altitude_meters_float": null,
+            "elevation_maximum_altitude_meters_float": null,
+            "elevation_loss_actual_altitude_meters_float": null,
+            "elevation_gain_actual_altitude_meters_float": null,
+            "elevation_planned_gain_meters_float": null,
+            "elevation_granular_data_array": [],
+            "swimming_num_strokes_float": null,
+            "swimming_num_laps_int": null,
+            "swimming_pool_length_meters_float": null,
+            "swimming_total_distance_meters_float": null,
+            "swimming_distance_granular_data_array": []
+          },
+          "oxygenation": {
+            "saturation_avg_percentage_int": null,
+            "saturation_granular_data_array": [],
+            "vo2max_mL_per_min_per_kg_int": null,
+            "vo2_granular_data_array": []
+          },
+          "activity": {
+            "active_seconds_int": null,
+            "rest_seconds_int": null,
+            "low_intensity_seconds_int": null,
+            "moderate_intensity_seconds_int": null,
+            "vigorous_intensity_seconds_int": null,
+            "inactivity_seconds_int": null,
+            "activity_level_granular_data_array": [],
+            "continuous_inactive_periods_int": null
+          },
+          "calories": {
+            "calories_net_intake_kcal_float": null,
+            "calories_expenditure_kcal_float": null,
+            "calories_net_active_kcal_float": 15.0,
+            "calories_basal_metabolic_rate_kcal_float": 0.0
+          },
+          "heart_rate": {
+            "hr_maximum_bpm_int": null,
+            "hr_minimum_bpm_int": null,
+            "hr_avg_bpm_int": null,
+            "hr_resting_bpm_int": null,
+            "hr_granular_data_array": [],
+            "hrv_avg_rmssd_float": null,
+            "hrv_avg_sdnn_float": null,
+            "hrv_sdnn_granular_data_array": [],
+            "hrv_rmssd_granular_data_array": []
+          },
+          "stress": {
+            "stress_at_rest_duration_seconds_int": null,
+            "stress_duration_seconds_int": null,
+            "low_stress_duration_seconds_int": null,
+            "medium_stress_duration_seconds_int": null,
+            "high_stress_duration_seconds_int": null,
+            "stress_granular_data_array": [],
+            "stress_avg_level_int": null,
+            "stress_maximum_level_int": null
+          },
+          "metadata": {
+            "datetime_string": "2024-06-11T07:00:00.000000-05:00",
+            "user_id_string": "66706f25546ffd3bd76e1e68",
+            "sources_of_data_array": [
+              "Apple Health"
+            ]
+          },
+          "non_structured_data": []
+        }
+      }
+    }
+  }

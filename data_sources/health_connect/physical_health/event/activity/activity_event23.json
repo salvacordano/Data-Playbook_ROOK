@@ -1,0 +1,2014 @@
+{
+    "version": 2,
+    "data_structure": "activity_event",
+    "client_uuid": "c52a8ac5-4bb5-4c92-8c8c-e98631979607",
+    "user_id": "6681a9bde0d679c0e72b94af",
+    "physical_health": {
+      "events": {
+        "activity_event": [
+          {
+            "metadata": {
+              "datetime_string": "2024-06-29T22:59:07.000000+02:00",
+              "user_id_string": "6681a9bde0d679c0e72b94af",
+              "sources_of_data_array": [
+                "Health Connect"
+              ],
+              "was_the_user_under_physical_activity_bool": true
+            },
+            "activity": {
+              "activity_start_datetime_string": "2024-06-29T22:59:07.000000+02:00",
+              "activity_end_datetime_string": "2024-06-29T23:06:09.000000+02:00",
+              "activity_duration_seconds_int": 421,
+              "activity_type_name_string": "Unknown (Unable to Detect Activity)",
+              "active_seconds_int": null,
+              "rest_seconds_int": null,
+              "low_intensity_seconds_int": null,
+              "moderate_intensity_seconds_int": null,
+              "vigorous_intensity_seconds_int": null,
+              "inactivity_seconds_int": null,
+              "activity_level_granular_data_array": [],
+              "continuous_inactive_periods_int": null,
+              "activity_strain_level_float": null,
+              "activity_work_kilojoules_float": null,
+              "activity_energy_kilojoules_float": null,
+              "activity_energy_planned_kilojoules_float": null
+            },
+            "calories": {
+              "calories_net_intake_kcal_float": null,
+              "calories_expenditure_kcal_float": 40.94000244140625,
+              "calories_net_active_kcal_float": null,
+              "calories_basal_metabolic_rate_kcal_float": null,
+              "fat_percentage_of_calories_int": null,
+              "carbohydrate_percentage_of_calories_int": null,
+              "protein_percentage_of_calories_int": null
+            },
+            "distance": {
+              "steps_int": 98,
+              "steps_granular_data_array": [],
+              "walked_distance_meters_float": null,
+              "traveled_distance_meters_float": null,
+              "traveled_distance_granular_data_array": [],
+              "floors_climbed_float": null,
+              "floors_climbed_granular_data_array": [],
+              "elevation_avg_altitude_meters_float": null,
+              "elevation_minimum_altitude_meters_float": null,
+              "elevation_maximum_altitude_meters_float": null,
+              "elevation_loss_actual_altitude_meters_float": null,
+              "elevation_gain_actual_altitude_meters_float": null,
+              "elevation_planned_gain_meters_float": null,
+              "elevation_granular_data_array": [],
+              "swimming_num_strokes_float": null,
+              "swimming_num_laps_int": null,
+              "swimming_pool_length_meters_float": null,
+              "swimming_total_distance_meters_float": null,
+              "swimming_distance_granular_data_array": []
+            },
+            "heart_rate": {
+              "hr_maximum_bpm_int": 107,
+              "hr_minimum_bpm_int": 64,
+              "hr_avg_bpm_int": 84,
+              "hr_resting_bpm_int": null,
+              "hr_granular_data_array": [
+                {
+                  "hr_bpm_int": 83,
+                  "datetime_string": "2024-06-29T22:59:23.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 84,
+                  "datetime_string": "2024-06-29T22:59:24.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 84,
+                  "datetime_string": "2024-06-29T22:59:25.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 84,
+                  "datetime_string": "2024-06-29T22:59:26.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 85,
+                  "datetime_string": "2024-06-29T22:59:27.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 86,
+                  "datetime_string": "2024-06-29T22:59:28.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 86,
+                  "datetime_string": "2024-06-29T22:59:29.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 87,
+                  "datetime_string": "2024-06-29T22:59:30.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 87,
+                  "datetime_string": "2024-06-29T22:59:31.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 86,
+                  "datetime_string": "2024-06-29T22:59:32.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 85,
+                  "datetime_string": "2024-06-29T22:59:33.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 82,
+                  "datetime_string": "2024-06-29T22:59:34.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 80,
+                  "datetime_string": "2024-06-29T22:59:35.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 78,
+                  "datetime_string": "2024-06-29T22:59:36.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 77,
+                  "datetime_string": "2024-06-29T22:59:37.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 74,
+                  "datetime_string": "2024-06-29T22:59:38.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 72,
+                  "datetime_string": "2024-06-29T22:59:39.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 70,
+                  "datetime_string": "2024-06-29T22:59:40.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 68,
+                  "datetime_string": "2024-06-29T22:59:41.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 66,
+                  "datetime_string": "2024-06-29T22:59:42.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 65,
+                  "datetime_string": "2024-06-29T22:59:43.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 64,
+                  "datetime_string": "2024-06-29T22:59:44.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 65,
+                  "datetime_string": "2024-06-29T22:59:45.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 65,
+                  "datetime_string": "2024-06-29T22:59:46.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 66,
+                  "datetime_string": "2024-06-29T22:59:47.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 66,
+                  "datetime_string": "2024-06-29T22:59:48.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 66,
+                  "datetime_string": "2024-06-29T22:59:49.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 67,
+                  "datetime_string": "2024-06-29T22:59:50.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 67,
+                  "datetime_string": "2024-06-29T22:59:51.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 66,
+                  "datetime_string": "2024-06-29T22:59:52.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 66,
+                  "datetime_string": "2024-06-29T22:59:53.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 66,
+                  "datetime_string": "2024-06-29T22:59:54.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 67,
+                  "datetime_string": "2024-06-29T22:59:55.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 67,
+                  "datetime_string": "2024-06-29T22:59:56.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 69,
+                  "datetime_string": "2024-06-29T22:59:57.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 72,
+                  "datetime_string": "2024-06-29T22:59:58.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 75,
+                  "datetime_string": "2024-06-29T22:59:59.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 80,
+                  "datetime_string": "2024-06-29T23:00:00.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 83,
+                  "datetime_string": "2024-06-29T23:00:01.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 86,
+                  "datetime_string": "2024-06-29T23:00:02.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 87,
+                  "datetime_string": "2024-06-29T23:00:03.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 88,
+                  "datetime_string": "2024-06-29T23:00:04.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 90,
+                  "datetime_string": "2024-06-29T23:00:05.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 90,
+                  "datetime_string": "2024-06-29T23:00:06.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 89,
+                  "datetime_string": "2024-06-29T23:00:07.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 86,
+                  "datetime_string": "2024-06-29T23:00:08.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 84,
+                  "datetime_string": "2024-06-29T23:00:09.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 81,
+                  "datetime_string": "2024-06-29T23:00:10.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 79,
+                  "datetime_string": "2024-06-29T23:00:11.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 77,
+                  "datetime_string": "2024-06-29T23:00:12.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 76,
+                  "datetime_string": "2024-06-29T23:00:13.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 75,
+                  "datetime_string": "2024-06-29T23:00:14.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 74,
+                  "datetime_string": "2024-06-29T23:00:15.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 73,
+                  "datetime_string": "2024-06-29T23:00:16.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 73,
+                  "datetime_string": "2024-06-29T23:00:17.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 72,
+                  "datetime_string": "2024-06-29T23:00:18.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 71,
+                  "datetime_string": "2024-06-29T23:00:19.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 71,
+                  "datetime_string": "2024-06-29T23:00:20.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 70,
+                  "datetime_string": "2024-06-29T23:00:21.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 71,
+                  "datetime_string": "2024-06-29T23:00:22.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 71,
+                  "datetime_string": "2024-06-29T23:00:23.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 72,
+                  "datetime_string": "2024-06-29T23:00:24.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 73,
+                  "datetime_string": "2024-06-29T23:00:25.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 74,
+                  "datetime_string": "2024-06-29T23:00:26.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 75,
+                  "datetime_string": "2024-06-29T23:00:27.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 76,
+                  "datetime_string": "2024-06-29T23:00:28.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 80,
+                  "datetime_string": "2024-06-29T23:00:30.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 82,
+                  "datetime_string": "2024-06-29T23:00:31.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 83,
+                  "datetime_string": "2024-06-29T23:00:32.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 83,
+                  "datetime_string": "2024-06-29T23:00:33.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 83,
+                  "datetime_string": "2024-06-29T23:00:34.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 84,
+                  "datetime_string": "2024-06-29T23:00:35.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 85,
+                  "datetime_string": "2024-06-29T23:00:36.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 84,
+                  "datetime_string": "2024-06-29T23:00:37.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 85,
+                  "datetime_string": "2024-06-29T23:00:38.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 85,
+                  "datetime_string": "2024-06-29T23:00:39.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 86,
+                  "datetime_string": "2024-06-29T23:00:40.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 87,
+                  "datetime_string": "2024-06-29T23:00:41.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 89,
+                  "datetime_string": "2024-06-29T23:00:42.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 94,
+                  "datetime_string": "2024-06-29T23:00:43.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 95,
+                  "datetime_string": "2024-06-29T23:00:44.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 97,
+                  "datetime_string": "2024-06-29T23:00:45.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 99,
+                  "datetime_string": "2024-06-29T23:00:46.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 100,
+                  "datetime_string": "2024-06-29T23:00:47.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 102,
+                  "datetime_string": "2024-06-29T23:00:48.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 103,
+                  "datetime_string": "2024-06-29T23:00:49.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 105,
+                  "datetime_string": "2024-06-29T23:00:50.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 105,
+                  "datetime_string": "2024-06-29T23:00:51.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 105,
+                  "datetime_string": "2024-06-29T23:00:52.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 104,
+                  "datetime_string": "2024-06-29T23:00:53.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 103,
+                  "datetime_string": "2024-06-29T23:00:54.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 103,
+                  "datetime_string": "2024-06-29T23:00:55.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 102,
+                  "datetime_string": "2024-06-29T23:00:56.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 101,
+                  "datetime_string": "2024-06-29T23:00:57.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 101,
+                  "datetime_string": "2024-06-29T23:00:58.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 100,
+                  "datetime_string": "2024-06-29T23:00:59.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 100,
+                  "datetime_string": "2024-06-29T23:01:00.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 101,
+                  "datetime_string": "2024-06-29T23:01:01.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 102,
+                  "datetime_string": "2024-06-29T23:01:02.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 103,
+                  "datetime_string": "2024-06-29T23:01:03.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 104,
+                  "datetime_string": "2024-06-29T23:01:04.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 105,
+                  "datetime_string": "2024-06-29T23:01:05.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 106,
+                  "datetime_string": "2024-06-29T23:01:06.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 106,
+                  "datetime_string": "2024-06-29T23:01:07.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 106,
+                  "datetime_string": "2024-06-29T23:01:08.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 107,
+                  "datetime_string": "2024-06-29T23:01:09.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 106,
+                  "datetime_string": "2024-06-29T23:01:10.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 106,
+                  "datetime_string": "2024-06-29T23:01:11.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 105,
+                  "datetime_string": "2024-06-29T23:01:12.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 104,
+                  "datetime_string": "2024-06-29T23:01:13.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 101,
+                  "datetime_string": "2024-06-29T23:01:14.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 99,
+                  "datetime_string": "2024-06-29T23:01:15.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 97,
+                  "datetime_string": "2024-06-29T23:01:16.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 96,
+                  "datetime_string": "2024-06-29T23:01:17.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 96,
+                  "datetime_string": "2024-06-29T23:01:18.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 97,
+                  "datetime_string": "2024-06-29T23:01:19.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 97,
+                  "datetime_string": "2024-06-29T23:01:20.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 98,
+                  "datetime_string": "2024-06-29T23:01:21.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 99,
+                  "datetime_string": "2024-06-29T23:01:22.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 101,
+                  "datetime_string": "2024-06-29T23:01:23.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 102,
+                  "datetime_string": "2024-06-29T23:01:24.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 103,
+                  "datetime_string": "2024-06-29T23:01:25.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 103,
+                  "datetime_string": "2024-06-29T23:01:26.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 103,
+                  "datetime_string": "2024-06-29T23:01:27.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 103,
+                  "datetime_string": "2024-06-29T23:01:28.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 103,
+                  "datetime_string": "2024-06-29T23:01:29.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 103,
+                  "datetime_string": "2024-06-29T23:01:30.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 102,
+                  "datetime_string": "2024-06-29T23:01:31.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 102,
+                  "datetime_string": "2024-06-29T23:01:32.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 101,
+                  "datetime_string": "2024-06-29T23:01:33.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 101,
+                  "datetime_string": "2024-06-29T23:01:34.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 100,
+                  "datetime_string": "2024-06-29T23:01:35.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 100,
+                  "datetime_string": "2024-06-29T23:01:36.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 99,
+                  "datetime_string": "2024-06-29T23:01:37.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 99,
+                  "datetime_string": "2024-06-29T23:01:40.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 98,
+                  "datetime_string": "2024-06-29T23:01:41.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 97,
+                  "datetime_string": "2024-06-29T23:01:42.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 96,
+                  "datetime_string": "2024-06-29T23:01:43.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 96,
+                  "datetime_string": "2024-06-29T23:01:44.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 97,
+                  "datetime_string": "2024-06-29T23:01:45.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 97,
+                  "datetime_string": "2024-06-29T23:01:46.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 96,
+                  "datetime_string": "2024-06-29T23:01:47.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 97,
+                  "datetime_string": "2024-06-29T23:01:48.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 97,
+                  "datetime_string": "2024-06-29T23:01:49.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 97,
+                  "datetime_string": "2024-06-29T23:01:50.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 97,
+                  "datetime_string": "2024-06-29T23:01:51.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 98,
+                  "datetime_string": "2024-06-29T23:01:52.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 98,
+                  "datetime_string": "2024-06-29T23:01:53.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 98,
+                  "datetime_string": "2024-06-29T23:01:54.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 98,
+                  "datetime_string": "2024-06-29T23:01:55.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 98,
+                  "datetime_string": "2024-06-29T23:01:56.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 99,
+                  "datetime_string": "2024-06-29T23:01:57.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 99,
+                  "datetime_string": "2024-06-29T23:01:58.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 99,
+                  "datetime_string": "2024-06-29T23:01:59.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 99,
+                  "datetime_string": "2024-06-29T23:02:00.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 99,
+                  "datetime_string": "2024-06-29T23:02:01.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 99,
+                  "datetime_string": "2024-06-29T23:02:02.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 98,
+                  "datetime_string": "2024-06-29T23:02:03.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 96,
+                  "datetime_string": "2024-06-29T23:02:04.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 95,
+                  "datetime_string": "2024-06-29T23:02:05.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 93,
+                  "datetime_string": "2024-06-29T23:02:06.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 92,
+                  "datetime_string": "2024-06-29T23:02:07.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 90,
+                  "datetime_string": "2024-06-29T23:02:08.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 88,
+                  "datetime_string": "2024-06-29T23:02:09.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 88,
+                  "datetime_string": "2024-06-29T23:02:10.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 88,
+                  "datetime_string": "2024-06-29T23:02:11.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 89,
+                  "datetime_string": "2024-06-29T23:02:12.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 90,
+                  "datetime_string": "2024-06-29T23:02:13.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 91,
+                  "datetime_string": "2024-06-29T23:02:14.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 92,
+                  "datetime_string": "2024-06-29T23:02:15.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 93,
+                  "datetime_string": "2024-06-29T23:02:16.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 93,
+                  "datetime_string": "2024-06-29T23:02:17.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 93,
+                  "datetime_string": "2024-06-29T23:02:18.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 94,
+                  "datetime_string": "2024-06-29T23:02:19.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 94,
+                  "datetime_string": "2024-06-29T23:02:20.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 93,
+                  "datetime_string": "2024-06-29T23:02:21.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 93,
+                  "datetime_string": "2024-06-29T23:02:22.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 91,
+                  "datetime_string": "2024-06-29T23:02:23.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 89,
+                  "datetime_string": "2024-06-29T23:02:24.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 87,
+                  "datetime_string": "2024-06-29T23:02:25.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 86,
+                  "datetime_string": "2024-06-29T23:02:26.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 86,
+                  "datetime_string": "2024-06-29T23:02:27.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 86,
+                  "datetime_string": "2024-06-29T23:02:28.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 85,
+                  "datetime_string": "2024-06-29T23:02:29.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 84,
+                  "datetime_string": "2024-06-29T23:02:30.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 82,
+                  "datetime_string": "2024-06-29T23:02:31.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 80,
+                  "datetime_string": "2024-06-29T23:02:32.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 79,
+                  "datetime_string": "2024-06-29T23:02:33.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 78,
+                  "datetime_string": "2024-06-29T23:02:34.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 76,
+                  "datetime_string": "2024-06-29T23:02:35.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 75,
+                  "datetime_string": "2024-06-29T23:02:36.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 75,
+                  "datetime_string": "2024-06-29T23:02:37.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 75,
+                  "datetime_string": "2024-06-29T23:02:38.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 76,
+                  "datetime_string": "2024-06-29T23:02:39.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 76,
+                  "datetime_string": "2024-06-29T23:02:40.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 77,
+                  "datetime_string": "2024-06-29T23:02:41.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 77,
+                  "datetime_string": "2024-06-29T23:02:42.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 77,
+                  "datetime_string": "2024-06-29T23:02:43.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 77,
+                  "datetime_string": "2024-06-29T23:02:44.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 78,
+                  "datetime_string": "2024-06-29T23:02:45.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 79,
+                  "datetime_string": "2024-06-29T23:02:46.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 79,
+                  "datetime_string": "2024-06-29T23:02:47.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 79,
+                  "datetime_string": "2024-06-29T23:02:48.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 79,
+                  "datetime_string": "2024-06-29T23:02:49.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 79,
+                  "datetime_string": "2024-06-29T23:02:50.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 79,
+                  "datetime_string": "2024-06-29T23:02:51.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 78,
+                  "datetime_string": "2024-06-29T23:02:52.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 77,
+                  "datetime_string": "2024-06-29T23:02:53.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 77,
+                  "datetime_string": "2024-06-29T23:02:54.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 76,
+                  "datetime_string": "2024-06-29T23:02:55.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 76,
+                  "datetime_string": "2024-06-29T23:02:56.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 77,
+                  "datetime_string": "2024-06-29T23:02:57.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 78,
+                  "datetime_string": "2024-06-29T23:02:58.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 78,
+                  "datetime_string": "2024-06-29T23:02:59.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 78,
+                  "datetime_string": "2024-06-29T23:03:00.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 78,
+                  "datetime_string": "2024-06-29T23:03:01.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 77,
+                  "datetime_string": "2024-06-29T23:03:02.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 76,
+                  "datetime_string": "2024-06-29T23:03:03.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 76,
+                  "datetime_string": "2024-06-29T23:03:04.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 75,
+                  "datetime_string": "2024-06-29T23:03:05.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 75,
+                  "datetime_string": "2024-06-29T23:03:06.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 76,
+                  "datetime_string": "2024-06-29T23:03:07.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 76,
+                  "datetime_string": "2024-06-29T23:03:08.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 77,
+                  "datetime_string": "2024-06-29T23:03:09.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 77,
+                  "datetime_string": "2024-06-29T23:03:10.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 78,
+                  "datetime_string": "2024-06-29T23:03:11.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 77,
+                  "datetime_string": "2024-06-29T23:03:12.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 76,
+                  "datetime_string": "2024-06-29T23:03:13.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 76,
+                  "datetime_string": "2024-06-29T23:03:14.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 75,
+                  "datetime_string": "2024-06-29T23:03:15.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 75,
+                  "datetime_string": "2024-06-29T23:03:16.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 75,
+                  "datetime_string": "2024-06-29T23:03:17.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 76,
+                  "datetime_string": "2024-06-29T23:03:18.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 76,
+                  "datetime_string": "2024-06-29T23:03:19.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 76,
+                  "datetime_string": "2024-06-29T23:03:20.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 76,
+                  "datetime_string": "2024-06-29T23:03:21.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 75,
+                  "datetime_string": "2024-06-29T23:03:22.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 75,
+                  "datetime_string": "2024-06-29T23:03:23.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 74,
+                  "datetime_string": "2024-06-29T23:03:24.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 74,
+                  "datetime_string": "2024-06-29T23:03:25.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 74,
+                  "datetime_string": "2024-06-29T23:03:26.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 74,
+                  "datetime_string": "2024-06-29T23:03:27.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 74,
+                  "datetime_string": "2024-06-29T23:03:28.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 74,
+                  "datetime_string": "2024-06-29T23:03:29.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 74,
+                  "datetime_string": "2024-06-29T23:03:30.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 74,
+                  "datetime_string": "2024-06-29T23:03:31.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 74,
+                  "datetime_string": "2024-06-29T23:03:32.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 75,
+                  "datetime_string": "2024-06-29T23:03:33.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 75,
+                  "datetime_string": "2024-06-29T23:03:34.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 76,
+                  "datetime_string": "2024-06-29T23:03:35.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 76,
+                  "datetime_string": "2024-06-29T23:03:36.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 76,
+                  "datetime_string": "2024-06-29T23:03:37.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 77,
+                  "datetime_string": "2024-06-29T23:03:38.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 77,
+                  "datetime_string": "2024-06-29T23:03:39.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 78,
+                  "datetime_string": "2024-06-29T23:03:40.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 78,
+                  "datetime_string": "2024-06-29T23:03:41.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 79,
+                  "datetime_string": "2024-06-29T23:03:42.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 79,
+                  "datetime_string": "2024-06-29T23:03:43.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 80,
+                  "datetime_string": "2024-06-29T23:03:44.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 80,
+                  "datetime_string": "2024-06-29T23:03:45.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 80,
+                  "datetime_string": "2024-06-29T23:03:46.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 80,
+                  "datetime_string": "2024-06-29T23:03:47.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 80,
+                  "datetime_string": "2024-06-29T23:03:48.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 80,
+                  "datetime_string": "2024-06-29T23:03:49.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 80,
+                  "datetime_string": "2024-06-29T23:03:50.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 80,
+                  "datetime_string": "2024-06-29T23:03:51.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 80,
+                  "datetime_string": "2024-06-29T23:03:52.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 80,
+                  "datetime_string": "2024-06-29T23:03:53.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 79,
+                  "datetime_string": "2024-06-29T23:03:54.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 79,
+                  "datetime_string": "2024-06-29T23:03:55.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 79,
+                  "datetime_string": "2024-06-29T23:03:56.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 79,
+                  "datetime_string": "2024-06-29T23:03:57.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 79,
+                  "datetime_string": "2024-06-29T23:03:58.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 79,
+                  "datetime_string": "2024-06-29T23:03:59.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 79,
+                  "datetime_string": "2024-06-29T23:04:00.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 79,
+                  "datetime_string": "2024-06-29T23:04:01.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 78,
+                  "datetime_string": "2024-06-29T23:04:02.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 78,
+                  "datetime_string": "2024-06-29T23:04:03.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 79,
+                  "datetime_string": "2024-06-29T23:04:04.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 79,
+                  "datetime_string": "2024-06-29T23:04:05.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 80,
+                  "datetime_string": "2024-06-29T23:04:06.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 80,
+                  "datetime_string": "2024-06-29T23:04:07.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 80,
+                  "datetime_string": "2024-06-29T23:04:08.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 79,
+                  "datetime_string": "2024-06-29T23:04:09.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 79,
+                  "datetime_string": "2024-06-29T23:04:10.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 79,
+                  "datetime_string": "2024-06-29T23:04:11.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 78,
+                  "datetime_string": "2024-06-29T23:04:12.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 78,
+                  "datetime_string": "2024-06-29T23:04:13.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 77,
+                  "datetime_string": "2024-06-29T23:04:14.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 77,
+                  "datetime_string": "2024-06-29T23:04:15.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 78,
+                  "datetime_string": "2024-06-29T23:04:16.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 78,
+                  "datetime_string": "2024-06-29T23:04:17.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 78,
+                  "datetime_string": "2024-06-29T23:04:18.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 78,
+                  "datetime_string": "2024-06-29T23:04:19.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 78,
+                  "datetime_string": "2024-06-29T23:04:20.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 78,
+                  "datetime_string": "2024-06-29T23:04:21.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 77,
+                  "datetime_string": "2024-06-29T23:04:22.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 77,
+                  "datetime_string": "2024-06-29T23:04:23.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 77,
+                  "datetime_string": "2024-06-29T23:04:24.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 77,
+                  "datetime_string": "2024-06-29T23:04:25.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 77,
+                  "datetime_string": "2024-06-29T23:04:26.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 78,
+                  "datetime_string": "2024-06-29T23:04:27.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 78,
+                  "datetime_string": "2024-06-29T23:04:28.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 79,
+                  "datetime_string": "2024-06-29T23:04:29.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 79,
+                  "datetime_string": "2024-06-29T23:04:30.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 79,
+                  "datetime_string": "2024-06-29T23:04:31.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 79,
+                  "datetime_string": "2024-06-29T23:04:32.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 78,
+                  "datetime_string": "2024-06-29T23:04:33.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 78,
+                  "datetime_string": "2024-06-29T23:04:34.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 77,
+                  "datetime_string": "2024-06-29T23:04:35.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 77,
+                  "datetime_string": "2024-06-29T23:04:36.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 76,
+                  "datetime_string": "2024-06-29T23:04:37.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 76,
+                  "datetime_string": "2024-06-29T23:04:38.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 75,
+                  "datetime_string": "2024-06-29T23:04:39.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 75,
+                  "datetime_string": "2024-06-29T23:04:40.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 75,
+                  "datetime_string": "2024-06-29T23:04:41.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 75,
+                  "datetime_string": "2024-06-29T23:04:42.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 75,
+                  "datetime_string": "2024-06-29T23:04:43.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 75,
+                  "datetime_string": "2024-06-29T23:04:44.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 76,
+                  "datetime_string": "2024-06-29T23:04:45.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 76,
+                  "datetime_string": "2024-06-29T23:04:46.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 76,
+                  "datetime_string": "2024-06-29T23:04:47.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 76,
+                  "datetime_string": "2024-06-29T23:04:48.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 76,
+                  "datetime_string": "2024-06-29T23:04:49.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 76,
+                  "datetime_string": "2024-06-29T23:04:50.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 75,
+                  "datetime_string": "2024-06-29T23:04:51.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 75,
+                  "datetime_string": "2024-06-29T23:04:52.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 74,
+                  "datetime_string": "2024-06-29T23:04:53.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 73,
+                  "datetime_string": "2024-06-29T23:04:54.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 73,
+                  "datetime_string": "2024-06-29T23:04:55.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 73,
+                  "datetime_string": "2024-06-29T23:04:56.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 73,
+                  "datetime_string": "2024-06-29T23:04:57.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 74,
+                  "datetime_string": "2024-06-29T23:04:58.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 75,
+                  "datetime_string": "2024-06-29T23:04:59.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 75,
+                  "datetime_string": "2024-06-29T23:05:00.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 75,
+                  "datetime_string": "2024-06-29T23:05:01.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 76,
+                  "datetime_string": "2024-06-29T23:05:02.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 77,
+                  "datetime_string": "2024-06-29T23:05:03.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 77,
+                  "datetime_string": "2024-06-29T23:05:04.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 78,
+                  "datetime_string": "2024-06-29T23:05:05.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 78,
+                  "datetime_string": "2024-06-29T23:05:06.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 78,
+                  "datetime_string": "2024-06-29T23:05:07.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 78,
+                  "datetime_string": "2024-06-29T23:05:08.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 78,
+                  "datetime_string": "2024-06-29T23:05:09.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 79,
+                  "datetime_string": "2024-06-29T23:05:10.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 79,
+                  "datetime_string": "2024-06-29T23:05:11.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 79,
+                  "datetime_string": "2024-06-29T23:05:12.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 80,
+                  "datetime_string": "2024-06-29T23:05:13.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 80,
+                  "datetime_string": "2024-06-29T23:05:14.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 80,
+                  "datetime_string": "2024-06-29T23:05:15.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 80,
+                  "datetime_string": "2024-06-29T23:05:16.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 81,
+                  "datetime_string": "2024-06-29T23:05:17.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 82,
+                  "datetime_string": "2024-06-29T23:05:18.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 83,
+                  "datetime_string": "2024-06-29T23:05:19.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 84,
+                  "datetime_string": "2024-06-29T23:05:20.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 83,
+                  "datetime_string": "2024-06-29T23:05:21.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 83,
+                  "datetime_string": "2024-06-29T23:05:22.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 84,
+                  "datetime_string": "2024-06-29T23:05:23.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 84,
+                  "datetime_string": "2024-06-29T23:05:24.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 86,
+                  "datetime_string": "2024-06-29T23:05:25.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 87,
+                  "datetime_string": "2024-06-29T23:05:26.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 87,
+                  "datetime_string": "2024-06-29T23:05:27.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 87,
+                  "datetime_string": "2024-06-29T23:05:28.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 87,
+                  "datetime_string": "2024-06-29T23:05:29.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 87,
+                  "datetime_string": "2024-06-29T23:05:30.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 88,
+                  "datetime_string": "2024-06-29T23:05:31.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 90,
+                  "datetime_string": "2024-06-29T23:05:32.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 91,
+                  "datetime_string": "2024-06-29T23:05:33.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 92,
+                  "datetime_string": "2024-06-29T23:05:34.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 94,
+                  "datetime_string": "2024-06-29T23:05:35.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 96,
+                  "datetime_string": "2024-06-29T23:05:36.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 98,
+                  "datetime_string": "2024-06-29T23:05:37.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 98,
+                  "datetime_string": "2024-06-29T23:05:38.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 99,
+                  "datetime_string": "2024-06-29T23:05:39.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 99,
+                  "datetime_string": "2024-06-29T23:05:40.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 98,
+                  "datetime_string": "2024-06-29T23:05:41.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 98,
+                  "datetime_string": "2024-06-29T23:05:42.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 98,
+                  "datetime_string": "2024-06-29T23:05:43.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 98,
+                  "datetime_string": "2024-06-29T23:05:44.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 98,
+                  "datetime_string": "2024-06-29T23:05:45.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 98,
+                  "datetime_string": "2024-06-29T23:05:46.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 98,
+                  "datetime_string": "2024-06-29T23:05:47.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 97,
+                  "datetime_string": "2024-06-29T23:05:48.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 97,
+                  "datetime_string": "2024-06-29T23:05:49.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 96,
+                  "datetime_string": "2024-06-29T23:05:50.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 95,
+                  "datetime_string": "2024-06-29T23:05:51.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 95,
+                  "datetime_string": "2024-06-29T23:05:52.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 95,
+                  "datetime_string": "2024-06-29T23:05:53.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 95,
+                  "datetime_string": "2024-06-29T23:05:54.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 96,
+                  "datetime_string": "2024-06-29T23:05:55.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 97,
+                  "datetime_string": "2024-06-29T23:05:56.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 98,
+                  "datetime_string": "2024-06-29T23:05:57.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 98,
+                  "datetime_string": "2024-06-29T23:05:58.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 99,
+                  "datetime_string": "2024-06-29T23:05:59.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 99,
+                  "datetime_string": "2024-06-29T23:06:00.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 99,
+                  "datetime_string": "2024-06-29T23:06:01.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 100,
+                  "datetime_string": "2024-06-29T23:06:02.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 100,
+                  "datetime_string": "2024-06-29T23:06:03.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 100,
+                  "datetime_string": "2024-06-29T23:06:04.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 100,
+                  "datetime_string": "2024-06-29T23:06:05.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 99,
+                  "datetime_string": "2024-06-29T23:06:06.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 98,
+                  "datetime_string": "2024-06-29T23:06:07.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 96,
+                  "datetime_string": "2024-06-29T23:06:08.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 96,
+                  "datetime_string": "2024-06-29T23:06:09.000+02:00"
+                },
+                {
+                  "hr_bpm_int": 77,
+                  "datetime_string": "2024-06-29T23:00:29.000+02:00"
+                }
+              ],
+              "hrv_avg_rmssd_float": null,
+              "hrv_avg_sdnn_float": null,
+              "hrv_sdnn_granular_data_array": [],
+              "hrv_rmssd_granular_data_array": []
+            },
+            "movement": {
+              "speed_normalized_meters_per_second_float": null,
+              "speed_avg_meters_per_second_float": 1.318760758638382,
+              "speed_maximum_meters_per_second_float": 2.1666665077209473,
+              "speed_granular_data_array": [
+                {
+                  "speed_meters_per_second_float": 1.4444444179534912,
+                  "interval_duration_seconds_float": 0.0,
+                  "datetime_string": "2024-06-29T11:22:26.000+02:00"
+                },
+                {
+                  "speed_meters_per_second_float": 2.1666665077209473,
+                  "interval_duration_seconds_float": 59.0,
+                  "datetime_string": "2024-06-29T11:23:25.000+02:00"
+                },
+                {
+                  "speed_meters_per_second_float": 1.4166666269302368,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-29T11:24:25.000+02:00"
+                },
+                {
+                  "speed_meters_per_second_float": 1.25,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-29T11:25:25.000+02:00"
+                },
+                {
+                  "speed_meters_per_second_float": 1.2222222089767456,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-29T11:26:25.000+02:00"
+                },
+                {
+                  "speed_meters_per_second_float": 1.1944444179534912,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-29T11:27:25.000+02:00"
+                },
+                {
+                  "speed_meters_per_second_float": 1.2222222089767456,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-29T11:28:25.000+02:00"
+                },
+                {
+                  "speed_meters_per_second_float": 1.2113322019577026,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-29T11:29:25.000+02:00"
+                },
+                {
+                  "speed_meters_per_second_float": 1.2666707038879395,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-29T11:30:25.000+02:00"
+                },
+                {
+                  "speed_meters_per_second_float": 1.1388888359069824,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-29T11:31:25.000+02:00"
+                },
+                {
+                  "speed_meters_per_second_float": 1.1716407537460327,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-29T11:32:25.000+02:00"
+                },
+                {
+                  "speed_meters_per_second_float": 1.1301850080490112,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-29T11:33:25.000+02:00"
+                },
+                {
+                  "speed_meters_per_second_float": 1.1693322658538818,
+                  "interval_duration_seconds_float": 482.0,
+                  "datetime_string": "2024-06-29T11:41:27.000+02:00"
+                },
+                {
+                  "speed_meters_per_second_float": 1.5406461954116821,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-29T11:42:27.000+02:00"
+                },
+                {
+                  "speed_meters_per_second_float": 1.25,
+                  "interval_duration_seconds_float": 105.0,
+                  "datetime_string": "2024-06-29T11:44:13.000+02:00"
+                },
+                {
+                  "speed_meters_per_second_float": 0.8888888955116272,
+                  "interval_duration_seconds_float": 372.0,
+                  "datetime_string": "2024-06-29T11:50:25.000+02:00"
+                },
+                {
+                  "speed_meters_per_second_float": 1.4166666269302368,
+                  "interval_duration_seconds_float": 81.0,
+                  "datetime_string": "2024-06-29T11:51:47.000+02:00"
+                },
+                {
+                  "speed_meters_per_second_float": 1.4154545068740845,
+                  "interval_duration_seconds_float": 103.0,
+                  "datetime_string": "2024-06-29T11:53:30.000+02:00"
+                },
+                {
+                  "speed_meters_per_second_float": 1.0555555820465088,
+                  "interval_duration_seconds_float": 8475.0,
+                  "datetime_string": "2024-06-29T14:14:46.000+02:00"
+                },
+                {
+                  "speed_meters_per_second_float": 1.4478195905685425,
+                  "interval_duration_seconds_float": 59.0,
+                  "datetime_string": "2024-06-29T14:15:45.000+02:00"
+                },
+                {
+                  "speed_meters_per_second_float": 1.3611111640930176,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-29T14:16:45.000+02:00"
+                },
+                {
+                  "speed_meters_per_second_float": 1.1666666269302368,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-29T14:17:45.000+02:00"
+                },
+                {
+                  "speed_meters_per_second_float": 1.187516689300537,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-29T14:18:45.000+02:00"
+                },
+                {
+                  "speed_meters_per_second_float": 1.3125,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-29T14:19:45.000+02:00"
+                },
+                {
+                  "speed_meters_per_second_float": 1.3333333730697632,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-29T14:20:45.000+02:00"
+                },
+                {
+                  "speed_meters_per_second_float": 1.25,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-29T14:21:45.000+02:00"
+                },
+                {
+                  "speed_meters_per_second_float": 1.1900120973587036,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-29T14:22:45.000+02:00"
+                },
+                {
+                  "speed_meters_per_second_float": 1.3514024019241333,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-29T14:23:45.000+02:00"
+                },
+                {
+                  "speed_meters_per_second_float": 1.4176485538482666,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-29T14:24:45.000+02:00"
+                },
+                {
+                  "speed_meters_per_second_float": 1.3954997062683105,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-29T14:25:45.000+02:00"
+                },
+                {
+                  "speed_meters_per_second_float": 1.4188313484191895,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-29T14:26:45.000+02:00"
+                },
+                {
+                  "speed_meters_per_second_float": 1.410668969154358,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-29T14:27:45.000+02:00"
+                },
+                {
+                  "speed_meters_per_second_float": 1.3388062715530396,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-29T14:28:45.000+02:00"
+                },
+                {
+                  "speed_meters_per_second_float": 1.3888888359069824,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-29T14:29:45.000+02:00"
+                },
+                {
+                  "speed_meters_per_second_float": 1.3333333730697632,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-29T14:30:45.000+02:00"
+                },
+                {
+                  "speed_meters_per_second_float": 1.419335961341858,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-29T14:31:45.000+02:00"
+                },
+                {
+                  "speed_meters_per_second_float": 1.3888888359069824,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-29T14:32:45.000+02:00"
+                },
+                {
+                  "speed_meters_per_second_float": 1.3464787006378174,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-29T14:33:45.000+02:00"
+                },
+                {
+                  "speed_meters_per_second_float": 1.2516456842422485,
+                  "interval_duration_seconds_float": 867.0,
+                  "datetime_string": "2024-06-29T14:48:12.000+02:00"
+                },
+                {
+                  "speed_meters_per_second_float": 1.2653319835662842,
+                  "interval_duration_seconds_float": 59.0,
+                  "datetime_string": "2024-06-29T14:49:11.000+02:00"
+                },
+                {
+                  "speed_meters_per_second_float": 1.3686686754226685,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-29T14:50:11.000+02:00"
+                },
+                {
+                  "speed_meters_per_second_float": 1.3458333015441895,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-29T14:51:11.000+02:00"
+                },
+                {
+                  "speed_meters_per_second_float": 1.3536702394485474,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-29T14:52:11.000+02:00"
+                },
+                {
+                  "speed_meters_per_second_float": 1.3376628160476685,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-29T14:53:11.000+02:00"
+                },
+                {
+                  "speed_meters_per_second_float": 1.3333333730697632,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-29T14:54:11.000+02:00"
+                },
+                {
+                  "speed_meters_per_second_float": 1.3476643562316895,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-29T14:55:11.000+02:00"
+                },
+                {
+                  "speed_meters_per_second_float": 1.3333333730697632,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-29T14:56:11.000+02:00"
+                },
+                {
+                  "speed_meters_per_second_float": 1.3055555820465088,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-29T14:57:11.000+02:00"
+                },
+                {
+                  "speed_meters_per_second_float": 1.2231049537658691,
+                  "interval_duration_seconds_float": 60.0,
+                  "datetime_string": "2024-06-29T14:58:11.000+02:00"
+                },
+                {
+                  "speed_meters_per_second_float": 1.4415631294250488,
+                  "interval_duration_seconds_float": 86.0,
+                  "datetime_string": "2024-06-29T14:59:38.000+02:00"
+                }
+              ],
+              "velocity_avg_object": {
+                "speed_meters_per_second_float": null,
+                "direction_string": null
+              },
+              "velocity_maximum_object": {
+                "speed_meters_per_second_float": null,
+                "direction_string": null
+              },
+              "pace_avg_min_per_km_float": null,
+              "pace_maximum_min_per_km_float": null,
+              "cadence_avg_rpm_float": null,
+              "cadence_maximum_rpm_float": null,
+              "cadence_granular_data_array": [],
+              "torque_avg_newton_meters_float": null,
+              "torque_maximum_newton_meters_float": null,
+              "torque_granular_data_array": [],
+              "lap_granular_data_array": []
+            },
+            "power": {
+              "power_avg_watts_float": null,
+              "power_maximum_watts_float": null,
+              "power_granular_data_array": []
+            },
+            "position": {
+              "position_start_object": {
+                "lat_deg_float": null,
+                "lng_deg_float": null
+              },
+              "position_centroid_object": {
+                "lat_deg_float": null,
+                "lng_deg_float": null
+              },
+              "position_end_object": {
+                "lat_deg_float": null,
+                "lng_deg_float": null
+              },
+              "position_granular_data_array": [],
+              "position_polyline_map_data_summary_string": null
+            },
+            "oxygenation": {
+              "saturation_avg_percentage_int": null,
+              "saturation_granular_data_array": [],
+              "vo2max_mL_per_min_per_kg_int": null,
+              "vo2_granular_data_array": []
+            },
+            "stress": {
+              "stress_at_rest_duration_seconds_int": null,
+              "stress_duration_seconds_int": null,
+              "low_stress_duration_seconds_int": null,
+              "medium_stress_duration_seconds_int": null,
+              "high_stress_duration_seconds_int": null,
+              "tss_granular_data_array": [],
+              "stress_avg_level_int": null,
+              "stress_maximum_level_int": null
+            },
+            "non_structured_data_array": []
+          }
+        ]
+      }
+    }
+  }
